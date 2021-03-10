@@ -59,10 +59,10 @@ The structure:
 * .gitignore
 * graph_nyc_crashes_streets.png
 
-**README.md:**
+`README.md`
 You are reading it now. It is important to read the whole file before forking or cloning.
 
-**data_clean_GOOD_ENOUGH.csv:**
+`**data_clean_GOOD_ENOUGH.csv`
 This file is a good enough cleaned version of the original dataset that was received. This file gives a rough information about the most dangerous streets of New York. A lot of missing values were discarded to get to this version of the dataset. Hence, the accuracy is not very high. However, this cleaned dataset still gives a good indication of the most dangerous streets. To decide which streets are the most dangerous, number of people who were injured and number of people who were killed were used as indicators.
 
 **data_clean_GOOD_ENOUGH.ipynb:**
