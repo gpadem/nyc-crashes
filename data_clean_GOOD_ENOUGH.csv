@@ -1,0 +1,4121 @@
+on_street_name,number_of_persons_injured,number_of_persons_killed,number_of_persons_harmed
+BELT PARKWAY                    ,937,5,942
+GRAND CENTRAL PKWY              ,472,2,474
+BROOKLYN QUEENS EXPRESSWAY      ,448,3,451
+LONG ISLAND EXPRESSWAY          ,427,2,429
+FDR DRIVE                       ,388,2,390
+MAJOR DEEGAN EXPRESSWAY         ,361,3,364
+BROADWAY                        ,340,1,341
+ATLANTIC AVENUE                 ,311,2,313
+VAN WYCK EXPWY                  ,308,1,309
+CROSS BRONX EXPY                ,302,2,304
+LINDEN BOULEVARD                ,283,2,285
+BRUCKNER EXPRESSWAY             ,262,4,266
+CROSS ISLAND PARKWAY            ,253,4,257
+JACKIE ROBINSON PKWY            ,223,1,224
+3 AVENUE                        ,217,2,219
+BRONX RIVER PARKWAY             ,200,1,201
+FLATBUSH AVENUE                 ,192,0,192
+BRUCKNER BOULEVARD              ,185,4,189
+NORTHERN BOULEVARD              ,183,1,184
+JAMAICA AVENUE                  ,172,2,174
+UTICA AVENUE                    ,168,1,169
+BEDFORD AVENUE                  ,162,0,162
+QUEENS BOULEVARD                ,161,0,161
+2 AVENUE                        ,155,1,156
+HENRY HUDSON PARKWAY            ,149,6,155
+NORTH CONDUIT AVENUE            ,149,0,149
+EASTERN PARKWAY                 ,144,0,144
+MYRTLE AVENUE                   ,142,1,143
+VERRAZANO BRIDGE UPPER          ,143,0,143
+NOSTRAND AVENUE                 ,141,0,141
+ROCKAWAY BOULEVARD              ,137,4,141
+BUSHWICK AVENUE                 ,140,0,140
+5 AVENUE                        ,132,2,134
+HYLAN BOULEVARD                 ,133,1,134
+STATEN ISLAND EXPRESSWAY        ,133,1,134
+GRAND CONCOURSE                 ,130,3,133
+JEROME AVENUE                   ,131,1,132
+WEBSTER AVENUE                  ,130,0,130
+LIBERTY AVENUE                  ,127,1,128
+KINGS HIGHWAY                   ,128,0,128
+SUTTER AVENUE                   ,124,0,124
+PENNSYLVANIA AVENUE             ,121,0,121
+WOODHAVEN BOULEVARD             ,116,3,119
+7 AVENUE                        ,113,3,116
+8 AVENUE                        ,114,2,116
+1 AVENUE                        ,112,0,112
+METROPOLITAN AVENUE             ,109,2,111
+FULTON STREET                   ,109,1,110
+EAST TREMONT AVENUE             ,104,1,105
+BOSTON ROAD                     ,101,2,103
+SOUTH CONDUIT AVENUE            ,100,2,102
+PARK AVENUE                     ,100,1,101
+MERRICK BOULEVARD               ,99,0,99
+GOWANUS EXPY (BQE)              ,97,0,97
+WEST FORDHAM ROAD               ,95,0,95
+WHITESTONE EXPRESSWAY           ,93,1,94
+HUTCHINSON RIVER PARKWAY        ,92,0,92
+EAST GUN HILL ROAD              ,90,0,90
+CHURCH AVENUE                   ,90,0,90
+AMSTERDAM AVENUE                ,89,0,89
+HARLEM RIVER DRIVE              ,86,1,87
+SOUTHERN BOULEVARD              ,87,0,87
+WHITE PLAINS ROAD               ,86,1,87
+WESTCHESTER AVENUE              ,83,1,84
+BEACH CHANNEL DRIVE             ,84,0,84
+ROCKAWAY PARKWAY                ,77,3,80
+PITKIN AVENUE                   ,80,0,80
+RALPH AVENUE                    ,77,0,77
+EAST 138 STREET                 ,76,1,77
+SPRINGFIELD BOULEVARD           ,74,1,75
+SAINT NICHOLAS AVENUE           ,74,0,74
+FLUSHING AVENUE                 ,74,0,74
+REMSEN AVENUE                   ,73,0,73
+HILLSIDE AVENUE                 ,72,0,72
+OCEAN AVENUE                    ,70,1,71
+RICHMOND AVENUE                 ,71,0,71
+CROSS BAY BOULEVARD             ,69,1,70
+CLEARVIEW EXPRESSWAY            ,70,0,70
+OCEAN PARKWAY                   ,68,2,70
+BRONX WHITESTONE BRIDGE         ,69,0,69
+4 AVENUE                        ,69,0,69
+LAURELTON PARKWAY               ,69,0,69
+FRANCIS LEWIS BOULEVARD         ,66,1,67
+LEXINGTON AVENUE                ,67,0,67
+NASSAU EXPRESSWAY               ,67,0,67
+FARMERS BOULEVARD               ,65,1,66
+FLATLANDS AVENUE                ,65,1,66
+ROCKAWAY AVENUE                 ,65,1,66
+MAIN STREET                     ,65,0,65
+ASTORIA BOULEVARD               ,65,0,65
+CROSS BRONX EXPRESSWAY          ,63,0,63
+VANWYCK EXPRESSWAY              ,62,0,62
+TRIBOROUGH BRIDGE               ,60,0,60
+FOREST AVENUE                   ,60,0,60
+COLLEGE POINT BOULEVARD         ,57,3,60
+GRAND CENTRAL PARKWAY           ,60,0,60
+EAST 149 STREET                 ,59,0,59
+AVENUE OF THE AMERICAS          ,55,3,58
+EAST FORDHAM ROAD               ,58,0,58
+UNION TURNPIKE                  ,56,0,56
+BEVERLEY ROAD                   ,55,0,55
+BROOKLYN BRIDGE                 ,55,0,55
+65 STREET                       ,54,0,54
+11 AVENUE                       ,53,0,53
+34 AVENUE                       ,53,0,53
+EAST 161 STREET                 ,52,0,52
+WEST 145 STREET                 ,52,0,52
+ROOSEVELT AVENUE                ,51,1,52
+CONEY ISLAND AVENUE             ,49,2,51
+PARSONS BOULEVARD               ,51,0,51
+DE KALB AVENUE                  ,51,0,51
+GOWANUS RAMP                    ,51,0,51
+86 STREET                       ,51,0,51
+21 STREET                       ,51,0,51
+LENOX AVENUE                    ,49,1,50
+EAST HOUSTON STREET             ,50,0,50
+AVENUE L                        ,50,0,50
+ARTHUR KILL ROAD                ,49,0,49
+LAFAYETTE AVENUE                ,49,0,49
+EAST 233 STREET                 ,49,0,49
+ROGERS AVENUE                   ,48,1,49
+BROOKLYN AVENUE                 ,48,0,48
+MADISON AVENUE                  ,48,0,48
+FARRAGUT ROAD                   ,47,0,47
+MAJOR DEEGAN EXPRESSWAY RAMP    ,47,0,47
+EAST 135 STREET                 ,47,0,47
+ALBANY AVENUE                   ,46,0,46
+10 AVENUE                       ,46,0,46
+NEW YORK AVENUE                 ,45,0,45
+UNIVERSITY AVENUE               ,45,0,45
+GRAND AVENUE                    ,44,1,45
+SCHENECTADY AVENUE              ,44,0,44
+GRAND STREET                    ,44,0,44
+HORACE HARDING EXPRESSWAY       ,44,0,44
+RICHMOND ROAD                   ,43,0,43
+AVENUE J                        ,43,0,43
+DELANCEY STREET                 ,43,0,43
+WASHINGTON AVENUE               ,43,0,43
+MORRIS AVENUE                   ,43,0,43
+101 AVENUE                      ,42,0,42
+164 STREET                      ,42,0,42
+20 AVENUE                       ,42,0,42
+BORDEN AVENUE                   ,41,0,41
+THROGS NECK BRIDGE              ,41,0,41
+14 AVENUE                       ,40,0,40
+CANAL STREET                    ,40,0,40
+VICTORY BOULEVARD               ,40,0,40
+NEW ENGLAND THRUWAY             ,38,1,39
+CYPRESS AVENUE                  ,39,0,39
+31 STREET                       ,38,1,39
+9 AVENUE                        ,39,0,39
+FOSTER AVENUE                   ,39,0,39
+KISSENA BOULEVARD               ,38,0,38
+150 STREET                      ,38,0,38
+108 STREET                      ,37,1,38
+SAINT JOHNS PLACE               ,38,0,38
+GLENWOOD ROAD                   ,38,0,38
+WEST 125 STREET                 ,37,0,37
+WEST SHORE EXPRESSWAY           ,37,0,37
+RICHMOND TERRACE                ,37,0,37
+EMPIRE BOULEVARD                ,37,0,37
+KNICKERBOCKER AVENUE            ,37,0,37
+EAST NEW YORK AVENUE            ,37,0,37
+31 AVENUE                       ,35,1,36
+BROOKLYN QUEENS EXPRESSWAY RAMP ,36,0,36
+CLARENDON ROAD                  ,36,0,36
+SARATOGA AVENUE                 ,36,0,36
+CENTRAL AVENUE                  ,35,1,36
+VERRAZANO BRIDGE LOWER          ,36,0,36
+HEGEMAN AVENUE                  ,36,0,36
+WEST STREET                     ,35,0,35
+BAY PARKWAY                     ,35,0,35
+RIVERSIDE DRIVE                 ,35,0,35
+MC DONALD AVENUE                ,35,0,35
+SNYDER AVENUE                   ,35,0,35
+WINTHROP STREET                 ,34,1,35
+CASTLE HILL AVENUE              ,35,0,35
+PROSPECT EXPRESSWAY EAST        ,34,0,34
+BROOKVILLE BOULEVARD            ,34,0,34
+HOWARD AVENUE                   ,34,0,34
+WILSON AVENUE                   ,34,0,34
+NEPTUNE AVENUE                  ,34,0,34
+BREWER BOULEVARD                ,33,0,33
+EAST 180 STREET                 ,33,0,33
+CROPSEY AVENUE                  ,33,0,33
+NEW LOTS AVENUE                 ,33,0,33
+DUMONT AVENUE                   ,32,0,32
+BLAKE AVENUE                    ,32,0,32
+VERNON BOULEVARD                ,32,0,32
+EAST 116 STREET                 ,32,0,32
+JUNCTION BOULEVARD              ,32,0,32
+FLATBUSH AVENUE EXTENSION       ,32,0,32
+69 STREET                       ,32,0,32
+AVENUE U                        ,32,0,32
+LEFFERTS BOULEVARD              ,32,0,32
+ALLERTON AVENUE                 ,32,0,32
+STILLWELL AVENUE                ,31,0,31
+60 STREET                       ,31,0,31
+AVENUE D                        ,31,0,31
+SEDGWICK AVENUE                 ,30,1,31
+WEST 155 STREET                 ,30,1,31
+CRESCENT STREET                 ,31,0,31
+EAST 125 STREET                 ,31,0,31
+ELIOT AVENUE                    ,31,0,31
+LACONIA AVENUE                  ,31,0,31
+21 AVENUE                       ,30,0,30
+AVENUE M                        ,30,0,30
+ROCKAWAY BEACH BOULEVARD        ,30,0,30
+BOYLAND STREET                  ,30,0,30
+EAST 174 STREET                 ,29,1,30
+EAST 163 STREET                 ,30,0,30
+EAST 165 STREET                 ,30,0,30
+SEAGIRT BOULEVARD               ,28,1,29
+35 AVENUE                       ,28,1,29
+111 AVENUE                      ,29,0,29
+EAST 96 STREET                  ,29,0,29
+LIVONIA AVENUE                  ,29,0,29
+SHORE PARKWAY                   ,28,0,28
+115 AVENUE                      ,28,0,28
+CROSS BRONX EXPY RAMP           ,27,1,28
+SUTPHIN BOULEVARD               ,28,0,28
+WEST 34 STREET                  ,28,0,28
+UTOPIA PARKWAY                  ,28,0,28
+6 AVENUE                        ,28,0,28
+AVENUE T                        ,28,0,28
+VANDERBILT AVENUE               ,28,0,28
+SOUTH AVENUE                    ,28,0,28
+EAST 80 STREET                  ,28,0,28
+120 AVENUE                      ,28,0,28
+FRANKLIN AVENUE                 ,28,0,28
+99 STREET                       ,26,1,27
+AVENUE N                        ,26,1,27
+MANHATTAN AVENUE                ,27,0,27
+37 AVENUE                       ,27,0,27
+AVENUE K                        ,27,0,27
+135 AVENUE                      ,26,1,27
+HEMPSTEAD AVENUE                ,26,0,26
+CENTRAL PARK WEST               ,26,0,26
+GATES AVENUE                    ,26,0,26
+18 AVENUE                       ,26,0,26
+12 AVENUE                       ,26,0,26
+WILLIAMSBURG BRIDGE OUTER ROADWA,26,0,26
+BAY STREET                      ,26,0,26
+HAMILTON AVENUE                 ,26,0,26
+SURF AVENUE                     ,25,0,25
+WEST 207 STREET                 ,25,0,25
+CORTELYOU ROAD                  ,24,1,25
+BROOK AVENUE                    ,25,0,25
+UNION STREET                    ,25,0,25
+111 STREET                      ,25,0,25
+BELT PARKWAY RAMP               ,25,0,25
+GRAHAM AVENUE                   ,25,0,25
+SAINT ANNS AVENUE               ,25,0,25
+RIVER AVENUE                    ,24,0,24
+ROCHESTER AVENUE                ,24,0,24
+CLARKSON AVENUE                 ,24,0,24
+EASTCHESTER ROAD                ,24,0,24
+23 AVENUE                       ,24,0,24
+EAST 34 STREET                  ,24,0,24
+BAYCHESTER AVENUE               ,24,0,24
+GREENPOINT AVENUE               ,24,0,24
+BUFFALO AVENUE                  ,24,0,24
+EVERGREEN AVENUE                ,24,0,24
+BRONX RIVER PARKWAY RAMP        ,22,2,24
+TOMPKINS AVENUE                 ,24,0,24
+103 AVENUE                      ,24,0,24
+FORT HAMILTON PARKWAY           ,24,0,24
+BARTOW AVENUE                   ,23,0,23
+WEST 135 STREET                 ,23,0,23
+NEW UTRECHT AVENUE              ,23,0,23
+46 STREET                       ,23,0,23
+AMBOY ROAD                      ,23,0,23
+MORRIS PARK AVENUE              ,23,0,23
+109 AVENUE                      ,23,0,23
+39 STREET                       ,22,1,23
+13 AVENUE                       ,23,0,23
+FOCH BOULEVARD                  ,23,0,23
+BLEECKER STREET                 ,23,0,23
+BAISLEY BOULEVARD               ,23,0,23
+CROTONA AVENUE                  ,20,2,22
+WALTON AVENUE                   ,22,0,22
+MOSHOLU PARKWAY                 ,22,0,22
+NEWKIRK AVENUE                  ,22,0,22
+107 AVENUE                      ,22,0,22
+COOPER AVENUE                   ,22,0,22
+BAY RIDGE PARKWAY               ,22,0,22
+147 STREET                      ,22,0,22
+80 STREET                       ,22,0,22
+81 STREET                       ,22,0,22
+130 STREET                      ,22,0,22
+LENOX ROAD                      ,22,0,22
+IRVING AVENUE                   ,22,0,22
+KINGSTON AVENUE                 ,22,0,22
+DITMARS BOULEVARD               ,22,0,22
+QUEENS PLAZA SOUTH              ,22,0,22
+UNION AVENUE                    ,22,0,22
+STANLEY AVENUE                  ,22,0,22
+PROSPECT AVENUE                 ,21,0,21
+73 AVENUE                       ,20,1,21
+BELMONT AVENUE                  ,21,0,21
+SEAVIEW AVENUE                  ,21,0,21
+CLASSON AVENUE                  ,21,0,21
+TILDEN AVENUE                   ,21,0,21
+BOWERY                          ,21,0,21
+STONE AVENUE                    ,21,0,21
+RIVERDALE AVENUE                ,21,0,21
+MEEKER AVENUE                   ,21,0,21
+EXTERIOR STREET                 ,21,0,21
+INTERVALE AVENUE                ,21,0,21
+GLENMORE AVENUE                 ,21,0,21
+WEST DRIVE                      ,20,1,21
+EAST BURNSIDE AVENUE            ,21,0,21
+CAPODANNO BOULEVARD             ,20,0,20
+QUEENS MIDTOWN TUNNEL           ,20,0,20
+SUNRISE HIGHWAY                 ,20,0,20
+ROSEDALE AVENUE                 ,20,0,20
+AVENUE Y                        ,20,0,20
+HOOK CREEK BOULEVARD            ,20,0,20
+97 STREET                       ,20,0,20
+RIDGEWOOD AVENUE                ,20,0,20
+WEST 230 STREET                 ,20,0,20
+TROY AVENUE                     ,20,0,20
+WATSON AVENUE                   ,20,0,20
+78 STREET                       ,20,0,20
+WEST TREMONT AVENUE             ,20,0,20
+AUDUBON AVENUE                  ,20,0,20
+KENT AVENUE                     ,20,0,20
+JACKSON AVENUE                  ,20,0,20
+THROOP AVENUE                   ,20,0,20
+AVENUE P                        ,20,0,20
+TARGEE STREET                   ,20,0,20
+43 AVENUE                       ,20,0,20
+43 STREET                       ,19,0,19
+48 STREET                       ,19,0,19
+AVENUE B                        ,19,0,19
+LEWIS AVENUE                    ,19,0,19
+ARDEN AVENUE                    ,18,1,19
+WYTHE AVENUE                    ,19,0,19
+HALSEY STREET                   ,19,0,19
+MADISON STREET                  ,19,0,19
+49 STREET                       ,19,0,19
+COZINE AVENUE                   ,19,0,19
+ROCKAWAY FREEWAY                ,18,1,19
+FRESH POND ROAD                 ,19,0,19
+82 STREET                       ,19,0,19
+168 STREET                      ,19,0,19
+EAST 37 STREET                  ,19,0,19
+HENRY HUDSON PARKWAY RAMP       ,19,0,19
+WEST BURNSIDE AVENUE            ,19,0,19
+STEINWAY STREET                 ,19,0,19
+AVENUE S                        ,19,0,19
+NAGLE AVENUE                    ,19,0,19
+PELHAM PARKWAY SOUTH            ,19,0,19
+WEST 141 STREET                 ,19,0,19
+BRONXWOOD AVENUE                ,19,0,19
+AVENUE X                        ,19,0,19
+92 STREET                       ,19,0,19
+QUEENSBORO BRIDGE UPPER         ,18,0,18
+188 STREET                      ,18,0,18
+EAST 179 STREET                 ,18,0,18
+EAST 23 STREET                  ,18,0,18
+VANDAM STREET                   ,18,0,18
+EAST 167 STREET                 ,18,0,18
+149 STREET                      ,18,0,18
+AVENUE I                        ,18,0,18
+COLUMBUS AVENUE                 ,18,0,18
+SHERMAN AVENUE                  ,18,0,18
+SHERIDAN EXPRESSWAY             ,18,0,18
+BARNES AVENUE                   ,18,0,18
+QUENTIN ROAD                    ,18,0,18
+WILLIAMS AVENUE                 ,18,0,18
+TILLARY STREET                  ,18,0,18
+CYPRESS HILLS STREET            ,18,0,18
+94 STREET                       ,17,0,17
+99 AVENUE                       ,17,0,17
+BELL BOULEVARD                  ,17,0,17
+PAULDING AVENUE                 ,17,0,17
+EAST 222 STREET                 ,17,0,17
+37 STREET                       ,17,0,17
+EAST 92 STREET                  ,17,0,17
+WILLIAMSBRIDGE ROAD             ,17,0,17
+CLOVE ROAD                      ,15,2,17
+KOREAN WAR VETS PARKWAY         ,17,0,17
+32 AVENUE                       ,17,0,17
+89 AVENUE                       ,17,0,17
+EAST 176 STREET                 ,17,0,17
+EAST 87 STREET                  ,17,0,17
+DITMAS AVENUE                   ,17,0,17
+33 STREET                       ,17,0,17
+MC GUINNESS BOULEVARD           ,16,1,17
+WEST 170 STREET                 ,17,0,17
+AVENUE Z                        ,17,0,17
+BAY RIDGE AVENUE                ,16,0,16
+51 STREET                       ,16,0,16
+MARCY AVENUE                    ,16,0,16
+68 STREET                       ,16,0,16
+MACOMBS DAM BRIDGE              ,16,0,16
+NARROWS ROAD NORTH              ,16,0,16
+LORIMER STREET                  ,16,0,16
+WILLIS AVE BRIDGE               ,16,0,16
+LIVINGSTON STREET               ,16,0,16
+EAST 59 STREET                  ,16,0,16
+EUCLID AVENUE                   ,16,0,16
+58 STREET                       ,16,0,16
+PELHAM PARKWAY                  ,16,0,16
+85 STREET                       ,16,0,16
+EAST 42 STREET                  ,16,0,16
+WEST 181 STREET                 ,16,0,16
+MARCUS GARVEY BOULEVARD         ,16,0,16
+RUTLAND ROAD                    ,16,0,16
+HUNTS POINT AVENUE              ,15,1,16
+REID AVENUE                     ,16,0,16
+CATON AVENUE                    ,16,0,16
+EAST 169 STREET                 ,16,0,16
+FRANKLIN STREET                 ,15,1,16
+127 STREET                      ,16,0,16
+FEATHERBED LANE                 ,16,0,16
+AVENUE R                        ,15,0,15
+146 STREET                      ,15,0,15
+EAST BEDFORD PARK BOULEVARD     ,15,0,15
+LOTT AVENUE                     ,15,0,15
+OGDEN AVENUE                    ,15,0,15
+TIFFANY STREET                  ,14,1,15
+BERGEN STREET                   ,15,0,15
+DECATUR STREET                  ,15,0,15
+EAST 106 STREET                 ,15,0,15
+EAST 86 STREET                  ,15,0,15
+SANFORD AVENUE                  ,15,0,15
+EAST 14 STREET                  ,14,1,15
+WEST 57 STREET                  ,15,0,15
+AVENUE V                        ,14,1,15
+50 STREET                       ,15,0,15
+AVENUE O                        ,15,0,15
+SLOSSON AVENUE                  ,15,0,15
+AVENUE H                        ,15,0,15
+FILLMORE AVENUE                 ,15,0,15
+DYCKMAN STREET                  ,15,0,15
+EAST 184 STREET                 ,15,0,15
+PEARL STREET                    ,15,0,15
+BRONX RIVER AVENUE              ,15,0,15
+45 AVENUE                       ,15,0,15
+QUEENSBORO BRIDGE               ,15,0,15
+VALENTINE AVENUE                ,15,0,15
+MAURICE AVENUE                  ,15,0,15
+CONNER STREET                   ,15,0,15
+HUMBOLDT STREET                 ,14,0,14
+YORK AVENUE                     ,14,0,14
+16 AVENUE                       ,14,0,14
+102 STREET                      ,14,0,14
+NEWPORT STREET                  ,14,0,14
+EAST 196 STREET                 ,14,0,14
+BRONX PARK EAST                 ,14,0,14
+MURDOCK AVENUE                  ,14,0,14
+133 AVENUE                      ,14,0,14
+30 AVENUE                       ,14,0,14
+222 STREET                      ,14,0,14
+EAST 228 STREET                 ,14,0,14
+EAST 177 STREET                 ,14,0,14
+15 AVENUE                       ,14,0,14
+FDR DRIVE RAMP                  ,14,0,14
+VAN SICLEN AVENUE               ,14,0,14
+PACIFIC STREET                  ,14,0,14
+19 AVENUE                       ,14,0,14
+SHORE BOULEVARD                 ,14,0,14
+155 STREET                      ,14,0,14
+EAST 170 STREET                 ,13,0,13
+66 STREET                       ,13,0,13
+70 STREET                       ,13,0,13
+LITTLE NECK PARKWAY             ,13,0,13
+MOTT AVENUE                     ,13,0,13
+SHORE ROAD                      ,12,1,13
+147 AVENUE                      ,13,0,13
+DEAN STREET                     ,13,0,13
+GERARD AVENUE                   ,13,0,13
+74 STREET                       ,13,0,13
+MANOR ROAD                      ,12,1,13
+EDGECOMBE AVENUE                ,13,0,13
+PARKSIDE AVENUE                 ,13,0,13
+KINGSLAND AVENUE                ,13,0,13
+HICKS STREET                    ,13,0,13
+RANDALL AVENUE                  ,13,0,13
+129 STREET                      ,13,0,13
+47 STREET                       ,13,0,13
+WORTMAN AVENUE                  ,13,0,13
+137 AVENUE                      ,13,0,13
+104 STREET                      ,13,0,13
+PARK PLACE                      ,13,0,13
+84 STREET                       ,13,0,13
+EAST 12 STREET                  ,13,0,13
+EAST 51 STREET                  ,13,0,13
+PROSPECT EXPRESSWAY RAMP        ,13,0,13
+160 STREET                      ,13,0,13
+BAINBRIDGE AVENUE               ,13,0,13
+HARLEM RIVER DRIVE RAMP         ,13,0,13
+59 STREET                       ,13,0,13
+ARCHER AVENUE                   ,13,0,13
+WEST 42 STREET                  ,12,0,12
+CONDUIT BOULEVARD               ,11,1,12
+ALLEN STREET                    ,12,0,12
+AVENUE C                        ,12,0,12
+96 STREET                       ,12,0,12
+MANHATTAN BR UPPER              ,12,0,12
+JAY STREET                      ,12,0,12
+EAST 132 STREET                 ,12,0,12
+EAST 98 STREET                  ,12,0,12
+HERKIMER STREET                 ,12,0,12
+118 AVENUE                      ,12,0,12
+CHRYSTIE STREET                 ,12,0,12
+WEST KINGSBRIDGE ROAD           ,12,0,12
+WEST 9 STREET                   ,12,0,12
+ZEREGA AVENUE                   ,12,0,12
+FOUNTAIN AVENUE                 ,12,0,12
+91 STREET                       ,12,0,12
+EAST 110 STREET                 ,12,0,12
+88 STREET                       ,12,0,12
+CLAREMONT PARKWAY               ,12,0,12
+LOGAN STREET                    ,12,0,12
+WYCKOFF AVENUE                  ,12,0,12
+EAST MOSHOLU PARKWAY SOUTH      ,12,0,12
+EAST 112 STREET                 ,12,0,12
+QUEENSBORO BRIDGE LOWER         ,12,0,12
+DAHILL ROAD                     ,12,0,12
+EAST 38 STREET                  ,12,0,12
+PARK AVENUE SOUTH               ,12,0,12
+221 STREET                      ,12,0,12
+EAST 240 STREET                 ,12,0,12
+45 STREET                       ,12,0,12
+EAST 62 STREET                  ,12,0,12
+40 STREET                       ,12,0,12
+EAST 188 STREET                 ,12,0,12
+39 AVENUE                       ,12,0,12
+QUEENSBORO BRIDGE UPPER ROADWAY ,12,0,12
+WEST 115 STREET                 ,12,0,12
+MORGAN AVENUE                   ,12,0,12
+EAST 175 STREET                 ,12,0,12
+EAST 173 STREET                 ,12,0,12
+WEST 140 STREET                 ,12,0,12
+24 STREET                       ,12,0,12
+114 STREET                      ,12,0,12
+SMITH STREET                    ,12,0,12
+CASTLETON AVENUE                ,11,0,11
+ADEE AVENUE                     ,11,0,11
+69 ROAD                         ,11,0,11
+JEWEL AVENUE                    ,11,0,11
+EMMONS AVENUE                   ,11,0,11
+ELDERTS LANE                    ,11,0,11
+90 STREET                       ,11,0,11
+SOUND VIEW AVENUE               ,11,0,11
+CITY ISLAND ROAD                ,9,2,11
+138 STREET                      ,11,0,11
+BATH AVENUE                     ,11,0,11
+WILLIAMSBURG BRIDGE INNER ROADWA,11,0,11
+EAST 53 STREET                  ,11,0,11
+STUYVESANT AVENUE               ,11,0,11
+SEWARD AVENUE                   ,11,0,11
+GERRITSEN AVENUE                ,11,0,11
+BERRY STREET                    ,11,0,11
+SENECA AVENUE                   ,11,0,11
+BAILEY AVENUE                   ,11,0,11
+122 STREET                      ,11,0,11
+SAINT MARKS AVENUE              ,11,0,11
+BOND STREET                     ,11,0,11
+AVENUE W                        ,11,0,11
+WEST 116 STREET                 ,11,0,11
+35 STREET                       ,11,0,11
+ASHFORD STREET                  ,11,0,11
+WEST 195 STREET                 ,11,0,11
+HOLLIS AVENUE                   ,11,0,11
+EAST 141 STREET                 ,11,0,11
+201 STREET                      ,11,0,11
+223 STREET                      ,11,0,11
+WEST 127 STREET                 ,11,0,11
+17 AVENUE                       ,11,0,11
+JEFFERSON STREET                ,11,0,11
+VARICK STREET                   ,11,0,11
+MILLER AVENUE                   ,11,0,11
+NEREID AVENUE                   ,11,0,11
+CLINTON STREET                  ,11,0,11
+71 STREET                       ,11,0,11
+EAST 85 STREET                  ,11,0,11
+149 AVENUE                      ,11,0,11
+71 AVENUE                       ,11,0,11
+61 STREET                       ,11,0,11
+EAST 57 STREET                  ,11,0,11
+STERLING PLACE                  ,11,0,11
+41 STREET                       ,10,0,10
+POST AVENUE                     ,10,0,10
+79 STREET                       ,10,0,10
+WILLIAMSBURG STREET WEST        ,10,0,10
+MORRISON AVENUE                 ,10,0,10
+143 AVENUE                      ,10,0,10
+44 STREET                       ,10,0,10
+EAST 181 STREET                 ,10,0,10
+HUGUENOT AVENUE                 ,10,0,10
+EAST 139 STREET                 ,10,0,10
+ERSKINE STREET                  ,10,0,10
+LONG ISLAND EXPRESSWAY (CDR)    ,10,0,10
+130 AVENUE                      ,10,0,10
+HINSDALE STREET                 ,10,0,10
+EAST 99 STREET                  ,10,0,10
+WEST 131 STREET                 ,10,0,10
+WILLIS AVENUE                   ,10,0,10
+EAST 178 STREET                 ,10,0,10
+126 STREET                      ,10,0,10
+116 AVENUE                      ,10,0,10
+WEST 169 STREET                 ,10,0,10
+VERRAZANO BRIDGE                ,10,0,10
+SKILLMAN AVENUE                 ,10,0,10
+177 STREET                      ,10,0,10
+24 AVENUE                       ,9,1,10
+AUSTIN STREET                   ,10,0,10
+SHELL ROAD                      ,10,0,10
+EAST 172 STREET                 ,10,0,10
+DAVIDSON AVENUE                 ,10,0,10
+ARLINGTON AVENUE                ,10,0,10
+ROCKLAND AVENUE                 ,10,0,10
+199 STREET                      ,10,0,10
+CHAMBERS STREET                 ,10,0,10
+FOREST HILL ROAD                ,10,0,10
+EAST 241 STREET                 ,10,0,10
+76 STREET                       ,10,0,10
+STORY AVENUE                    ,10,0,10
+81 AVENUE                       ,10,0,10
+CLEVELAND STREET                ,10,0,10
+KNAPP STREET                    ,10,0,10
+WILLOUGHBY AVENUE               ,10,0,10
+57 STREET                       ,10,0,10
+EAST 27 STREET                  ,10,0,10
+ORCHARD BEACH ROAD              ,10,0,10
+91 AVENUE                       ,10,0,10
+EAST 29 STREET                  ,10,0,10
+LEFFERTS AVENUE                 ,10,0,10
+PATCHEN AVENUE                  ,10,0,10
+ROEBLING STREET                 ,9,0,9
+CORONA AVENUE                   ,9,0,9
+CHESTER STREET                  ,8,1,9
+55 STREET                       ,9,0,9
+WEST 6 STREET                   ,9,0,9
+65 PLACE                        ,9,0,9
+CARPENTER AVENUE                ,8,1,9
+BROOKLYN BATTERY TUNNEL         ,9,0,9
+28 AVENUE                       ,9,0,9
+WEST 179 STREET                 ,9,0,9
+KOSCIUSZKO STREET               ,9,0,9
+57 AVENUE                       ,9,0,9
+BOERUM PLACE                    ,9,0,9
+28 STREET                       ,9,0,9
+EAST 36 STREET                  ,9,0,9
+HANCOCK STREET                  ,9,0,9
+WATER STREET                    ,9,0,9
+56 STREET                       ,9,0,9
+EAST 117 STREET                 ,9,0,9
+WEST 239 STREET                 ,9,0,9
+EAST 17 STREET                  ,9,0,9
+22 STREET                       ,9,0,9
+EAST 144 STREET                 ,9,0,9
+CLINTON AVENUE                  ,9,0,9
+MARION AVENUE                   ,9,0,9
+EAST 151 STREET                 ,9,0,9
+EAST 52 STREET                  ,9,0,9
+241 STREET                      ,9,0,9
+EAST DRIVE                      ,8,1,9
+23 STREET                       ,9,0,9
+WEST END AVENUE                 ,8,1,9
+UNDERHILL AVENUE                ,9,0,9
+EAST 94 STREET                  ,9,0,9
+MERMAID AVENUE                  ,9,0,9
+25 AVENUE                       ,9,0,9
+225 STREET                      ,9,0,9
+EAST 95 STREET                  ,9,0,9
+CONVENT AVENUE                  ,9,0,9
+MACOMBS ROAD                    ,9,0,9
+WEST 3 STREET                   ,9,0,9
+EAST 88 STREET                  ,9,0,9
+LINDEN PLACE                    ,9,0,9
+THOMSON AVENUE                  ,9,0,9
+HUTCHINSON RIVER PARKWAY RAMP   ,9,0,9
+COURT STREET                    ,9,0,9
+77 STREET                       ,9,0,9
+EAST 120 STREET                 ,9,0,9
+113 AVENUE                      ,9,0,9
+220 STREET                      ,9,0,9
+ALEXANDER HAMILTON BRIDGE       ,9,0,9
+42 STREET                       ,9,0,9
+95 AVENUE                       ,9,0,9
+154 STREET                      ,9,0,9
+EAST 126 STREET                 ,9,0,9
+95 STREET                       ,9,0,9
+217 STREET                      ,9,0,9
+38 AVENUE                       ,9,0,9
+219 STREET                      ,9,0,9
+MACE AVENUE                     ,9,0,9
+COOPER STREET                   ,9,0,9
+REVIEW AVENUE                   ,9,0,9
+BRONXDALE AVENUE                ,9,0,9
+WEST 132 STREET                 ,9,0,9
+WEST 50 STREET                  ,9,0,9
+LOUISIANA AVENUE                ,8,1,9
+WEST 143 STREET                 ,9,0,9
+36 AVENUE                       ,9,0,9
+EAST 60 STREET                  ,9,0,9
+EAST 104 STREET                 ,9,0,9
+ESSEX STREET                    ,9,0,9
+EAST 54 STREET                  ,8,0,8
+EAST 236 STREET                 ,8,0,8
+EAST 224 STREET                 ,8,0,8
+DRUMGOOLE ROAD EAST             ,8,0,8
+EAST 122 STREET                 ,8,0,8
+BENSON AVENUE                   ,8,0,8
+EAST 93 STREET                  ,8,0,8
+BRUNER AVENUE                   ,8,0,8
+EAST 183 STREET                 ,8,0,8
+EAST 156 STREET                 ,8,0,8
+EAST 134 STREET                 ,8,0,8
+EAST 166 STREET                 ,8,0,8
+FOSTER ROAD                     ,8,0,8
+COOP CITY BOULEVARD             ,8,0,8
+EAST 26 STREET                  ,8,0,8
+CROSBY AVENUE                   ,8,0,8
+EAST 58 STREET                  ,7,1,8
+COLONIAL ROAD                   ,8,0,8
+FOREST PARK DRIVE               ,8,0,8
+EAST 18 STREET                  ,8,0,8
+CROMWELL AVENUE                 ,8,0,8
+DE WITT AVENUE                  ,7,1,8
+EAST BAY AVENUE                 ,8,0,8
+COLUMBIA STREET                 ,8,0,8
+BECK STREET                     ,8,0,8
+EAST 63 STREET                  ,8,0,8
+EAST 84 STREET                  ,8,0,8
+EAST 39 STREET                  ,8,0,8
+CRESTON AVENUE                  ,8,0,8
+100 STREET                      ,8,0,8
+EAST 168 STREET                 ,8,0,8
+EAST 35 STREET                  ,8,0,8
+75 AVENUE                       ,8,0,8
+AVENUE A                        ,8,0,8
+ALBEMARLE ROAD                  ,8,0,8
+112 STREET                      ,8,0,8
+212 STREET                      ,8,0,8
+TAPSCOTT STREET                 ,8,0,8
+THIRD AVE BRIDGE                ,8,0,8
+TYSENS LANE                     ,8,0,8
+173 STREET                      ,8,0,8
+172 STREET                      ,8,0,8
+NORTH GANNON AVENUE             ,8,0,8
+WALKER STREET                   ,8,0,8
+97 AVENUE                       ,8,0,8
+105 STREET                      ,8,0,8
+ALABAMA AVENUE                  ,8,0,8
+WEST 126 STREET                 ,8,0,8
+WEST 129 STREET                 ,8,0,8
+WEST 130 STREET                 ,8,0,8
+SOUTH STREET                    ,8,0,8
+SHERIDAN AVENUE                 ,8,0,8
+69 AVENUE                       ,8,0,8
+WILLIAMSBURG BRIDGE             ,8,0,8
+OAK POINT AVENUE                ,7,1,8
+NEVINS STREET                   ,8,0,8
+PARK LANE SOUTH                 ,7,1,8
+48 AVENUE                       ,8,0,8
+63 AVENUE                       ,8,0,8
+63 DRIVE                        ,8,0,8
+MORNINGSTAR ROAD                ,8,0,8
+SHEEPSHEAD BAY ROAD             ,8,0,8
+36 STREET                       ,8,0,8
+RESERVOIR AVENUE                ,8,0,8
+RHINELANDER AVENUE              ,8,0,8
+255 STREET                      ,8,0,8
+MELROSE AVENUE                  ,8,0,8
+SAYRES AVENUE                   ,8,0,8
+WEST 133 STREET                 ,8,0,8
+89 STREET                       ,8,0,8
+GREENE AVENUE                   ,8,0,8
+116 STREET                      ,8,0,8
+123 AVENUE                      ,8,0,8
+WEST 168 STREET                 ,8,0,8
+120 STREET                      ,8,0,8
+HARRISON AVENUE                 ,8,0,8
+WEST 26 STREET                  ,8,0,8
+14 STREET                       ,8,0,8
+WEST 144 STREET                 ,8,0,8
+HIGHLAND BOULEVARD              ,8,0,8
+HIMROD STREET                   ,8,0,8
+WEST 24 STREET                  ,8,0,8
+125 STREET                      ,8,0,8
+REMINGTON STREET                ,7,0,7
+RICHMOND HILL ROAD              ,7,0,7
+WEST 37 STREET                  ,7,0,7
+BRONX BOULEVARD                 ,7,0,7
+QUINCY STREET                   ,7,0,7
+WEST 139 STREET                 ,7,0,7
+134 STREET                      ,7,0,7
+CHURCH STREET                   ,7,0,7
+SHAKESPEARE AVENUE              ,7,0,7
+BRIGHTON BEACH AVENUE           ,7,0,7
+WEST 43 STREET                  ,7,0,7
+41 AVENUE                       ,7,0,7
+PULASKI STREET                  ,7,0,7
+EAST 187 STREET                 ,7,0,7
+EAST 19 STREET                  ,7,0,7
+EAST 157 STREET                 ,7,0,7
+EAST 219 STREET                 ,7,0,7
+WEST 54 STREET                  ,7,0,7
+CADMAN PLAZA WEST               ,7,0,7
+PELHAM PARKWAY NORTH            ,7,0,7
+51 AVENUE                       ,7,0,7
+BEACH 19 STREET                 ,7,0,7
+119 AVENUE                      ,7,0,7
+PALMETTO STREET                 ,7,0,7
+BRUSH AVENUE                    ,7,0,7
+EAST 43 STREET                  ,7,0,7
+EAST 45 STREET                  ,7,0,7
+WEST 236 STREET                 ,7,0,7
+CLAY AVENUE                     ,7,0,7
+EAST 150 STREET                 ,7,0,7
+COMMONWEALTH BOULEVARD          ,7,0,7
+BRADDOCK AVENUE                 ,7,0,7
+WEST 165 STREET                 ,7,0,7
+BORINQUEN PLACE                 ,7,0,7
+153 STREET                      ,7,0,7
+WEST 121 STREET                 ,7,0,7
+WEST 119 STREET                 ,7,0,7
+157 STREET                      ,7,0,7
+158 STREET                      ,7,0,7
+WEST 10 STREET                  ,7,0,7
+162 STREET                      ,7,0,7
+167 STREET                      ,7,0,7
+WEST 17 STREET                  ,7,0,7
+WADSWORTH AVENUE                ,7,0,7
+VIRGINIA AVENUE                 ,7,0,7
+WEST 171 STREET                 ,7,0,7
+EAST 142 STREET                 ,7,0,7
+COLLEGE AVENUE                  ,7,0,7
+EAST 10 STREET                  ,7,0,7
+EAST 108 STREET                 ,7,0,7
+EAST 115 STREET                 ,7,0,7
+TILLOTSON AVENUE                ,7,0,7
+WILLETS POINT BOULEVARD         ,7,0,7
+142 STREET                      ,7,0,7
+204 STREET                      ,7,0,7
+EAST 123 STREET                 ,7,0,7
+WEST 23 STREET                  ,7,0,7
+EAST 129 STREET                 ,6,1,7
+EAST 13 STREET                  ,7,0,7
+224 STREET                      ,7,0,7
+BEAVER STREET                   ,7,0,7
+56 ROAD                         ,7,0,7
+EAST 16 STREET                  ,7,0,7
+64 STREET                       ,7,0,7
+JUNIPER BOULEVARD NORTH         ,7,0,7
+WOODSIDE AVENUE                 ,7,0,7
+ARMSTRONG AVENUE                ,7,0,7
+MADISON AVE BRIDGE              ,7,0,7
+FORT WASHINGTON AVENUE          ,7,0,7
+93 AVENUE                       ,7,0,7
+ANTHONY AVENUE                  ,7,0,7
+KENMARE STREET                  ,7,0,7
+MONTGOMERY STREET               ,7,0,7
+7 AVENUE SOUTH                  ,7,0,7
+73 STREET                       ,7,0,7
+JEFFERSON AVENUE                ,7,0,7
+ETNA STREET                     ,7,0,7
+EAST 79 STREET                  ,7,0,7
+INWOOD STREET                   ,7,0,7
+EAST 82 STREET                  ,7,0,7
+MILFORD DRIVE                   ,7,0,7
+HOLLIS COURT BOULEVARD          ,7,0,7
+HOYT AVENUE NORTH               ,7,0,7
+ARNOW AVENUE                    ,7,0,7
+MARATHON PARKWAY                ,7,0,7
+NEW ENGLAND THRUWAY RAMP        ,7,0,7
+EAST 55 STREET                  ,7,0,7
+G.C.P. / L.I.E (CDR)            ,7,0,7
+11 STREET                       ,7,0,7
+NAVY STREET                     ,7,0,7
+LINCOLN AVENUE                  ,7,0,7
+DORCHESTER ROAD                 ,6,0,6
+WEST 113 STREET                 ,6,0,6
+BAXTER AVENUE                   ,6,0,6
+HUNTER AVENUE                   ,6,0,6
+FAILE STREET                    ,6,0,6
+85 AVENUE                       ,6,0,6
+197 STREET                      ,6,0,6
+EAST 118 STREET                 ,6,0,6
+BOOTH MEMORIAL AVENUE           ,6,0,6
+JOHNSON AVENUE                  ,6,0,6
+TODT HILL ROAD                  ,6,0,6
+EDGEMERE AVENUE                 ,6,0,6
+KELLY STREET                    ,6,0,6
+WATTS STREET                    ,6,0,6
+WASHINGTON STREET               ,6,0,6
+190 STREET                      ,6,0,6
+166 STREET                      ,6,0,6
+19 STREET                       ,6,0,6
+113 STREET                      ,6,0,6
+WILDER AVENUE                   ,6,0,6
+VERMONT PLACE                   ,6,0,6
+WEST 137 STREET                 ,6,0,6
+EAST 49 STREET                  ,6,0,6
+EDENWALD AVENUE                 ,6,0,6
+DRIGGS AVENUE                   ,6,0,6
+VLEIGH PLACE                    ,6,0,6
+110 AVENUE                      ,6,0,6
+WEST 138 STREET                 ,6,0,6
+BRISTOL STREET                  ,6,0,6
+ASHLAND PLACE                   ,6,0,6
+WEST 39 STREET                  ,6,0,6
+WEST 5 STREET                   ,6,0,6
+GIFFORDS LANE                   ,6,0,6
+WEST 72 STREET                  ,6,0,6
+ATKINS AVENUE                   ,6,0,6
+WEST 8 STREET                   ,6,0,6
+122 AVENUE                      ,6,0,6
+GATEWAY DRIVE                   ,6,0,6
+G.C.P. / LAGUARDIA (CDR)        ,6,0,6
+BUSSING AVENUE                  ,6,0,6
+BURKE AVENUE                    ,6,0,6
+FRISBY AVENUE                   ,6,0,6
+AUTUMN AVENUE                   ,6,0,6
+BROOME STREET                   ,6,0,6
+WEST 33 STREET                  ,6,0,6
+104 AVENUE                      ,6,0,6
+WEST 142 STREET                 ,5,1,6
+139 STREET                      ,6,0,6
+WEST 151 STREET                 ,6,0,6
+TELLER AVENUE                   ,6,0,6
+HOE AVENUE                      ,6,0,6
+BANCROFT AVENUE                 ,6,0,6
+CONKLIN AVENUE                  ,5,1,6
+AMBOY STREET                    ,6,0,6
+HENDRIX STREET                  ,6,0,6
+COMMERCE AVENUE                 ,6,0,6
+HART STREET                     ,6,0,6
+WEST 174 STREET                 ,6,0,6
+144 AVENUE                      ,6,0,6
+WEST 177 STREET                 ,6,0,6
+ANDREWS AVENUE                  ,6,0,6
+WEST 178 STREET                 ,6,0,6
+GRASSMERE TERRACE               ,6,0,6
+EAST KINGSBRIDGE ROAD           ,6,0,6
+88 AVENUE                       ,6,0,6
+82 AVENUE                       ,6,0,6
+MOUNT HOPE PLACE                ,6,0,6
+78 AVENUE                       ,6,0,6
+SOUTHERN PARKWAY                ,6,0,6
+249 STREET                      ,5,1,6
+EAST 28 STREET                  ,6,0,6
+EAST 61 STREET                  ,6,0,6
+PUTNAM AVENUE                   ,6,0,6
+EAST 72 STREET                  ,6,0,6
+EAST 74 STREET                  ,6,0,6
+EAST 147 STREET                 ,6,0,6
+29 STREET                       ,6,0,6
+SNEDIKER AVENUE                 ,6,0,6
+EAST 64 STREET                  ,6,0,6
+27 STREET                       ,6,0,6
+SAINT MARKS PLACE               ,6,0,6
+PROSPECT STREET                 ,6,0,6
+EAST 226 STREET                 ,6,0,6
+MANGIN AVENUE                   ,6,0,6
+PROSPECT PLACE                  ,6,0,6
+243 STREET                      ,6,0,6
+PRINCE STREET                   ,6,0,6
+FREEMAN STREET                  ,6,0,6
+STANHOPE STREET                 ,6,0,6
+MACDONOUGH STREET               ,6,0,6
+LIE LOWER LEVEL (CDR)           ,5,1,6
+STRAUSS STREET                  ,6,0,6
+110 STREET                      ,6,0,6
+EAST 66 STREET                  ,6,0,6
+EAST BROADWAY                   ,6,0,6
+55 AVENUE                       ,6,0,6
+EAST 137 STREET                 ,6,0,6
+PULASKI AVENUE                  ,6,0,6
+PARK DRIVE                      ,6,0,6
+EAST 48 STREET                  ,6,0,6
+LILY POND AVENUE                ,6,0,6
+EAST 7 STREET                   ,6,0,6
+STEUBEN STREET                  ,6,0,6
+EAST 124 STREET                 ,6,0,6
+WYONA STREET                    ,6,0,6
+LINDEN STREET                   ,6,0,6
+EAST 32 STREET                  ,6,0,6
+EAST 211 STREET                 ,6,0,6
+WEST 30 STREET                  ,5,0,5
+CHRISTOPHER STREET              ,5,0,5
+PROSPECT PARK SOUTHWEST         ,5,0,5
+EAST 221 STREET                 ,5,0,5
+GRANDVIEW AVENUE                ,5,0,5
+CITY ISLAND AVENUE              ,5,0,5
+EAST 227 STREET                 ,5,0,5
+WEST 18 STREET                  ,5,0,5
+WEST 231 STREET                 ,5,0,5
+PUGSLEY AVENUE                  ,5,0,5
+HAMILTON PLACE                  ,5,0,5
+MOORE STREET                    ,5,0,5
+GOULDEN AVENUE                  ,5,0,5
+WEST 45 STREET                  ,5,0,5
+YELLOWSTONE BOULEVARD           ,5,0,5
+CATHEDRAL PARKWAY               ,5,0,5
+WESTMINISTER ROAD               ,5,0,5
+EAST 56 STREET                  ,5,0,5
+ONDERDONK AVENUE                ,5,0,5
+WEST HOUSTON STREET             ,5,0,5
+NATIONAL STREET                 ,5,0,5
+WEST BROADWAY                   ,5,0,5
+WEST 96 STREET                  ,5,0,5
+EAST 3 STREET                   ,5,0,5
+CATALPA AVENUE                  ,5,0,5
+WEST 65 STREET                  ,5,0,5
+MOTHER GASTON BLVD              ,5,0,5
+WEST 56 STREET                  ,5,0,5
+GLEANE STREET                   ,5,0,5
+CHAUNCEY STREET                 ,5,0,5
+WEST 49 STREET                  ,5,0,5
+WEST 47 STREET                  ,5,0,5
+WEST 46 STREET                  ,5,0,5
+CLOVERDALE BOULEVARD            ,5,0,5
+WEST 44 STREET                  ,5,0,5
+GLEASON AVENUE                  ,5,0,5
+PIDGEON MEADOW ROAD             ,5,0,5
+WEST 38 STREET                  ,5,0,5
+PITMAN AVENUE                   ,5,0,5
+CENTRE STREET                   ,5,0,5
+GORDON STREET                   ,5,0,5
+WEST 35 STREET                  ,5,0,5
+EAST 208 STREET                 ,5,0,5
+LEONARD STREET                  ,5,0,5
+EAST 204 STREET                 ,5,0,5
+EAST 15 STREET                  ,5,0,5
+WARWICK STREET                  ,5,0,5
+DARK STREET                     ,5,0,5
+WARREN STREET                   ,5,0,5
+ELTON AVENUE                    ,5,0,5
+WARING AVENUE                   ,5,0,5
+WALES AVENUE                    ,5,0,5
+WAINWRIGHT AVENUE               ,5,0,5
+DECKER AVENUE                   ,5,0,5
+SOUTH 4 STREET                  ,5,0,5
+SOUTH ROAD                      ,5,0,5
+EAST 140 STREET                 ,5,0,5
+VETERANS AVENUE                 ,5,0,5
+DUNKIRK STREET                  ,5,0,5
+LAKEVIEW BOULEVARD EAST         ,5,0,5
+EAST 102 STREET                 ,5,0,5
+VANDALIA AVENUE                 ,5,0,5
+LAUREL HILL BOULEVARD           ,5,0,5
+EAST 111 STREET                 ,5,0,5
+LEAVITT STREET                  ,5,0,5
+LEGGETT AVENUE                  ,5,0,5
+TROUTMAN STREET                 ,5,0,5
+TINTON AVENUE                   ,5,0,5
+EAST 128 STREET                 ,5,0,5
+EAST 119 STREET                 ,5,0,5
+THROGS NECK EXPY                ,5,0,5
+WASHINGTON BRIDGE               ,5,0,5
+WATCHOGUE ROAD                  ,5,0,5
+EAST 194 STREET                 ,5,0,5
+ELTON STREET                    ,5,0,5
+WEST 176 STREET                 ,5,0,5
+PULASKI BRIDGE                  ,5,0,5
+EAST 71 STREET                  ,5,0,5
+HENRY STREET                    ,5,0,5
+QUEENS PLAZA NORTH              ,5,0,5
+LIBERTY STREET                  ,5,0,5
+WEST 15 STREET                  ,5,0,5
+CORNAGA AVENUE                  ,5,0,5
+EAST 171 STREET                 ,5,0,5
+SAND LANE                       ,5,0,5
+MIDLAND AVENUE                  ,5,0,5
+WEST 136 STREET                 ,5,0,5
+SCHERMERHORN STREET             ,5,0,5
+COVERT STREET                   ,5,0,5
+HUNTERS POINT AVENUE            ,5,0,5
+FAIRVIEW AVENUE                 ,4,1,5
+SCHOLES STREET                  ,5,0,5
+MAPES AVENUE                    ,5,0,5
+EAST 91 STREET                  ,5,0,5
+JERSEY STREET                   ,5,0,5
+MANHATTAN BR LOWER              ,5,0,5
+SHORE FRONT PARKWAY             ,5,0,5
+WEST 110 STREET                 ,5,0,5
+WEST 104 STREET                 ,5,0,5
+SHORE ROAD DRIVE                ,5,0,5
+WEST 16 STREET                  ,5,0,5
+GRANT HIGHWAY                   ,5,0,5
+83 STREET                       ,5,0,5
+53 STREET                       ,5,0,5
+BROOKLYN QUEENS EXPY W          ,5,0,5
+263 STREET                      ,5,0,5
+106 AVENUE                      ,5,0,5
+144 STREET                      ,5,0,5
+93 STREET                       ,5,0,5
+ADAMS STREET                    ,5,0,5
+BROAD STREET                    ,5,0,5
+34 STREET                       ,5,0,5
+47 AVENUE                       ,5,0,5
+BEACH 39 STREET                 ,5,0,5
+195 STREET                      ,5,0,5
+107 STREET                      ,5,0,5
+BAY 32 STREET                   ,5,0,5
+AURELIA COURT                   ,5,0,5
+9 STREET                        ,5,0,5
+66 AVENUE                       ,5,0,5
+183 STREET                      ,5,0,5
+109 STREET                      ,4,1,5
+145 STREET                      ,5,0,5
+182 STREET                      ,5,0,5
+175 STREET                      ,5,0,5
+38 STREET                       ,5,0,5
+168 PLACE                       ,5,0,5
+40 AVENUE                       ,5,0,5
+62 STREET                       ,4,1,5
+159 STREET                      ,5,0,5
+136 AVENUE                      ,5,0,5
+141 STREET                      ,5,0,5
+157 AVENUE                      ,5,0,5
+67 ROAD                         ,5,0,5
+BATHGATE AVENUE                 ,5,0,5
+ALEXANDER AVENUE                ,5,0,5
+128 STREET                      ,5,0,5
+115 STREET                      ,5,0,5
+BRADHURST AVENUE                ,5,0,5
+128 AVENUE                      ,5,0,5
+161 STREET                      ,5,0,5
+BEACH AVENUE                    ,4,1,5
+131 AVENUE                      ,5,0,5
+EAST 105 STREET                 ,4,0,4
+PARK DRIVE EAST                 ,4,0,4
+EAST 100 STREET                 ,4,0,4
+MASPETH AVENUE                  ,4,0,4
+BRADLEY AVENUE                  ,4,0,4
+TIEMANN AVENUE                  ,4,0,4
+140 STREET                      ,4,0,4
+TOPPING AVENUE                  ,4,0,4
+EAST 103 STREET                 ,4,0,4
+52 STREET                       ,4,0,4
+PARK CIRCLE                     ,4,0,4
+WEST 225 STREET                 ,4,0,4
+MARTIN LUTHER KING JR           ,4,0,4
+HAVEMEYER STREET                ,4,0,4
+ARTHUR AVENUE                   ,4,0,4
+68 AVENUE                       ,4,0,4
+CODDINGTON AVENUE               ,4,0,4
+CLAWSON STREET                  ,4,0,4
+WEST 48 STREET                  ,4,0,4
+PORT RICHMOND AVENUE            ,4,0,4
+EAST 145 STREET                 ,4,0,4
+BARCLAY AVENUE                  ,4,0,4
+WEST 41 STREET                  ,4,0,4
+WEST 36 STREET                  ,4,0,4
+NASSAU STREET                   ,4,0,4
+7 STREET                        ,4,0,4
+BEDFORD PARK BLVD               ,4,0,4
+WEST 29 STREET                  ,4,0,4
+PINE STREET                     ,4,0,4
+BERGEN AVENUE                   ,4,0,4
+HENDRICKS AVENUE                ,4,0,4
+HEMLOCK STREET                  ,4,0,4
+PHILIP AVENUE                   ,4,0,4
+HAZEN STREET                    ,4,0,4
+138 AVENUE                      ,4,0,4
+PERRY AVENUE                    ,4,0,4
+PENELOPE AVENUE                 ,4,0,4
+BRIGGS AVENUE                   ,4,0,4
+COLLIER AVENUE                  ,4,0,4
+PAUL AVENUE                     ,4,0,4
+139 AVENUE                      ,4,0,4
+FINGERBOARD ROAD                ,4,0,4
+FORT TRYON PARK                 ,4,0,4
+MAUJER STREET                   ,4,0,4
+WEST 120 STREET                 ,4,0,4
+148 STREET                      ,4,0,4
+VARICK AVENUE                   ,4,0,4
+WEST 14 STREET                  ,4,0,4
+VERMILYEA AVENUE                ,4,0,4
+VERNON AVENUE                   ,4,0,4
+GREENWICH STREET                ,4,0,4
+MONROE STREET                   ,4,0,4
+MONTAUK AVENUE                  ,4,0,4
+MORNINGSIDE AVENUE              ,4,0,4
+GARRISON AVENUE                 ,4,0,4
+WEST 123 STREET                 ,4,0,4
+DIVISION AVENUE                 ,4,0,4
+171 STREET                      ,4,0,4
+WEST 19 STREET                  ,4,0,4
+170 STREET                      ,4,0,4
+17 STREET                       ,4,0,4
+WEST 112 STREET                 ,4,0,4
+165 AVENUE                      ,4,0,4
+62 DRIVE                        ,4,0,4
+WASHINGTON BRIDGE 181 ST        ,4,0,4
+GIVAN AVENUE                    ,4,0,4
+163 STREET                      ,4,0,4
+ASTOR AVENUE                    ,4,0,4
+NEW DORP LANE                   ,4,0,4
+GLENMORE AVE                    ,4,0,4
+NEEDHAM AVENUE                  ,4,0,4
+MILL AVENUE                     ,4,0,4
+GROVE STREET                    ,4,0,4
+NORTH BURGHER AVENUE            ,4,0,4
+BOLLER AVENUE                   ,4,0,4
+WEST 187 STREET                 ,4,0,4
+192 STREET                      ,4,0,4
+ANNADALE ROAD                   ,4,0,4
+FORT GEORGE AVENUE              ,4,0,4
+CORNELIA STREET                 ,4,0,4
+UNIONPORT ROAD                  ,4,0,4
+187 PLACE                       ,4,0,4
+127 AVENUE                      ,4,0,4
+185 STREET                      ,4,0,4
+WEST 173 STREET                 ,4,0,4
+WEST 172 STREET                 ,4,0,4
+OLMSTEAD AVENUE                 ,4,0,4
+HAMMERSLEY AVENUE               ,4,0,4
+VAN DAM STREET                  ,4,0,4
+WEST 167 STREET                 ,4,0,4
+VAN SICKLEN STREET              ,4,0,4
+DRUMGOOLE ROAD WEST             ,4,0,4
+CRANFORD AVENUE                 ,4,0,4
+DRUMGOOLE ROAD                  ,4,0,4
+OCEAN TERRACE                   ,4,0,4
+OCCIDENT AVENUE                 ,4,0,4
+VANDERVORT AVENUE               ,4,0,4
+147 DRIVE                       ,4,0,4
+GUNTHER AVENUE                  ,4,0,4
+CROSS BAY BRIDGE                ,4,0,4
+WEST 53 STREET                  ,4,0,4
+BEDELL STREET                   ,4,0,4
+WEST 55 STREET                  ,4,0,4
+WILLOW AVENUE                   ,4,0,4
+WILLIAMSBURG STREET EAST        ,3,1,4
+AINSLIE STREET                  ,4,0,4
+112 AVENUE                      ,4,0,4
+CARLTON AVENUE                  ,4,0,4
+SHERADEN AVENUE                 ,4,0,4
+CARROLL STREET                  ,4,0,4
+LAKEWOOD AVENUE                 ,4,0,4
+HUDSON STREET                   ,4,0,4
+SKIDMORE AVENUE                 ,4,0,4
+EAST 21 STREET                  ,4,0,4
+ROCKAWAY FWY                    ,4,0,4
+86 AVENUE                       ,4,0,4
+EAST MOUNT EDEN AVENUE          ,4,0,4
+SOUTH 1 STREET                  ,4,0,4
+LIE OUTER ROADWAY (CDR)         ,4,0,4
+WEST GUN HILL ROAD              ,4,0,4
+HOOPER STREET                   ,4,0,4
+EAST 20 STREET                  ,4,0,4
+HOME STREET                     ,4,0,4
+3 AVENUE BRIDGE                 ,4,0,4
+EAST 193 STREET                 ,4,0,4
+SACKMAN STREET                  ,4,0,4
+SAINT CLAIR PLACE               ,4,0,4
+HOLLAND AVENUE                  ,4,0,4
+CALAMUS AVENUE                  ,4,0,4
+BEACH 108 STREET                ,4,0,4
+JORALEMON STREET                ,4,0,4
+SCOTT AVENUE                    ,4,0,4
+98 STREET                       ,4,0,4
+EAST 69 STREET                  ,4,0,4
+WORTH STREET                    ,4,0,4
+EAST 40 STREET                  ,4,0,4
+BUFFALO STREET                  ,4,0,4
+SEAGIRT BLVD                    ,4,0,4
+JUNIPER BOULEVARD SOUTH         ,4,0,4
+WOODWARD AVENUE                 ,4,0,4
+103 STREET                      ,4,0,4
+SEAMAN AVENUE                   ,4,0,4
+JUNIUS STREET                   ,4,0,4
+26 AVENUE                       ,4,0,4
+25 ROAD                         ,4,0,4
+KATONAH AVENUE                  ,4,0,4
+SELWYN AVENUE                   ,4,0,4
+EAST 76 STREET                  ,4,0,4
+94 AVENUE                       ,4,0,4
+IONIA AVENUE                    ,4,0,4
+30 ROAD                         ,4,0,4
+WHITEHALL STREET                ,4,0,4
+160 AVENUE                      ,4,0,4
+MACOMBS PLACE                   ,4,0,4
+35TH STREET                     ,4,0,4
+ENGLEWOOD AVENUE                ,4,0,4
+WEST 83 STREET                  ,4,0,4
+CITY ISLAND BRIDGE              ,4,0,4
+226 STREET                      ,4,0,4
+STATEN ISLAND EXPRESSWAY RAMP   ,4,0,4
+SPRING STREET                   ,4,0,4
+REGIS DRIVE                     ,4,0,4
+PRINCETON STREET                ,4,0,4
+123 STREET                      ,4,0,4
+BEACH 62 STREET                 ,4,0,4
+72 STREET                       ,4,0,4
+MAGENTA STREET                  ,4,0,4
+LUTEN AVENUE                    ,4,0,4
+EAST 25 STREET                  ,3,0,3
+248 STREET                      ,3,0,3
+FURMAN STREET                   ,3,0,3
+EAST 33 STREET                  ,3,0,3
+DIXON AVENUE                    ,3,0,3
+58 AVENUE                       ,3,0,3
+QUEENS MIDTOWN EXPRESSWAY       ,3,0,3
+GARDEN STREET                   ,3,0,3
+FATHER CAPODANNO BOULEVARD      ,3,0,3
+VANWYCK EXPRESSWAY EXTENSION    ,3,0,3
+46 AVENUE                       ,3,0,3
+BEACH 95 STREET                 ,3,0,3
+VERONICA PLACE                  ,3,0,3
+GANON AVENUE                    ,3,0,3
+VANWYCK EXPRESSWAY SERVICE ROAD ,3,0,3
+BEACH 21 STREET                 ,3,0,3
+VERMONT STREET                  ,3,0,3
+SAINT JAMES PLACE               ,3,0,3
+211 STREET                      ,2,1,3
+EAST 164 STREET                 ,3,0,3
+EAST 243 STREET                 ,3,0,3
+SAINT EDWARDS STREET            ,3,0,3
+EAST 131 STREET                 ,3,0,3
+EAST 160 STREET                 ,3,0,3
+BARNARD AVENUE                  ,3,0,3
+BAY 8 STREET                    ,3,0,3
+PLIMPTON AVENUE                 ,3,0,3
+WATSON PLACE                    ,3,0,3
+SCHENCK AVENUE                  ,3,0,3
+STRATFORD AVENUE                ,3,0,3
+DELAFIELD AVENUE                ,3,0,3
+NEILSON STREET                  ,3,0,3
+BAY TERRACE                     ,3,0,3
+259 STREET                      ,3,0,3
+EAST 67 STREET                  ,3,0,3
+EAST 152 STREET                 ,3,0,3
+NEW HAVEN AVENUE                ,3,0,3
+164 PLACE                       ,3,0,3
+EAST 41 STREET                  ,3,0,3
+PROSPECT EXPRESSWAY             ,3,0,3
+NEWTOWN ROAD                    ,3,0,3
+WALNUT AVENUE                   ,3,0,3
+40 ROAD                         ,3,0,3
+58 ROAD                         ,3,0,3
+WALLACE AVENUE                  ,3,0,3
+WALLABOUT STREET                ,3,0,3
+STUYVESANT PLACE                ,3,0,3
+169 STREET                      ,3,0,3
+GEORGIA AVENUE                  ,3,0,3
+VOORHIES AVENUE                 ,3,0,3
+VANDUZER STREET                 ,3,0,3
+PLEASANTVIEW STREET             ,3,0,3
+FARRINGTON STREET               ,3,0,3
+NORTH PORTLAND AVENUE           ,3,0,3
+EAST 11 STREET                  ,3,0,3
+208 STREET                      ,3,0,3
+UNION SQUARE EAST               ,3,0,3
+UNDERCLIFF AVENUE               ,3,0,3
+QUINCY AVENUE                   ,3,0,3
+234 STREET                      ,3,0,3
+FORSYTH STREET                  ,3,0,3
+233 STREET                      ,3,0,3
+193 STREET                      ,3,0,3
+OVINGTON AVENUE                 ,3,0,3
+PAGE AVENUE                     ,3,0,3
+TRAVIS AVENUE                   ,3,0,3
+27 AVENUE                       ,3,0,3
+TRANSVERSE ROAD NUMBER ONE      ,3,0,3
+TRANSVERSE ROAD NUMBER FOUR     ,3,0,3
+BEACH 6 STREET                  ,3,0,3
+BALCOM AVENUE                   ,3,0,3
+33 AVENUE                       ,3,0,3
+TOWNSEND AVENUE                 ,3,0,3
+REVERE AVENUE                   ,3,0,3
+EAST WILLISTON AVENUE           ,3,0,3
+BATCHELDER STREET               ,3,0,3
+20 STREET                       ,3,0,3
+BEACH 56 STREET                 ,3,0,3
+RIDGE BOULEVARD                 ,3,0,3
+SOUTH END AVENUE                ,3,0,3
+SOUTH RAILROAD AVENUE           ,3,0,3
+EAST 192 STREET                 ,3,0,3
+EDISON AVENUE                   ,3,0,3
+30 STREET                       ,3,0,3
+ROCKAWAY POINT BOULEVARD        ,3,0,3
+189 STREET                      ,3,0,3
+BEACH 29 STREET                 ,3,0,3
+EAST 213 STREET                 ,3,0,3
+SACKETT STREET                  ,3,0,3
+EAST 109 STREET                 ,3,0,3
+AUTUMN LANE                     ,3,0,3
+EAST 237 STREET                 ,3,0,3
+181 STREET                      ,3,0,3
+246 STREET                      ,3,0,3
+OCEANIA STREET                  ,3,0,3
+STANTON STREET                  ,3,0,3
+OCEANVIEW AVENUE                ,3,0,3
+EAST 83 STREET                  ,3,0,3
+FOX STREET                      ,3,0,3
+QUEENSBORO BRIDGE LOWER ROADWAY ,3,0,3
+EAST 234 STREET                 ,3,0,3
+OLINVILLE AVENUE                ,3,0,3
+RUGBY ROAD                      ,3,0,3
+EAST 127 STREET                 ,3,0,3
+205 STREET                      ,3,0,3
+244 STREET                      ,3,0,3
+QUEENSBORO BRIDGE OUTER         ,3,0,3
+EAST 97 STREET                  ,3,0,3
+FOUR CORNERS ROAD               ,3,0,3
+SHERIDAN EXPRESSWAY RAMP        ,3,0,3
+265 STREET                      ,3,0,3
+SILVER STREET                   ,3,0,3
+PORTER AVENUE                   ,3,0,3
+54 STREET                       ,3,0,3
+EAST 214 STREET                 ,3,0,3
+RYER AVENUE                     ,3,0,3
+ZULETTE AVENUE                  ,3,0,3
+NASSAU AVENUE                   ,3,0,3
+WEST 51 STREET                  ,3,0,3
+136 STREET                      ,3,0,3
+MANOR AVENUE                    ,3,0,3
+134 AVENUE                      ,3,0,3
+DECATUR AVENUE                  ,3,0,3
+72 AVENUE                       ,3,0,3
+132 AVENUE                      ,3,0,3
+CLERMONT AVENUE                 ,3,0,3
+129 AVENUE                      ,3,0,3
+WEST 52 STREET                  ,3,0,3
+MAPLE STREET                    ,3,0,3
+73 PLACE                        ,3,0,3
+124 STREET                      ,3,0,3
+CITY ISLAND CIRCLE              ,3,0,3
+WEST 66 STREET                  ,3,0,3
+WEST 71 STREET                  ,3,0,3
+HIGHLAND AVENUE                 ,3,0,3
+BRITTON AVENUE                  ,3,0,3
+LYDIG AVENUE                    ,3,0,3
+CLYMER STREET                   ,3,0,3
+HENDERSON AVENUE                ,3,0,3
+143 STREET                      ,3,0,3
+WEST 204 STREET                 ,3,0,3
+COOPER SQUARE                   ,3,0,3
+BOYD AVENUE                     ,3,0,3
+67 STREET                       ,3,0,3
+WEST 191 STREET                 ,3,0,3
+CONOVER STREET                  ,3,0,3
+BRADFORD STREET                 ,3,0,3
+CONCOURSE VILLAGE EAST          ,3,0,3
+MAROLLA PLACE                   ,3,0,3
+HAVEMEYER AVENUE                ,3,0,3
+68 ROAD                         ,3,0,3
+WEST 215 STREET                 ,3,0,3
+WEST 22 STREET                  ,3,0,3
+HAVILAND AVENUE                 ,3,0,3
+BRIELLE AVENUE                  ,3,0,3
+HAWTHORNE STREET                ,3,0,3
+WEST 235 STREET                 ,3,0,3
+WEST 238 STREET                 ,3,0,3
+COLGATE AVENUE                  ,3,0,3
+CHRISTOPHER AVE                 ,3,0,3
+WEST 78 STREET                  ,3,0,3
+WEST 79 STREET                  ,3,0,3
+92 AVENUE                       ,3,0,3
+HUMPHREYS STREET                ,3,0,3
+LAMBERTS LANE                   ,3,0,3
+WILLETT AVENUE                  ,3,0,3
+112 ROAD                        ,3,0,3
+LAFAYETTE STREET                ,3,0,3
+LABURNUM AVENUE                 ,3,0,3
+90 AVENUE                       ,3,0,3
+KLONDIKE AVENUE                 ,3,0,3
+WILLOWBROOK ROAD                ,3,0,3
+CHESTNUT STREET                 ,3,0,3
+INNIS STREET                    ,3,0,3
+KEESEVILLE AVENUE               ,3,0,3
+BROOKLYN QUEENS EXPY (CDR)      ,3,0,3
+JUNIPER VALLEY ROAD             ,3,0,3
+102 CROSS DRIVE                 ,3,0,3
+101 STREET                      ,3,0,3
+BRUCKNER EXPRESSWAY RAMP        ,3,0,3
+BROWN STREET                    ,3,0,3
+LAWRENCE STREET                 ,3,0,3
+WHIPPLE STREET                  ,3,0,3
+HUBBARD STREET                  ,3,0,3
+CAULDWELL AVENUE                ,3,0,3
+WEST 80 STREET                  ,3,0,3
+LORRAINE STREET                 ,3,0,3
+LORING PLACE NORTH              ,3,0,3
+CHERRY AVENUE                   ,3,0,3
+WEST 87 STREET                  ,3,0,3
+LONGWOOD AVENUE                 ,3,0,3
+LONGFELLOW AVENUE               ,3,0,3
+77 ROAD                         ,3,0,3
+WEST 95 STREET                  ,3,0,3
+WEST 97 STREET                  ,3,0,3
+LOGAN AVENUE                    ,3,0,3
+LIVERPOOL STREET                ,3,0,3
+LINWOOD STREET                  ,3,0,3
+LINDEN BLVD                     ,3,0,3
+HOOVER AVENUE                   ,3,0,3
+HOYT AVENUE SOUTH               ,3,0,3
+WEXFORD TERRACE                 ,3,0,3
+WEST 183 STREET                 ,3,0,3
+133 STREET                      ,3,0,3
+EAST 6 STREET                   ,3,0,3
+GREAT KILLS ROAD                ,3,0,3
+WEST 161 STREET                 ,3,0,3
+HALE AVENUE                     ,3,0,3
+WEST 159 STREET                 ,3,0,3
+MIDDLETON STREET                ,3,0,3
+63 STREET                       ,3,0,3
+MONTROSE AVENUE                 ,3,0,3
+64 ROAD                         ,3,0,3
+61 AVENUE                       ,3,0,3
+WEST 157 STREET                 ,3,0,3
+MONTAUK STREET                  ,3,0,3
+CROTONA PARK NORTH              ,3,0,3
+MOUNT EDEN PARKWAY              ,3,0,3
+GUY R BREWER                    ,3,0,3
+WEST 152 STREET                 ,3,0,3
+MONROE AVENUE                   ,3,0,3
+WEST 148 STREET                 ,3,0,3
+GUIDER AVENUE                   ,3,0,3
+65 AVENUE                       ,3,0,3
+156 STREET                      ,3,0,3
+BOLTON AVENUE                   ,3,0,3
+MILES AVENUE                    ,3,0,3
+WEST 146 STREET                 ,3,0,3
+WEST 105 STREET                 ,3,0,3
+GREAVES AVENUE                  ,3,0,3
+149 PLACE                       ,3,0,3
+WEST 114 STREET                 ,3,0,3
+64 AVENUE                       ,3,0,3
+HAMPTON STREET                  ,3,0,3
+67 AVENUE                       ,3,0,3
+MCCLEAN AVENUE                  ,3,0,3
+NARROWS ROAD SOUTH              ,3,0,3
+ARGYLE ROAD                     ,3,0,3
+WEST 163 STREET                 ,3,0,3
+WEST 12 STREET                  ,3,0,3
+WEST 164 STREET                 ,3,0,3
+CYPRESS HILL STREET             ,3,0,3
+BOARDWALK                       ,3,0,3
+WEBB AVENUE                     ,3,0,3
+WEST 118 STREET                 ,3,0,3
+1 PLACE                         ,2,0,2
+EAST CLARKE PLACE               ,2,0,2
+EAST END AVENUE                 ,2,0,2
+ROMBOUTS AVENUE                 ,2,0,2
+30 PLACE                        ,2,0,2
+80 AVENUE                       ,2,0,2
+RODNEY STREET                   ,2,0,2
+GRAVESEND NECK ROAD             ,2,0,2
+ARLENE STREET                   ,1,1,2
+8 STREET                        ,2,0,2
+ARLINGTON PLACE                 ,2,0,2
+BAY 23 STREET                   ,1,1,2
+ALBANY CRESCENT                 ,2,0,2
+BARTOW CIRCLE                   ,2,0,2
+GERRY STREET                    ,2,0,2
+HUGUENOT AVE                    ,2,0,2
+EAST TREMONT                    ,2,0,2
+268 STREET                      ,2,0,2
+86 ROAD                         ,2,0,2
+587 HOWARD AVENUE               ,2,0,2
+ALDERTON STREET                 ,2,0,2
+LEWISTON STREET                 ,2,0,2
+BAY 26 STREET                   ,2,0,2
+LEE AVENUE                      ,2,0,2
+HOLLYWOOD AVENUE                ,2,0,2
+ROCKY HILL ROAD                 ,2,0,2
+ASTORIA BOULEVARD SOUTH         ,2,0,2
+LINCOLN PLACE                   ,2,0,2
+HUDSON PARKWAY                  ,2,0,2
+LAYTON AVENUE                   ,2,0,2
+HOME LAWN STREET                ,2,0,2
+NEW JERSEY AVENUE               ,2,0,2
+GILLMORE STREET                 ,2,0,2
+87 STREET                       ,2,0,2
+BAY AVENUE                      ,2,0,2
+KATAN AVENUE                    ,2,0,2
+EAST 73 STREET                  ,2,0,2
+SAINT LAWRENCE AVENUE           ,2,0,2
+ACADEMY STREET                  ,2,0,2
+KAPPOCK STREET                  ,2,0,2
+JUSTICE AVENUE                  ,2,0,2
+GRACE AVENUE                    ,2,0,2
+JEFFERSON BOULEVARD             ,2,0,2
+ABINGDON AVENUE                 ,2,0,2
+ASCH LOOP                       ,2,0,2
+SAINT MARYS STREET              ,2,0,2
+HURON STREET                    ,2,0,2
+EAST 68 STREET                  ,2,0,2
+JUNCTION BLVD                   ,2,0,2
+JULES DRIVE                     ,2,0,2
+JEROME STREET                   ,2,0,2
+EAST 65 STREET                  ,2,0,2
+SAINT PAULS AVENUE              ,2,0,2
+JESUP AVENUE                    ,2,0,2
+SAINT THERESA AVENUE            ,2,0,2
+NATICK STREET                   ,2,0,2
+SANDS STREET                    ,2,0,2
+KEARNEY AVENUE                  ,2,0,2
+GRAFTON STREET                  ,2,0,2
+BAY 54 STREET                   ,2,0,2
+GOETHALS AVENUE                 ,2,0,2
+LAGUARDIA AVENUE                ,2,0,2
+EAST 90 STREET                  ,2,0,2
+EAST 9 STREET                   ,2,0,2
+EAST 89 STREET                  ,2,0,2
+BAY 40 STREET                   ,2,0,2
+RUST STREET                     ,2,0,2
+RUTLEDGE STREET                 ,2,0,2
+59 AVENUE                       ,2,0,2
+LACOMBE AVENUE                  ,2,0,2
+HUTCHINSON RIVER PARKWAY WEST   ,2,0,2
+MOTT STREET                     ,2,0,2
+EAST 81 STREET                  ,2,0,2
+SAULTELL AVENUE                 ,2,0,2
+GRAND ARMY PLAZA                ,2,0,2
+INDIA STREET                    ,2,0,2
+NELSON AVENUE                   ,2,0,2
+INWOOD AVENUE                   ,2,0,2
+IRVING PLACE                    ,2,0,2
+KENSINGTON AVENUE               ,2,0,2
+EAST 77 STREET                  ,2,0,2
+KENNEDY STREET                  ,2,0,2
+NEW YORK AVE                    ,2,0,2
+OTIS AVENUE                     ,2,0,2
+EDSON AVENUE                    ,2,0,2
+MARGINAL STREET                 ,2,0,2
+HALL OF FAME TERRACE            ,2,0,2
+PARKSIDE PLACE                  ,2,0,2
+MICKLE AVENUE                   ,2,0,2
+50 AVENUE                       ,2,0,2
+5 STREET                        ,2,0,2
+PEARSALL AVENUE                 ,2,0,2
+55TH STREET                     ,2,0,2
+PELHAM PKWY                     ,2,0,2
+PELTON AVENUE                   ,2,0,2
+FINLAY AVENUE                   ,2,0,2
+MARLBOROUGH ROAD                ,2,0,2
+HAWTREE STREET                  ,2,0,2
+FINDLAY AVENUE                  ,2,0,2
+GUYON AVENUE                    ,2,0,2
+HEATH AVENUE                    ,2,0,2
+PIERCE STREET                   ,2,0,2
+PIKE STREET                     ,2,0,2
+MIDLAND PARKWAY                 ,2,0,2
+MIDWOOD STREET                  ,2,0,2
+69 PLACE                        ,2,0,2
+FORBELL STREET                  ,2,0,2
+MARNE PLACE                     ,2,0,2
+GRAYSON STREET                  ,1,1,2
+AVERY AVENUE                    ,2,0,2
+HARBOR ROAD                     ,2,0,2
+HARDING AVENUE                  ,2,0,2
+MC KINLEY AVENUE                ,2,0,2
+FORT GEORGE HILL                ,2,0,2
+MC GUINNESS BLVD SOUTH          ,2,0,2
+MEADOW STREET                   ,2,0,2
+OVERLOOK TERRACE                ,2,0,2
+FORLEY STREET                   ,2,0,2
+HARMAN STREET                   ,2,0,2
+MAYFAIR DRIVE SOUTH             ,2,0,2
+HARTMAN LANE                    ,2,0,2
+MAYDA ROAD                      ,2,0,2
+MENAHAN STREET                  ,2,0,2
+AQUEDUCT AVENUE                 ,2,0,2
+HALLECK STREET                  ,2,0,2
+MASON AVENUE                    ,2,0,2
+MARTLING AVENUE                 ,2,0,2
+METCALF AVENUE                  ,2,0,2
+PARADE PLACE                    ,2,0,2
+ANDERSON STREET                 ,2,0,2
+PITT STREET                     ,2,0,2
+PLAZA STREET EAST               ,2,0,2
+BARBEY STREET                   ,2,0,2
+ELLIS AVENUE                    ,2,0,2
+GARRETSON AVENUE                ,2,0,2
+GREELEY AVENUE                  ,2,0,2
+GATLING PLACE                   ,2,0,2
+QUENTIN                         ,2,0,2
+LUDLOW STREET                   ,2,0,2
+ELY AVENUE                      ,2,0,2
+BARTHOLDI STREET                ,2,0,2
+RADCLIFF AVENUE                 ,2,0,2
+REEDS MILL LANE                 ,2,0,2
+NEWMAN AVENUE                   ,2,0,2
+FAYETTE STREET                  ,2,0,2
+LORING AVENUE                   ,2,0,2
+REGENT PLACE                    ,2,0,2
+77 AVENUE                       ,2,0,2
+HOBART AVENUE                   ,2,0,2
+ELDRIDGE STREET                 ,2,0,2
+EINSTEIN LOOP                   ,2,0,2
+NEWBURG STREET                  ,2,0,2
+31 DRIVE                        ,2,0,2
+HODGES BRIDGE                   ,2,0,2
+GARNET STREET                   ,2,0,2
+NOME AVENUE                     ,2,0,2
+4 STREET                        ,2,0,2
+MACDONOUGH PLACE                ,2,0,2
+FATHER ZEISER PLACE             ,2,0,2
+70 ROAD                         ,2,0,2
+FATHER CAPODANNO BLVD           ,2,0,2
+MAJOR DEEGAN SERVICE ROAD       ,2,0,2
+MAJOR DEEGAN EXPRESSWAY SB EXIT ,2,0,2
+65 ROAD                         ,2,0,2
+MAIDEN LANE                     ,2,0,2
+NORTH 4 STREET                  ,2,0,2
+NORTH 3 STREET                  ,2,0,2
+GRISWOLD AVENUE                 ,2,0,2
+POWELL STREET                   ,2,0,2
+MAGUIRE AVENUE                  ,2,0,2
+POYER STREET                    ,2,0,2
+MACDOUGAL STREET                ,2,0,2
+MILLS AVENUE                    ,2,0,2
+44 AVENUE                       ,2,0,2
+PROSPECT PARK WEST              ,2,0,2
+42 AVENUE                       ,2,0,2
+75 STREET                       ,2,0,2
+ELLINGTON PARKWAY               ,2,0,2
+EAST 47 STREET                  ,2,0,2
+WESTERVELT AVENUE               ,2,0,2
+DEKALB STREET                   ,2,0,2
+CENTRAL PARK SOUTH              ,2,0,2
+WATERS PLACE                    ,2,0,2
+CENTRAL ROAD SOUTH              ,2,0,2
+WEST 175 STREET                 ,2,0,2
+EAST 146 STREET                 ,2,0,2
+EAST 143 STREET                 ,2,0,2
+SUFFOLK STREET                  ,2,0,2
+WATERBURY STREET                ,2,0,2
+12 STREET                       ,2,0,2
+209 STREET                      ,2,0,2
+SUTTON PLACE                    ,2,0,2
+EAST 136 STREET                 ,2,0,2
+SUYDAM STREET                   ,2,0,2
+WEST BRIGHTON AVENUE            ,2,0,2
+TANGLEWOOD DRIVE                ,2,0,2
+WEST BEDFORD PARK BOULEVARD     ,2,0,2
+CORPORAL KENNEDY STREET         ,2,0,2
+BEDFORD PARK BOULEVARD          ,2,0,2
+EAST 130 STREET                 ,2,0,2
+207 STREET                      ,2,0,2
+WEST 180 STREET                 ,2,0,2
+TAYLOR AVENUE                   ,2,0,2
+BOGART STREET                   ,2,0,2
+TENNYSON DRIVE                  ,2,0,2
+THAYER STREET                   ,2,0,2
+214 STREET                      ,2,0,2
+BOUCK AVENUE                    ,2,0,2
+115 ROAD                        ,2,0,2
+DEKALB AVENUE                   ,2,0,2
+BLOOMINGDALE ROAD               ,2,0,2
+BROOKLYN QNS EXPRESSWAY         ,2,0,2
+ST. ANNS AVE                    ,2,0,2
+ST. NICHOLAS AVENUE             ,2,0,2
+ST. PAUL PLACE                  ,2,0,2
+BROOKHAVEN AVENUE               ,2,0,2
+WHEELER AVENUE                  ,2,0,2
+STADIUM AVENUE                  ,2,0,2
+22 AVENUE                       ,2,0,2
+BEACH 9 STREET                  ,2,0,2
+BROOK STREET                    ,2,0,2
+WEST 237 STREET                 ,2,0,2
+STARR STREET                    ,2,0,2
+WEIRFIELD STREET                ,2,0,2
+218 STREET                      ,2,0,2
+WEEKS AVENUE                    ,2,0,2
+STEBBINS AVENUE                 ,2,0,2
+118 STREET                      ,2,0,2
+16 STREET                       ,2,0,2
+COURTLANDT AVENUE               ,2,0,2
+144 ROAD                        ,2,0,2
+215 STREET                      ,2,0,2
+WEST MOUNT EDEN AVENUE          ,2,0,2
+215 PLACE                       ,2,0,2
+CENTER BOULEVARD                ,2,0,2
+WEST 94 STREET                  ,2,0,2
+WEST 184 STREET                 ,2,0,2
+203 STREET                      ,2,0,2
+WEST 93 STREET                  ,2,0,2
+186 STREET                      ,2,0,2
+CONCORD AVENUE                  ,2,0,2
+BRAGG STREET                    ,2,0,2
+VAN CORTLANDT PARK SOUTH        ,2,0,2
+VAN SIDERIN AVENUE              ,2,0,2
+DIVISION STREET                 ,2,0,2
+WEST 40 STREET                  ,2,0,2
+WEST 4 STREET                   ,2,0,2
+CLINTONVILLE STREET             ,2,0,2
+VAN WYCK EXPRESSWAY (CDR)       ,2,0,2
+VANCORTLANDT AVENUE EAST        ,2,0,2
+135 STREET                      ,2,0,2
+VANCORTLANDT PARK SOUTH         ,2,0,2
+DOWNING STREET                  ,2,0,2
+DOVER STREET                    ,2,0,2
+WEST 31 STREET                  ,2,0,2
+VESEY STREET                    ,2,0,2
+WEST 27 STREET                  ,2,0,2
+180 STREET                      ,2,0,2
+WEST 262 STREET                 ,2,0,2
+178 PLACE                       ,2,0,2
+179 STREET                      ,2,0,2
+VANERVEER STREET                ,2,0,2
+WEST 25 STREET                  ,2,0,2
+14 ROAD                         ,2,0,2
+WEST 201 STREET                 ,2,0,2
+WEST 60 STREET                  ,2,0,2
+VYSE AVENUE                     ,2,0,2
+WEST 84 STREET                  ,2,0,2
+WEST 92 STREET                  ,2,0,2
+THIRD AVENUE                    ,2,0,2
+WEST 90 STREET                  ,2,0,2
+BENNETT AVENUE                  ,2,0,2
+BOWNE STREET                    ,2,0,2
+WEST 89 STREET                  ,2,0,2
+WEST 86 STREET                  ,2,0,2
+THOMAS S BOYLAND ST             ,2,0,2
+WEST 85 STREET                  ,2,0,2
+THROGS NECK EXPRESSWAY          ,2,0,2
+200 STREET                      ,2,0,2
+THURSBY AVENUE                  ,2,0,2
+WEST 62 STREET                  ,2,0,2
+CONWAY STREET                   ,2,0,2
+TIBBETT AVENUE                  ,2,0,2
+WEST 190 STREET                 ,2,0,2
+EAST 101 STREET                 ,2,0,2
+CHRISTOPHER LANE                ,1,1,2
+TRANSVERSE ROAD NUMBER TWO      ,2,0,2
+DYRE AVENUE                     ,2,0,2
+BRISTOW STREET                  ,2,0,2
+WEST 70 STREET                  ,2,0,2
+WAKEMAN PLACE                   ,2,0,2
+141 AVENUE                      ,2,0,2
+ST NICHOLAS AVENUE              ,2,0,2
+BRIGHAM STREET                  ,2,0,2
+152 STREET                      ,2,0,2
+EAST 223 STREET                 ,2,0,2
+CROTONA PARKWAY                 ,2,0,2
+BEACH 41 STREET                 ,2,0,2
+EAST 22 STREET                  ,2,0,2
+SHORE AVENUE                    ,2,0,2
+BUTLER STREET                   ,2,0,2
+CROWN STREET                    ,2,0,2
+WINDSOR ROAD                    ,2,0,2
+WOOLLEY AVENUE                  ,2,0,2
+EAST 217 STREET                 ,2,0,2
+SIGNS ROAD                      ,2,0,2
+WEST 150 STREET                 ,2,0,2
+WINCHESTER BOULEVARD            ,2,0,2
+WINANT AVENUE                   ,2,0,2
+BUHRE AVENUE                    ,2,0,2
+SMEDLEY STREET                  ,2,0,2
+232 STREET                      ,2,0,2
+231 STREET                      ,2,0,2
+BROOKSIDE STREET                ,2,0,2
+CAFFREY AVENUE                  ,1,1,2
+WEST 154 STREET                 ,2,0,2
+WEST 124 STREET                 ,2,0,2
+SOUTH 3 STREET                  ,2,0,2
+CROSS BAY PARKWAY               ,2,0,2
+WITTHOFF STREET                 ,2,0,2
+WEST 134 STREET                 ,2,0,2
+155 AVENUE                      ,2,0,2
+25 STREET                       ,2,0,2
+SEYMOUR AVENUE                  ,2,0,2
+WEST 147 STREET                 ,2,0,2
+BEACH 20 STREET                 ,2,0,2
+BOERUM STREET                   ,2,0,2
+EAST 24 STREET                  ,2,0,2
+WOODS OF ARDEN ROAD             ,2,0,2
+EAST 239 STREET                 ,2,0,2
+WOODROW ROAD                    ,2,0,2
+EAST 235 STREET                 ,2,0,2
+BEACH 32 STREET                 ,2,0,2
+EAST 30 STREET                  ,2,0,2
+WOODHULL AVENUE                 ,2,0,2
+EAST 232 STREET                 ,2,0,2
+SEIGEL STREET                   ,2,0,2
+EAST 231 STREET                 ,2,0,2
+EAST 230 STREET                 ,2,0,2
+BEACH 35 STREET                 ,2,0,2
+EAST 229 STREET                 ,2,0,2
+WEST 149 STREET                 ,2,0,2
+WOODS PLACE                     ,2,0,2
+BEACH 38 STREET                 ,2,0,2
+WOOD STREET                     ,2,0,2
+BOONE AVENUE                    ,2,0,2
+EAST 2 STREET                   ,2,0,2
+WEST 122 STREET                 ,2,0,2
+SOUTH 5 PLACE                   ,2,0,2
+SCHOOL ROAD                     ,2,0,2
+EAST 189 STREET                 ,2,0,2
+WEST 117 STREET                 ,2,0,2
+BRYANT AVENUE                   ,2,0,2
+WEST 11 STREET                  ,2,0,2
+229 STREET                      ,2,0,2
+CROCHERON AVENUE                ,2,0,2
+100 AVENUE                      ,2,0,2
+WEST 162 STREET                 ,2,0,2
+253 STREET                      ,2,0,2
+114 ROAD                        ,2,0,2
+WEST 108 STREET                 ,2,0,2
+CRANSTON STREET                 ,2,0,2
+WICKHAM AVENUE                  ,2,0,2
+EAST 182 STREET                 ,2,0,2
+227 STREET                      ,2,0,2
+WHITTIER STREET                 ,2,0,2
+WEST 166 STREET                 ,2,0,2
+10 STREET                       ,2,0,2
+WHITNEY AVENUE                  ,2,0,2
+BEACH 69 STREET                 ,2,0,2
+BOSCOMBE AVENUE                 ,2,0,2
+148 ROAD                        ,2,0,2
+15 STREET                       ,2,0,2
+EAST 50 STREET                  ,2,0,2
+WILLIAM STREET                  ,2,0,2
+SOUTH OXFORD STREET             ,2,0,2
+WEST 111 STREET                 ,2,0,2
+DALNY ROAD                      ,2,0,2
+WILLOUGBY AVENUE                ,2,0,2
+EAST 198 STREET                 ,2,0,2
+WILLMOHR STREET                 ,2,0,2
+WILLIS AVENUE BRIDGE PEDESTRIAN/,1,1,2
+EAST 44 STREET                  ,1,1,2
+SOUTH 5 STREET                  ,2,0,2
+CAMPUS ROAD                     ,2,0,2
+WYTHE PLACE                     ,2,0,2
+EAST 46 STREET                  ,2,0,2
+159 AVENUE                      ,2,0,2
+SHARPE AVENUE                   ,2,0,2
+110 ROAD                        ,2,0,2
+YATES AVENUE                    ,2,0,2
+CANAL PLACE                     ,2,0,2
+SCHROEDERS AVENUE               ,2,0,2
+SOUTH 8 STREET                  ,2,0,2
+109 ROAD                        ,2,0,2
+SOUTH OAK DRIVE                 ,2,0,2
+148 DRIVE                       ,1,0,1
+WEST 234 STREET                 ,1,0,1
+MARINE PARKWAY BRIDGE           ,1,0,1
+WEST 202 STREET                 ,1,0,1
+WEST 21 STREET                  ,1,0,1
+MARKET SLIP                     ,1,0,1
+WEST 218 STREET                 ,1,0,1
+MARMION AVENUE                  ,1,0,1
+WEST 213 STREET                 ,1,0,1
+140 AVENUE                      ,1,0,1
+MERRIAM AVENUE                  ,1,0,1
+MARS PLACE                      ,1,0,1
+WEST 160 STREET                 ,1,0,1
+MCLAUGHLIN AVENUE               ,1,0,1
+MEADOW LAKE                     ,1,0,1
+144 PLACE                       ,1,0,1
+MIDDLETOWN ROAD                 ,1,0,1
+MELVIN AVENUE                   ,1,0,1
+WEST 158 STREET                 ,1,0,1
+MENTONE AVENUE                  ,1,0,1
+MCDONALD AVENUE                 ,1,0,1
+145 AVENUE                      ,1,0,1
+MESEROLE STREET                 ,1,0,1
+MERCER STREET                   ,1,0,1
+145 ROAD                        ,1,0,1
+MESEROLE AVENUE                 ,1,0,1
+66 ROAD                         ,1,0,1
+MCGUINNESS BLVD                 ,1,0,1
+MCCLELLAN STREET                ,1,0,1
+MARSDEN STREET                  ,1,0,1
+WEST 186 STREET                 ,1,0,1
+MARTENSE AVENUE                 ,1,0,1
+WEST 2 STREET                   ,1,0,1
+WEST 196 STREET                 ,1,0,1
+WEST 193 STREET                 ,1,0,1
+MATTHEWS AVENUE                 ,1,0,1
+WEST 188 STREET                 ,1,0,1
+WEST 185 STREET                 ,1,0,1
+WEST 156 STREET                 ,1,0,1
+MERIDIAN ROAD                   ,1,0,1
+MIDTOWN TUNNEL EXIT STREET      ,1,0,1
+WEST 182 STREET                 ,1,0,1
+MC KIBBIN STREET                ,1,0,1
+MCBRIDE STREET                  ,1,0,1
+142 AVENUE                      ,1,0,1
+SAUNDERS STREET                 ,1,0,1
+LONG ISALAND EXPRESSWAY         ,1,0,1
+MARGINAL ST EAST                ,1,0,1
+WHITESTONE EXPRESSWAY SERVICE RD,1,0,1
+WILLETT STREET                  ,1,0,1
+LAKE STREET                     ,1,0,1
+LAKE VIEW PLACE                 ,1,0,1
+WILCOX STREET                   ,1,0,1
+LAKEVIEW LANE                   ,1,0,1
+LAMPORT BOULEVARD               ,1,0,1
+LAUREL AVENUE                   ,1,0,1
+LAUREL HILL BLVD                ,1,0,1
+87 ROAD                         ,1,0,1
+LAWRENCE AVENUE                 ,1,0,1
+LAWTON AVENUE                   ,1,0,1
+LAGUARDIA PLACE                 ,1,0,1
+LAWTON STREET                   ,1,0,1
+87 AVENUE                       ,1,0,1
+WHITE STREET                    ,1,0,1
+WETHEROLE STREET                ,1,0,1
+WESTCHESTER AVE                 ,1,0,1
+LELAND AVENUE                   ,1,0,1
+LENEVAR AVENUE                  ,1,0,1
+85 ROAD                         ,1,0,1
+LEONARD AVENUE                  ,1,0,1
+LEVERETT AVENUE                 ,1,0,1
+LAKE AVENUE                     ,1,0,1
+WILLIAMS COURT                  ,1,0,1
+137 STREET                      ,1,0,1
+WISSMAN AVENUE                  ,1,0,1
+JOLINE AVENUE                   ,1,0,1
+YUKON AVENUE                    ,1,0,1
+JUNIPER AVENUE                  ,1,0,1
+JUNO STREET                     ,1,0,1
+WOODRUFF AVENUE                 ,1,0,1
+KALVER PLACE                    ,1,0,1
+WOODBINE STREET                 ,1,0,1
+KEAP STREET                     ,1,0,1
+WOLCOTT AVENUE                  ,1,0,1
+KELLY BOULEVARD                 ,1,0,1
+KEW GARDEN ROAD                 ,1,0,1
+111 ROAD                        ,1,0,1
+KIMBALL STREET                  ,1,0,1
+WINDERMERE ROAD                 ,1,0,1
+KINGSBRIDGE AVENUE              ,1,0,1
+WILSON STREET                   ,1,0,1
+KINGSHIGJWAY                    ,1,0,1
+106 STREET                      ,1,0,1
+KINGSTON PLACE                  ,1,0,1
+WILLOUGHBY STREET               ,1,0,1
+KOCH BOULEVARD                  ,1,0,1
+L.I.E / G.C.P CDR               ,1,0,1
+84 PLACE                        ,1,0,1
+84 DRIVE                        ,0,1,1
+83 PLACE                        ,1,0,1
+MAIN AVENUE                     ,1,0,1
+WEST 63 STREET                  ,1,0,1
+74 AVENUE                       ,1,0,1
+WEST 61 STREET                  ,1,0,1
+MACON STREET                    ,1,0,1
+MACY PLACE                      ,1,0,1
+MADISON AVENUE BRIDGE           ,1,0,1
+MAGAW PLACE                     ,1,0,1
+WEST 59 STREET                  ,1,0,1
+WEST 58 STREET                  ,1,0,1
+131 STREET                      ,1,0,1
+72 DRIVE                        ,1,0,1
+WEST MOSHOLU PARKWAY NORTH      ,1,0,1
+132 STREET                      ,1,0,1
+MALTA STREET                    ,1,0,1
+MANHATTAN BRIDGE                ,1,0,1
+WEST 32 STREET                  ,1,0,1
+MAPLE AVENUE                    ,1,0,1
+137 ROAD                        ,1,0,1
+WEST 256 STREET                 ,1,0,1
+WEST 254 STREET                 ,1,0,1
+68 DRIVE                        ,1,0,1
+MARCY PLACE                     ,1,0,1
+WEST 67 STREET                  ,1,0,1
+LYVERE STREET                   ,1,0,1
+LYMAN STREET                    ,1,0,1
+WEST 76 STREET                  ,1,0,1
+LIGHT STREET                    ,1,0,1
+WEST LAKE DRIVE                 ,1,0,1
+119 STREET                      ,1,0,1
+WEST FINGERBOARD ROAD           ,1,0,1
+LINCOLN STREET                  ,1,0,1
+WEST FARMS ROAD                 ,1,0,1
+80 ROAD                         ,1,0,1
+LITTLE CLOVE ROAD               ,1,0,1
+12 ROAD                         ,1,0,1
+LIVERMORE AVENUE                ,1,0,1
+WEST AVENUE                     ,1,0,1
+WEST 99 STREET                  ,1,0,1
+LO JACKSON AVENUE               ,1,0,1
+WEST 98 STREET                  ,1,0,1
+121 AVENUE                      ,1,0,1
+LONG STREET                     ,1,0,1
+121 STREET                      ,1,0,1
+LORING PLACE SOUTH              ,1,0,1
+LOUBET STREET                   ,1,0,1
+76 AVENUE                       ,1,0,1
+WEST 81 STREET                  ,1,0,1
+MILFORD STREET                  ,1,0,1
+NEPTUNE PLACE                   ,1,0,1
+149 ROAD                        ,1,0,1
+STOCKHOLM STREET                ,1,0,1
+STEWART AVENUE                  ,1,0,1
+STEUBEN AVENUE                  ,1,0,1
+PROVOST AVENUE                  ,1,0,1
+PROVOST STREET                  ,1,0,1
+41 ROAD                         ,1,0,1
+STEINWAY AVENUE                 ,1,0,1
+STATION ROAD                    ,1,0,1
+PUTNAM AVENUE WEST              ,1,0,1
+PUTNAM PLACE                    ,1,0,1
+QUEENS MIDTOWN EXPY             ,1,0,1
+QUEENSBORO  BRIDGE              ,1,0,1
+STARLING AVENUE                 ,1,0,1
+36TH STREET                     ,1,0,1
+QUENCER ROAD                    ,1,0,1
+34TH STREET                     ,1,0,1
+QUINN STREET                    ,1,0,1
+ST RAYMONDS AVE                 ,1,0,1
+RACAL COURT                     ,1,0,1
+ST PAUL                         ,1,0,1
+RAE AVENUE                      ,1,0,1
+RAILROAD AVENUE                 ,1,0,1
+ST MARY'S STREET                ,1,0,1
+RATHBUN AVENUE                  ,1,0,1
+READE STREET                    ,1,0,1
+ST MARKS AVENUE                 ,1,0,1
+REEVES AVENUE                   ,1,0,1
+ST ANNS AVE                     ,1,0,1
+44 DRIVE                        ,1,0,1
+443 LIGHT HOUSE AVENUE          ,1,0,1
+150 AVENUE                      ,1,0,1
+PRESIDENT STREET                ,1,0,1
+49 AVENUE                       ,1,0,1
+THOMAS BOYLAND ST               ,1,0,1
+PENN STREET                     ,1,0,1
+PENNSYLVANIA AVE                ,1,0,1
+THIRD AVE                       ,1,0,1
+THIERIOT AVENUE                 ,1,0,1
+TENNEY PLACE                    ,1,0,1
+PIERCE AVENUE                   ,1,0,1
+TENBROECK AVENUE                ,1,0,1
+PILLING STREET                  ,1,0,1
+PINEGROVE STREET                ,1,0,1
+PLATINUM AVENUE                 ,1,0,1
+PLATTSBURG STREET               ,1,0,1
+PLAZA DRIVE                     ,1,0,1
+PLEASANT AVENUE                 ,1,0,1
+SUMPTER STREET                  ,1,0,1
+SUMNER AVENUE                   ,1,0,1
+POLHEMAS AVENUE                 ,1,0,1
+POLY PLACE                      ,1,0,1
+PONTON AVENUE                   ,1,0,1
+STUART STREET                   ,1,0,1
+PORTAGE AVENUE                  ,1,0,1
+STRANG AVENUE                   ,1,0,1
+POST ROAD                       ,1,0,1
+214 PLACE                       ,1,0,1
+PRENTISS AVENUE                 ,1,0,1
+PRESCOTT AVENUE                 ,1,0,1
+SOUTHERN STATE PARKWAY          ,1,0,1
+32 STREET                       ,1,0,1
+32 PLACE                        ,1,0,1
+228 STREET                      ,1,0,1
+264 STREET                      ,1,0,1
+ROGERS PLACE                    ,1,0,1
+ROMA AVENUE                     ,1,0,1
+SHERIDAN BOULEVARD              ,1,0,1
+ROPES AVENUE                    ,1,0,1
+262 PLACE                       ,1,0,1
+ROSS AVENUE                     ,1,0,1
+ROSSVILLE AVENUE                ,1,0,1
+SHEPHERD AVENUE                 ,1,0,1
+260 STREET                      ,1,0,1
+SHEA STADIUM                    ,1,0,1
+SHEA ROAD                       ,1,0,1
+SHEA RD                         ,1,0,1
+SHARROTT AVENUE                 ,1,0,1
+SAINT JOHNS AVENUE              ,1,0,1
+SEELEY STREET                   ,1,0,1
+SEAVER AVENUE                   ,1,0,1
+SAINT MARYS AVENUE              ,1,0,1
+SEAGIRT AVENUE                  ,1,0,1
+SEABURY STREET                  ,1,0,1
+SEABURY AVENUE                  ,1,0,1
+JOHN STREET                     ,1,0,1
+SCHIEFELIN AVENUE               ,1,0,1
+SAMPSON AVENUE                  ,1,0,1
+SCHAEFER STREET                 ,1,0,1
+257 STREET                      ,1,0,1
+SAULL STREET                    ,1,0,1
+24 ROAD                         ,1,0,1
+236 STREET                      ,1,0,1
+235 STREET                      ,1,0,1
+RICHMOND VALLEY ROAD            ,1,0,1
+REMSEN PLACE                    ,1,0,1
+REON AVENUE                     ,1,0,1
+31 ROAD                         ,1,0,1
+REV JAMES POLITE AVE            ,1,0,1
+SOUTHBOUND VAN WYCK EXPRESSWAY S,1,0,1
+23 ROAD                         ,1,0,1
+RICHARDS STREET                 ,1,0,1
+RICHARDSON AVENUE               ,1,0,1
+RICHARDSON STREET               ,1,0,1
+SOUTH GANNON AVENUE             ,1,0,1
+230 PLACE                       ,1,0,1
+30 DRIVE                        ,1,0,1
+RIDER AVENUE                    ,1,0,1
+SKILLMAN STREET                 ,1,0,1
+3 STREET                        ,1,0,1
+RIEGALMAN BOARDWALK WEST        ,1,0,1
+3 PLACE                         ,1,0,1
+RIVINGTON STREET                ,1,0,1
+ROBERT F WAGNER PLACE           ,1,0,1
+ROBERTS AVENUE                  ,1,0,1
+ROBERTSON PLACE                 ,1,0,1
+ROBINSON STREET                 ,1,0,1
+ROCKAWAY BLVD                   ,1,0,1
+SOUTH 2 STREET                  ,1,0,1
+SOUNDVIEW LANE                  ,1,0,1
+ROCKAWAY POINT BLVD             ,1,0,1
+PECONIC STREET                  ,1,0,1
+THOMAS S BOYLAND                ,1,0,1
+201 PLACE                       ,1,0,1
+NICHOLS AVENUE                  ,1,0,1
+60 AVENUE                       ,1,0,1
+NEILL AVENUE                    ,1,0,1
+WATKINS STREET                  ,1,0,1
+WATKINS AVENUE                  ,1,0,1
+NELSON STREET                   ,1,0,1
+6 STREET                        ,1,0,1
+254 STREET                      ,1,0,1
+NETHERLAND AVENUE               ,1,0,1
+WATERBURY AVENUE                ,0,1,1
+162 AVENUE                      ,1,0,1
+NEW DORP PLAZA                  ,1,0,1
+59 DRIVE                        ,1,0,1
+WASHINGTON SQUARE SOUTH         ,1,0,1
+WASHINGTON SQUARE EAST          ,1,0,1
+WASHINGTON PLACE                ,1,0,1
+164 AVENUE                      ,1,0,1
+165 STREET                      ,1,0,1
+WARD AVENUE                     ,1,0,1
+WANAMAKER PLACE                 ,1,0,1
+WALTHAM STREET                  ,1,0,1
+NEW STREET                      ,1,0,1
+WALLOON STREET                  ,1,0,1
+NEWBOLD AVENUE                  ,1,0,1
+W 24 STREET                     ,1,0,1
+VIRGINIA STREET                 ,0,1,1
+NEWPORT AVENUE                  ,1,0,1
+VINE STREET                     ,1,0,1
+WAVERLY AVENUE                  ,1,0,1
+60 PLACE                        ,1,0,1
+NASSAU BOULEVARD                ,1,0,1
+MOSEL AVENUE                    ,1,0,1
+MINNIEFORD AVENUE               ,1,0,1
+MOBILE AVENUE                   ,1,0,1
+MOFFAT STREET                   ,1,0,1
+MONITOR STREET                  ,1,0,1
+150 DRIVE                       ,1,0,1
+MONTICELLO AVENUE               ,1,0,1
+WEST 128 STREET                 ,1,0,1
+153 COURT                       ,1,0,1
+158 AVENUE                      ,1,0,1
+63 ROAD                         ,1,0,1
+WEST 109 STREET                 ,1,0,1
+MORTON PLACE                    ,1,0,1
+MOSHOLU AVENUE                  ,1,0,1
+WAYNE AVENUE                    ,1,0,1
+MOTHER GASTON BOULEVARD         ,1,0,1
+WEST 107 STREET                 ,1,0,1
+WEST 106 STREET                 ,1,0,1
+MOTHER GATSON STREET            ,1,0,1
+WEST 103 STREET                 ,1,0,1
+WEST 101 STREET                 ,1,0,1
+WEST 100 STREET                 ,1,0,1
+MOUNT MORRIS PARK WEST          ,1,0,1
+MURRAY STREET                   ,1,0,1
+WELLER AVENUE                   ,1,0,1
+WELL DRIVE                      ,1,0,1
+NAMEOKE STREET                  ,1,0,1
+VILLAGE ROAD EAST               ,1,0,1
+NOBLE AVENUE                    ,1,0,1
+PATH OF PROGRESS                ,1,0,1
+NOLL STREET                     ,1,0,1
+OLD TOWN ROAD                   ,1,0,1
+VAN WYCK EXPRESSWAY             ,1,0,1
+OLGA PLACE                      ,1,0,1
+OLIVER PLACE                    ,1,0,1
+UXBRIDGE STREET                 ,1,0,1
+UTTER AVENUE                    ,1,0,1
+ONEIDA AVENUE                   ,1,0,1
+OSGOOD AVENUE                   ,1,0,1
+URBANA STREET                   ,1,0,1
+OSTEGO STREET                   ,1,0,1
+UNIVERSITY PLACE                ,1,0,1
+OVERBAUGH PLACE                 ,1,0,1
+OVERING STREET                  ,1,0,1
+UNION HALL STREET               ,1,0,1
+ULMER STREET                    ,1,0,1
+TYLER AVENUE                    ,1,0,1
+TUNNEL EXIT STREET              ,1,0,1
+TRUXTON STREET                  ,1,0,1
+194 STREET                      ,1,0,1
+54 AVENUE                       ,1,0,1
+198 STREET                      ,1,0,1
+53 AVENUE                       ,1,0,1
+1ST AVENUE                      ,1,0,1
+THWAITES PLACE                  ,1,0,1
+PARK HILL AVENUE                ,1,0,1
+PARK ROW                        ,1,0,1
+PARKVILLE AVENUE                ,1,0,1
+OLD MILL ROAD                   ,1,0,1
+OLD FULTON STREET               ,1,0,1
+55 DRIVE                        ,1,0,1
+VANNEST AVENUE                  ,1,0,1
+VILLA AVENUE                    ,1,0,1
+VIELE AVENUE                    ,1,0,1
+VETERANS ROAD WEST              ,1,0,1
+NORMAN AVENUE                   ,1,0,1
+NORTH 10 STREET                 ,1,0,1
+NORTH 11 STREET                 ,1,0,1
+VARET STREET                    ,1,0,1
+NORTH 6 STREET                  ,1,0,1
+NORTH 7 STREET                  ,1,0,1
+NORTH BRIDGE STREET             ,1,0,1
+VANZANDT AVENUE                 ,1,0,1
+NORTH CONDUIT                   ,1,0,1
+VANLOON STREET                  ,1,0,1
+VANCORTLANDT AVENUE WEST        ,1,0,1
+NORTH END AVENUE                ,1,0,1
+57 ROAD                         ,1,0,1
+NORTH RAILROAD AVENUE           ,1,0,1
+NORTON DRIVE                    ,1,0,1
+NORWALK AVENUE                  ,1,0,1
+NORWOOD AVENUE                  ,1,0,1
+NURGE AVENUE                    ,1,0,1
+56 AVENUE                       ,1,0,1
+OAKDALE STREET                  ,1,0,1
+OAKLAND AVENUE                  ,1,0,1
+OAKLEY STREET                   ,1,0,1
+OCEAN PROMENADE                 ,1,0,1
+JOHNSON STREET                  ,1,0,1
+BRUCKNER BLVD SERVICE ROAD      ,1,0,1
+EAST 220 STREET                 ,1,0,1
+ELLIOT PLACE                    ,1,0,1
+BELFAST AVENUE                  ,1,0,1
+HAMPTON AVENUE                  ,1,0,1
+ELIZABETH STREET                ,1,0,1
+HAMPTON PLACE                   ,1,0,1
+BEEKMAN STREET                  ,1,0,1
+HANCOCK PLACE                   ,1,0,1
+COLONY AVENUE                   ,1,0,1
+BEECH AVENUE                    ,1,0,1
+HANNAH STREET                   ,1,0,1
+HANNIBAL STREET                 ,1,0,1
+EAST 133 STREET                 ,1,0,1
+HANOVER STREET                  ,1,0,1
+EGBERT AVENUE                   ,1,0,1
+HARKNESS AVENUE                 ,1,0,1
+BEDFORD AVE & CHURCH AVE        ,1,0,1
+DODWORTH STREET                 ,1,0,1
+COLDEN STREET                   ,1,0,1
+COLDEN AVENUE                   ,1,0,1
+HARLEM RIVER PARK               ,1,0,1
+COHANCY STREET                  ,1,0,1
+EDGEWOOD AVENUE                 ,1,0,1
+ELK DRIVE                       ,1,0,1
+BELKNAP STREET                  ,1,0,1
+CLYDE STREET                    ,1,0,1
+ARCHER STREET                   ,1,0,1
+EAST 113 STREET                 ,1,0,1
+GROSVENOR STREET                ,1,0,1
+BOWERY STREET                   ,1,0,1
+BOX STREET                      ,1,0,1
+GURLEY AVENUE                   ,1,0,1
+GUY R BREWER BLVD               ,1,0,1
+GUY R BREWER BOULEVARD          ,1,0,1
+HAIGHT AVENUE                   ,1,0,1
+COOLIDGE AVENUE                 ,1,0,1
+ELMWOOD AVENUE                  ,1,0,1
+BOYNTON AVENUE                  ,1,0,1
+CONTINENTAL AVENUE              ,1,0,1
+ELMHURST AVENUE                 ,1,0,1
+ELM PLACE                       ,1,0,1
+BENNETT STREET                  ,1,0,1
+BRADY AVENUE                    ,1,0,1
+CONDUIT AVENUE                  ,1,0,1
+BENEDICT AVENUE                 ,1,0,1
+BEMENT AVENUE                   ,1,0,1
+CONCORD STREET                  ,1,0,1
+ELLSWORTH AVENUE                ,1,0,1
+HARRING STREET                  ,1,0,1
+ANDREWS STREET                  ,1,0,1
+BAY 19 STREET                   ,1,0,1
+BRIGHTON AVENUE                 ,1,0,1
+AMPERE AVENUE                   ,1,0,1
+CLAFLIN AVENUE                  ,1,0,1
+BRIGHTWATER COURT               ,1,0,1
+BAY 10 STREET                   ,1,0,1
+HENRY PLACE                     ,1,0,1
+AMITY PLACE                     ,1,0,1
+EAST 155 STREET                 ,1,0,1
+BRISBIN STREET                  ,1,0,1
+BRITTON STREET                  ,1,0,1
+HERBERT STREET                  ,1,0,1
+HERING AVENUE                   ,1,0,1
+HERKIMER PLACE                  ,1,0,1
+AMHERST AVENUE                  ,1,0,1
+BAY 11 STREET                   ,1,0,1
+HERZL STREET                    ,1,0,1
+BAY 13 STREET                   ,1,0,1
+HETT AVENUE                     ,1,0,1
+HEWES STREET                    ,1,0,1
+HEYSON ROAD                     ,1,0,1
+BAY 16 STREET                   ,1,0,1
+BAY 17 STREET                   ,1,0,1
+CLAREMONT AVENUE                ,1,0,1
+HENRY HUDSON                    ,1,0,1
+HARRISON PLACE                  ,1,0,1
+EAST RD                         ,1,0,1
+CLOVER PLACE                    ,1,0,1
+BRIGHTON 10 STREET              ,1,0,1
+HARROD AVENUE                   ,1,0,1
+HARROD PLACE                    ,1,0,1
+ED KOCH QUEENSBORO BRIDGE       ,1,0,1
+HARROW STREET                   ,1,0,1
+BRIGHTON 11 STREET              ,1,0,1
+HARWAY AVENUE                   ,1,0,1
+BEAUMONT AVENUE                 ,1,0,1
+CLIFTON PLACE                   ,1,0,1
+CLIFTON AVENUE                  ,1,0,1
+CLEVELAND AVENUE                ,1,0,1
+BRIGHTON 2 STREET               ,1,0,1
+HAY STREET                      ,1,0,1
+BRIGHTON 4 STREET               ,1,0,1
+EASTBURN AVENUE                 ,1,0,1
+CLARKSON STREET                 ,1,0,1
+ANDERSON AVENUE                 ,1,0,1
+HENDRICKSON STREET              ,1,0,1
+BEACH FRONT ROAD                ,1,0,1
+EAST 153 STREET                 ,1,0,1
+CORTELYOU AVENUE                ,1,0,1
+GRENFELL STREET                 ,1,0,1
+CORTLANDT STREET                ,1,0,1
+DRY HARBOR ROAD                 ,1,0,1
+FRONT STREET                    ,1,0,1
+BANCROFT PLACE                  ,1,0,1
+DEVOE STREET                    ,1,0,1
+DUBOIS AVENUE                   ,1,0,1
+FIELDWAY AVENUE                 ,1,0,1
+FULTON AVENUE                   ,1,0,1
+FERRY TERMINAL DRIVE            ,1,0,1
+AUGUSTINA AVENUE                ,1,0,1
+FERRIS STREET                   ,1,0,1
+G.C.P / L.I.E. (CDR)            ,1,0,1
+G.C.P. / JEWEL (CDR)            ,1,0,1
+DELMAR AVENUE                   ,1,0,1
+DELAWARE STREET                 ,1,0,1
+DUFFIELD STREET                 ,1,0,1
+GANSEVOORT BOULEVARD            ,1,0,1
+FENTON AVENUE                   ,1,0,1
+DUNCAN STREET                   ,1,0,1
+DEAN AVENUE                     ,1,0,1
+AUBREY AVENUE                   ,1,0,1
+BARCLAY CIRCLE                  ,1,0,1
+GEORGE STREET                   ,1,0,1
+DEWEY AVENUE                    ,1,0,1
+BILLINGSLY TERRACE              ,1,0,1
+GRENADA PLACE                   ,1,0,1
+DEXTER COURT                    ,1,0,1
+BAINBRIDGE STREET               ,1,0,1
+BIRCH ROAD                      ,1,0,1
+FOREST PARKWAY                  ,1,0,1
+FORT GREENE PLACE               ,1,0,1
+AZALEA COURT                    ,1,0,1
+DONGAN PLACE                    ,1,0,1
+DINSMORE PLACE                  ,1,0,1
+DINSMORE AVENUE                 ,1,0,1
+BIRCH AVENUE                    ,1,0,1
+FLEET STREET                    ,1,0,1
+DORIS STREET                    ,1,0,1
+AVENUE OF SCIENCE               ,1,0,1
+DOUGLASS STREET                 ,1,0,1
+AVENUE OF AMERICAS              ,0,1,1
+FRANKLIN ROOSEVELT DR           ,1,0,1
+AVENUE F                        ,1,0,1
+FISH AVENUE                     ,1,0,1
+DREISER LOOP                    ,1,0,1
+DREW STREET                     ,1,0,1
+FRESH MEADOW LANE               ,1,0,1
+DIANAS TRAIL                    ,1,0,1
+GEORGIA ROAD                    ,1,0,1
+DAWSON STREET                   ,1,0,1
+BARCLAY STREET                  ,1,0,1
+ASTORIA PARK SOUTH              ,1,0,1
+CROSS BRONX EXTENTION           ,1,0,1
+BARNWELL AVENUE                 ,1,0,1
+CROSS BAY BLVD                  ,1,0,1
+ARION PLACE                     ,1,0,1
+CROSBY STREET                   ,1,0,1
+BOODY STREET                    ,1,0,1
+CROPSEY AVE                     ,1,0,1
+CROOKE AVENUE                   ,1,0,1
+BOOTH STREET                    ,1,0,1
+GRANT CIRCLE                    ,1,0,1
+GRANT PLACE                     ,1,0,1
+CROES AVENUE                    ,1,0,1
+CRAWFORD AVENUE                 ,1,0,1
+CRANDALL AVENUE                 ,1,0,1
+CRAIG AVENUE                    ,1,0,1
+BOSTON RD                       ,1,0,1
+BARRETTO STREET                 ,1,0,1
+GREENWAY TERRACE                ,1,0,1
+GREENWICH AVENUE                ,1,0,1
+COSTER STREET                   ,1,0,1
+GREENWOOD AVENUE                ,1,0,1
+CROSS BRONX SERVICE ROAD        ,1,0,1
+CROSS STREET                    ,1,0,1
+BARNETT AVENUE                  ,1,0,1
+GOETHALS ROAD NORTH             ,1,0,1
+GETTYSBURG STREET               ,1,0,1
+FAIRMOUNT PLACE                 ,1,0,1
+FAIRMOUNT AVENUE                ,1,0,1
+DARLINGTON AVENUE               ,1,0,1
+GLEN STREET                     ,1,0,1
+DWIGHT STREET                   ,1,0,1
+ASKE STREET                     ,1,0,1
+GOBLE PLACE                     ,1,0,1
+CYRUS AVENUE                    ,1,0,1
+BOARDWALK EAST                  ,1,0,1
+ARVERNE BOULEVARD               ,1,0,1
+GOLD STREET                     ,1,0,1
+BARD AVENUE                     ,1,0,1
+CUMMING STREET                  ,1,0,1
+EXETER STREET                   ,1,0,1
+GOWANUS EXPRESSWAY              ,1,0,1
+CRUGER AVENUE                   ,1,0,1
+EVELYN PLACE                    ,1,0,1
+ASCAN AVENUE                    ,1,0,1
+EAGLE AVENUE                    ,1,0,1
+HICKORY AVENUE                  ,1,0,1
+BAILEY AVE                      ,1,0,1
+EAST 158 STREET                 ,1,0,1
+CARMINE STREET                  ,1,0,1
+BEACH 59 STREET                 ,1,0,1
+HUGH GRANT CIRCLE               ,1,0,1
+CARVER LOOP                     ,1,0,1
+ALBEE SQUARE                    ,1,0,1
+CARTER AVENUE                   ,1,0,1
+BAYCLUB DRIVE                   ,1,0,1
+HULL STREET                     ,1,0,1
+CARLTON CT                      ,1,0,1
+CASE STREET                     ,1,0,1
+CAPUCHIN WAY                    ,1,0,1
+BAYSWATER AVENUE                ,1,0,1
+CANTERBURY AVENUE               ,1,0,1
+ALBANY STREET                   ,1,0,1
+CANEY LANE                      ,1,0,1
+CANARSIE ROAD                   ,1,0,1
+CAMERON PLACE                   ,1,0,1
+CASANOVA STREET                 ,1,0,1
+HOYT STREET                     ,1,0,1
+CALYER STREET                   ,1,0,1
+EAST 179                        ,1,0,1
+HONE AVENUE                     ,1,0,1
+BEACH 67 STREET                 ,1,0,1
+HONEYWELL AVENUE                ,1,0,1
+HONEYWELL STREET                ,1,0,1
+EAST 8 STREET                   ,1,0,1
+EAST 78 STREET                  ,1,0,1
+CEDARGROVE AVENUE               ,1,0,1
+EAST 75 STREET                  ,1,0,1
+CASS PLACE                      ,1,0,1
+CEDAR STREET                    ,1,0,1
+EAST 72ND STREET & 1 AVENUE     ,1,0,1
+EAST 70 STREET                  ,1,0,1
+CEDAR AVENUE                    ,1,0,1
+JEWETT AVENUE                   ,1,0,1
+BROOKLYN BRIDGE WALKWAY         ,1,0,1
+ALBERT ROAD                     ,1,0,1
+CAMBRIDGE AVENUE                ,1,0,1
+EAST 5 STREET                   ,1,0,1
+BEACH 72 STREET                 ,1,0,1
+JARVIS AVENUE                   ,1,0,1
+BEACH 44 STREET                 ,1,0,1
+JACKSON STREET                  ,1,0,1
+BUEL AVENUE                     ,1,0,1
+JACQUES AVENUE                  ,1,0,1
+BEACH 25 STREET                 ,1,0,1
+JANE STREET                     ,1,0,1
+EAST 216 STREET                 ,1,0,1
+JAVA STREET                     ,1,0,1
+BURNS STREET                    ,1,0,1
+ACADEMY PLACE                   ,1,0,1
+BEACH 28 STREET                 ,1,0,1
+ABINGDON ROAD                   ,1,0,1
+JENNINGS STREET                 ,1,0,1
+BEACH 42 STREET                 ,1,0,1
+BEACH 36 STREET                 ,1,0,1
+EAST 225 STREET                 ,1,0,1
+ADAMS PLACE                     ,1,0,1
+BEACH 136 STREET                ,1,0,1
+HUXLEY STREET                   ,1,0,1
+EAST 201 STREET                 ,1,0,1
+BEACH 11 STREET                 ,1,0,1
+CALLOWAY STREET                 ,1,0,1
+CALDWELL AVENUE                 ,1,0,1
+EAST 197 STREET                 ,1,0,1
+CADMAN PLAZA EAST               ,1,0,1
+EAST 199 STREET                 ,1,0,1
+ILION AVENUE                    ,1,0,1
+ILYSE COURT                     ,1,0,1
+EAST 207 STREET                 ,1,0,1
+EAST 202 STREET                 ,1,0,1
+INGRAHAM STREET                 ,1,0,1
+EAST 203 STREET                 ,1,0,1
+EAST 4 STREET                   ,1,0,1
+EAST 205 STREET                 ,1,0,1
+ISHAM STREET                    ,1,0,1
+BEACH 123 STREET                ,1,0,1
+HOMER AVENUE                    ,1,0,1
+BEACH 53 STREET                 ,1,0,1
+CHATTERTON AVENUE               ,1,0,1
+EAST 159 STREET                 ,1,0,1
+BAY 29 STREET                   ,1,0,1
+BROADWAY TERRACE                ,1,0,1
+BEACH 92 STREET                 ,1,0,1
+BAY 32  STREET                  ,1,0,1
+BEACH 82 STREET                 ,1,0,1
+CENTREVILLE AVENUE              ,1,0,1
+HILLCREST STREET                ,1,0,1
+BEACH 94 STREET                 ,1,0,1
+HIGHLAWN AVENUE                 ,1,0,1
+BAY 25 STREET                   ,1,0,1
+CENTRAL PARK NORTH              ,1,0,1
+BEACH 73 STREET                 ,1,0,1
+CHARLESTON AVENUE               ,1,0,1
+CHANNEL AVENUE                  ,1,0,1
+HIGHLAND PLACE                  ,1,0,1
+BAY 44 STREET                   ,1,0,1
+HILLYER STREET                  ,1,0,1
+BAY 35 STREET                   ,1,0,1
+HOMECREST AVENUE                ,1,0,1
+HILLSIDE TERRACE                ,1,0,1
+HOLLY AVENUE                    ,1,0,1
+CENTER DRIVE                    ,1,0,1
+EAST 80 STREET & 2ND AVENUE     ,1,0,1
+CHARLES AVENUE                  ,1,0,1
+DUNCOMB AVENUE                  ,0,0,0
+STARR AVENUE                    ,0,0,0
+EAST 206 STREET                 ,0,0,0
+230 STREET                      ,0,0,0
+BEACH 90 STREET                 ,0,0,0
+UNIVERSITY PARK                 ,0,0,0
+UNIVERSITY HEIGHTS BRIDGE       ,0,0,0
+DUNKIRK DRIVE                   ,0,0,0
+BEVERLY ROAD                    ,0,0,0
+DUER LANE                       ,0,0,0
+DUFFIELD ST                     ,0,0,0
+187 STREET                      ,0,0,0
+184 STREET                      ,0,0,0
+VALENTINE PLACE                 ,0,0,0
+VALLES AVENUE                   ,0,0,0
+SOUTH 6 STREET                  ,0,0,0
+VAM DAM STREET                  ,0,0,0
+BEACH 45 STREET                 ,0,0,0
+EAST 209 STREET                 ,0,0,0
+SMART STREET                    ,0,0,0
+VAN BRUNT STREET                ,0,0,0
+VAN BUREN STREET                ,0,0,0
+235 COURT                       ,0,0,0
+TROTTING COURSE LANE            ,0,0,0
+SLOCUM PLACE                    ,0,0,0
+BETTS AVENUE                    ,0,0,0
+DUTCHESS AVENUE                 ,0,0,0
+DUNNE COURT                     ,0,0,0
+SOMERSET STREET                 ,0,0,0
+TRYON AVENUE                    ,0,0,0
+STANWIX STREET                  ,0,0,0
+TUDOR PLACE                     ,0,0,0
+STICKBALL BOULEVARD             ,0,0,0
+TUNNEL EXIT ST                  ,0,0,0
+SOUTH 10 STREET                 ,0,0,0
+DUTCH KILLS STREET              ,0,0,0
+STEWART STREET                  ,0,0,0
+BEACH 46 STREET                 ,0,0,0
+TURIN DRIVE                     ,0,0,0
+STANWICH STREET                 ,0,0,0
+BETHUNE STREET                  ,0,0,0
+STEWART ST                      ,0,0,0
+TURNBULL AVENUE                 ,0,0,0
+STEWART ROAD                    ,0,0,0
+EAST 154 STREET                 ,0,0,0
+BEACH 91 STREET                 ,0,0,0
+DURYEA COURT                    ,0,0,0
+191 STREET                      ,0,0,0
+DURANT AVENUE                   ,0,0,0
+DUPONT STREET                   ,0,0,0
+190 LANE                        ,0,0,0
+UNION 112 TURNPIKE              ,0,0,0
+SLATER BOULEVARD                ,0,0,0
+19 ROAD                         ,0,0,0
+DUNTON STREET                   ,0,0,0
+DUNTON AVENUE                   ,0,0,0
+SOHO DRIVE                      ,0,0,0
+SOBEL COURT                     ,0,0,0
+UNION SQUARE WEST               ,0,0,0
+SO CONDUIT AVE                  ,0,0,0
+BEAVER ROAD                     ,0,0,0
+VAN CORDTLANT AVENUE            ,0,0,0
+VAN CORTLAND PARK SOUTH         ,0,0,0
+DONGAN STREET                   ,0,0,0
+239 STREET                      ,0,0,0
+238 STREET                      ,0,0,0
+DORAN AVENUE                    ,0,0,0
+237 STREET                      ,0,0,0
+216 STREET                      ,0,0,0
+EAST 162 STREET                 ,0,0,0
+DORMANS ROAD                    ,0,0,0
+18 STREET                       ,0,0,0
+VANRIPER STREET                 ,0,0,0
+VANPELT AVENUE                  ,0,0,0
+DORSET STREET                   ,0,0,0
+DOSCHER STREET                  ,0,0,0
+VANHORN STREET                  ,0,0,0
+EAST 218 STREET                 ,0,0,0
+217 PLACE                       ,0,0,0
+VAUGHAN STREET                  ,0,0,0
+BEACH 96 STREET                 ,0,0,0
+178 STREET                      ,0,0,0
+176 STREET                      ,0,0,0
+DOGWOOD DRIVE                   ,0,0,0
+DOMINICK STREET                 ,0,0,0
+SHERMAN STREET                  ,0,0,0
+VERONA STREET                   ,0,0,0
+VERONA PLACE                    ,0,0,0
+VERNON BLVD                     ,0,0,0
+EAST 22                         ,0,0,0
+DONGAN AVENUE                   ,0,0,0
+SHILOH AVENUE                   ,0,0,0
+DONGAN HILL AVENUE              ,0,0,0
+179 PLACE                       ,0,0,0
+VERMONT AVENUE                  ,0,0,0
+DONGAN HILLS                    ,0,0,0
+DOUGLAS AVENUE                  ,0,0,0
+DOUGLAS ROAD                    ,0,0,0
+VANDOREN STREET                 ,0,0,0
+DRYSDALE STREET                 ,0,0,0
+SIMONSON AVENUE                 ,0,0,0
+DRIGGS STREET                   ,0,0,0
+BIDWELL AVENUE                  ,0,0,0
+VAN SINDEREN                    ,0,0,0
+STATE STREET                    ,0,0,0
+SIMPSON STREET                  ,0,0,0
+EAST 212 STREET                 ,0,0,0
+VANALLEN AVENUE                 ,0,0,0
+DUANE STREET                    ,0,0,0
+TRINITY AVENUE                  ,0,0,0
+EAST 210 STREET                 ,0,0,0
+VAN COURTLANDT PARK SOUTH       ,0,0,0
+DUDLEY AVENUE                   ,0,0,0
+SKY LANE                        ,0,0,0
+EAST 215 STREET                 ,0,0,0
+BEACH 98 STREET                 ,0,0,0
+VANDERVOPRT AVE                 ,0,0,0
+STERLING STREET                 ,0,0,0
+VANDERVOORT AV                  ,0,0,0
+VANDERVEER STREET               ,0,0,0
+VANDERBILT STREET               ,0,0,0
+DOUGLASTON PARKWAY              ,0,0,0
+DOWNES AVENUE                   ,0,0,0
+182 PLACE                       ,0,0,0
+VANCORTLANDT PARK WEST          ,0,0,0
+VANCLEEF STREET                 ,0,0,0
+DOYERS STREET                   ,0,0,0
+SIDWAY PLACE                    ,0,0,0
+BEACH 97 STREET                 ,0,0,0
+VANCORTLANDT PARK EAST          ,0,0,0
+VANCORTLANDT PARK               ,0,0,0
+SILVER ROAD                     ,0,0,0
+TRINITY PLACE                   ,0,0,0
+TRANTOR PLACE                   ,0,0,0
+DYER AVENUE                     ,0,0,0
+TENNIS PLACE                    ,0,0,0
+THIRD AVENUE BRIDGE             ,0,0,0
+SPENCER AVENUE                  ,0,0,0
+BELT PKWY                       ,0,0,0
+SPENCER PLACE                   ,0,0,0
+BELLAIRE PLACE                  ,0,0,0
+SPENCER STREET                  ,0,0,0
+SULLIVAN STREET                 ,0,0,0
+EAST 121 STREET                 ,0,0,0
+SPOFFORD AVENUE                 ,0,0,0
+THATFORD AVENUE                 ,0,0,0
+THAMES STREET                   ,0,0,0
+TERRACE PLACE                   ,0,0,0
+ST RAYMOND AVENUE               ,0,0,0
+SPRAGUE AVENUE                  ,0,0,0
+SPRATT AVENUE                   ,0,0,0
+SULLIVAN PLACE                  ,0,0,0
+BEACH 77 STREET                 ,0,0,0
+BEARD STREET                    ,0,0,0
+BEADEL STREET                   ,0,0,0
+THOMPSON STREET                 ,0,0,0
+THOMAS STREET                   ,0,0,0
+BEACH 84 STREET                 ,0,0,0
+THOMAS S BOYLAND STREET         ,0,0,0
+BEACH 57 STREET                 ,0,0,0
+STRYKER STREET                  ,0,0,0
+BEACH 60 STREET                 ,0,0,0
+BEACH 81 STREET                 ,0,0,0
+EAST 180                        ,0,0,0
+BENSON STREET                   ,0,0,0
+SOUTHGATE STREET                ,0,0,0
+212 PLACE                       ,0,0,0
+SPARK PLACE                     ,0,0,0
+SPARKHILL AVENUE                ,0,0,0
+BEACH 64 STREET                 ,0,0,0
+SUMMERFIELD AVENUE              ,0,0,0
+202 STREET                      ,0,0,0
+TENNIS COURT                    ,0,0,0
+SWINNERTON STREET               ,0,0,0
+BEACH 65 STREET                 ,0,0,0
+SWAN STREET                     ,0,0,0
+BEAUMONT STREET                 ,0,0,0
+SUTTON PLACE SOUTH              ,0,0,0
+ST JAMES PLACE                  ,0,0,0
+ST JOHNS PLACE                  ,0,0,0
+BEDELL LANE                     ,0,0,0
+SUTTER AVE                      ,0,0,0
+21 ROAD                         ,0,0,0
+SUMNER PLACE                    ,0,0,0
+210 STREET                      ,0,0,0
+BEDELL AVENUE                   ,0,0,0
+SUNNYSIDE TERRACE               ,0,0,0
+SUNNYSIDE AVENUE                ,0,0,0
+SWINTON AVENUE                  ,0,0,0
+ST ANNE AVENUE                  ,0,0,0
+SYCAMORE STREET                 ,0,0,0
+BEECH TERRACE                   ,0,0,0
+ST PETERS AVE                   ,0,0,0
+SPRINGFIELD BLVD                ,0,0,0
+BEEKMAN AVENUE                  ,0,0,0
+BEECHWOOD PLACE                 ,0,0,0
+TEHAMA STREET                   ,0,0,0
+TECH PL                         ,0,0,0
+EAST 175                        ,0,0,0
+SPRITZ ROAD                     ,0,0,0
+ST NICHOLAS AVE                 ,0,0,0
+SUMMIT AVENUE                   ,0,0,0
+BEDFORD STREET                  ,0,0,0
+SPRINGHILL AVENUE               ,0,0,0
+TAIPEI COURT                    ,0,0,0
+TAAFFE PLACE                    ,0,0,0
+SOUTH WILLIAM STREET            ,0,0,0
+STRONGHURST AVENUE              ,0,0,0
+TREADWELL AVENUE                ,0,0,0
+220 PLACE                       ,0,0,0
+EAGLE STREET                    ,0,0,0
+TONSOR STREET                   ,0,0,0
+SOUTH CONDUIT                   ,0,0,0
+TOMPKINS PLACE                  ,0,0,0
+EAMES PLACE                     ,0,0,0
+STANLEY AVE                     ,0,0,0
+TOMLINSON AVENUE                ,0,0,0
+TOKEN STREET                    ,0,0,0
+196 PLACE                       ,0,0,0
+23 TERRACE                      ,0,0,0
+SOUTH ELLIOTT PLACE             ,0,0,0
+BEACH 51 STREET                 ,0,0,0
+EAST 191 STREET                 ,0,0,0
+SOUTH GOFF AVENUE               ,0,0,0
+BEACH STREET                    ,0,0,0
+TOTTEN AVENUE                   ,0,0,0
+SOUTH BRIDGE STREET             ,0,0,0
+EAST 195 STREET                 ,0,0,0
+TRAFFIC AVENUE                  ,0,0,0
+STOBE AVENUE                    ,0,0,0
+E 170 ST                        ,0,0,0
+BEACH 5 STREET                  ,0,0,0
+E 34 STREET                     ,0,0,0
+E 65TH ST                       ,0,0,0
+E FORDHAM RD                    ,0,0,0
+BEACH 87 STREET                 ,0,0,0
+TOTTEN ROAD                     ,0,0,0
+BEACH 99 STREET                 ,0,0,0
+SOUTH 9 STREET                  ,0,0,0
+STONE STREET                    ,0,0,0
+STONEHAM ST                     ,0,0,0
+TOTTENVILLE PLACE               ,0,0,0
+TOTTEN STREET                   ,0,0,0
+196 STREET                      ,0,0,0
+TIMPSON PLACE                   ,0,0,0
+THORNTON PLACE                  ,0,0,0
+BESSEMUND AVENUE                ,0,0,0
+BENZIGER AVENUE                 ,0,0,0
+THROGS NECK EXPY RAMP           ,0,0,0
+STRATFORD ROAD                  ,0,0,0
+213 STREET                      ,0,0,0
+SOUTH PORTLAND AVENUE           ,0,0,0
+BEACH 54 STREET                 ,0,0,0
+SOUTH RAILROAD STREET           ,0,0,0
+BEACH 86 STREET                 ,0,0,0
+EAST 186 STREET                 ,0,0,0
+EAST 185 STREET                 ,0,0,0
+BENTON STREET                   ,0,0,0
+STRICKLAND AVENUE               ,0,0,0
+EAST 114 STREET                 ,0,0,0
+THROGS NECK BOULEVARD           ,0,0,0
+THROGMORTAN AVENUE              ,0,0,0
+EAST 148 STREET                 ,0,0,0
+BERGEN COURT                    ,0,0,0
+THURSTON STREET                 ,0,0,0
+20 ROAD                         ,0,0,0
+EAST 190 STREET                 ,0,0,0
+BERTRAM AVENUE                  ,0,0,0
+STAFF STREET                    ,0,0,0
+STEENWICK AVENUE                ,0,0,0
+TILDEN STREET                   ,0,0,0
+2 STREET                        ,0,0,0
+TIFFANY PLACE                   ,0,0,0
+EAST 107 STREET                 ,0,0,0
+TIEMANN PLACE                   ,0,0,0
+BERRIMAN STREET                 ,0,0,0
+SOUTH PINEHURST AVENUE          ,0,0,0
+STADIUM PLACE SOUTH             ,0,0,0
+TIEBOUT AVENUE                  ,0,0,0
+BERRIAN BOULEVARD               ,0,0,0
+BEDFOD AVENUE                   ,0,0,0
+JODIE COURT                     ,0,0,0
+DOBBIN STREET                   ,0,0,0
+WEST 73 STREET                  ,0,0,0
+CHARLTON STREET                 ,0,0,0
+CHASE COURT                     ,0,0,0
+WEST 91 STREET                  ,0,0,0
+CHATHAM SQUARE                  ,0,0,0
+WEST 88 STREET                  ,0,0,0
+CHEEVER PLACE                   ,0,0,0
+CHELSEA STREET                  ,0,0,0
+CHERRY STREET                   ,0,0,0
+CHESTER AVENUE                  ,0,0,0
+CHESTERTON AVENUE               ,0,0,0
+WEST 82 STREET                  ,0,0,0
+CHESTNUT AVENUE                 ,0,0,0
+WEST 81  STREET                 ,0,0,0
+CHESTNUT CIRCLE                 ,0,0,0
+122 PLACE                       ,0,0,0
+CHISUM PLACE                    ,0,0,0
+CHRISTIE AVENUE                 ,0,0,0
+WEST 77 STREET                  ,0,0,0
+CHRISTOPHER AVENUE              ,0,0,0
+WEST 75 STREET                  ,0,0,0
+WEST 74 STREET                  ,0,0,0
+CHARLES STREET                  ,0,0,0
+CHARLES GAY LOOP                ,0,0,0
+CHAPPELL STREET                 ,0,0,0
+BRONX PARK SOUTH                ,0,0,0
+WEST SERVICE ROAD               ,0,0,0
+CENTER BLVD                     ,0,0,0
+WEST MOSHOLU PARKWAY SOUTH      ,0,0,0
+WEST LOOP ROAD                  ,0,0,0
+CENTER PLACE                    ,0,0,0
+119 DRIVE                       ,0,0,0
+119 ROAD                        ,0,0,0
+CENTER STREET                   ,0,0,0
+BRONX RIVER PARK                ,0,0,0
+12                              ,0,0,0
+CHAPIN PARKWAY                  ,0,0,0
+WEST END AVE                    ,0,0,0
+12 AVENUE SERVICE ROAD          ,0,0,0
+WEST CLARKE PLACE               ,0,0,0
+WEST CASWELL AVENUE             ,0,0,0
+BRONX PARK AVENUE               ,0,0,0
+BROCHER ROAD                    ,0,0,0
+WEST BOUND DR THEODORE KAZIMIROF,0,0,0
+CHANDLER STREET                 ,0,0,0
+WEST ALLEY ROAD                 ,0,0,0
+WEST 74 ST                      ,0,0,0
+CINCINATUS AVENUE               ,0,0,0
+COLLEGE POINT BLVD              ,0,0,0
+WEST 7 STREET                   ,0,0,0
+133 ROAD                        ,0,0,0
+CLINTON PLACE                   ,0,0,0
+CLOISTER PLACE                  ,0,0,0
+135 PLACE                       ,0,0,0
+CLOSE AVENUE                    ,0,0,0
+CLOVE RD                        ,0,0,0
+BRIGHTON 1 PLACE                ,0,0,0
+WEST 28 STREET                  ,0,0,0
+CODY AVENUE                     ,0,0,0
+WEST 263 STREET                 ,0,0,0
+CODY PLACE                      ,0,0,0
+WEST 261 STREET                 ,0,0,0
+WEST 260 STREET                 ,0,0,0
+COFFEY STREET                   ,0,0,0
+WEST 259 STREET                 ,0,0,0
+WEST 255 STREET                 ,0,0,0
+WEST 246 STREET                 ,0,0,0
+WEST 242 STREET                 ,0,0,0
+WEST 240 STREET                 ,0,0,0
+COLEMAN STREET                  ,0,0,0
+COLFAX STREET                   ,0,0,0
+133 DRIVE                       ,0,0,0
+BRIGHTON 12 STREET              ,0,0,0
+CLIFFORD PLACE                  ,0,0,0
+126 AVENUE                      ,0,0,0
+WEST 69 STREET                  ,0,0,0
+WEST 68 STREET                  ,0,0,0
+CIRCLE LOOP                     ,0,0,0
+BRINKERHOFF AVENUE              ,0,0,0
+WEST 64 STREET                  ,0,0,0
+CLARENCE AVENUE                 ,0,0,0
+125 AVENUE                      ,0,0,0
+BRIGHTON 8 STREET               ,0,0,0
+CLARK STREET                    ,0,0,0
+126 PLACE                       ,0,0,0
+BRIGHTON 13 STREET              ,0,0,0
+CLARKE AVENUE                   ,0,0,0
+BRIGHTON 6 STREET               ,0,0,0
+CLARVIEW EXPRESSWAY             ,0,0,0
+CLAUDE AVENUE                   ,0,0,0
+128 DRIVE                       ,0,0,0
+BRIGHTON 3 STREET               ,0,0,0
+CLEARVOEW EXPRESSWAY            ,0,0,0
+13 STREET                       ,0,0,0
+CLEVELAND PLACE                 ,0,0,0
+CENTER 109 DRIVE                ,0,0,0
+WEST SHORE EXPRESSWAY RAMP      ,0,0,0
+WEST SIDE HIGHWAY               ,0,0,0
+118 ROAD                        ,0,0,0
+BURGHER AVENUE                  ,0,0,0
+BROOKS POND PLACE               ,0,0,0
+BURLING STREET                  ,0,0,0
+WOODPOINT ROAD                  ,0,0,0
+WOODHAVEN COURT                 ,0,0,0
+105 AVENUE                      ,0,0,0
+BUSH STREET                     ,0,0,0
+BUSHWICK AVE                    ,0,0,0
+WOOD ROAD                       ,0,0,0
+WOLKOFF LANE                    ,0,0,0
+WOLCOTT STREET                  ,0,0,0
+BUSHWICK PLACE                  ,0,0,0
+BUTLER PLACE                    ,0,0,0
+WITHERS STREET                  ,0,0,0
+BUTTRICK AVENUE                 ,0,0,0
+BYRON AVENUE                    ,0,0,0
+WINHAM AVENUE                   ,0,0,0
+WINGHAM STREET                  ,0,0,0
+CABOT ROAD                      ,0,0,0
+WINDSOR PLACE                   ,0,0,0
+CABRINI BOULEVARD               ,0,0,0
+BURBANK AVENUE                  ,0,0,0
+BULWER PLACE                    ,0,0,0
+BULOVA AVENUE                   ,0,0,0
+BUCHANAN PLACE                  ,0,0,0
+1 STREET                        ,0,0,0
+BROWN PLACE                     ,0,0,0
+YOUNG STREET                    ,0,0,0
+YOUNG AVENUE                    ,0,0,0
+YORK STREET                     ,0,0,0
+BRUNSWICK AVENUE                ,0,0,0
+YETMAN AVENUE                   ,0,0,0
+BROOKYN QNS EXPRESSWAY          ,0,0,0
+BRYANT STREET                   ,0,0,0
+BUCKINGHAM ROAD                 ,0,0,0
+WOODYCREST AVENUE               ,0,0,0
+102 AVENUE                      ,0,0,0
+WYCKOFF STREET                  ,0,0,0
+BUD PLACE                       ,0,0,0
+WYATT STREET                    ,0,0,0
+102 ROAD                        ,0,0,0
+WORTHEN STREET                  ,0,0,0
+WOOSTER STREET                  ,0,0,0
+BULLARD AVENUE                  ,0,0,0
+WOOLEY AVENUE                   ,0,0,0
+WINCHESTER AVENUE               ,0,0,0
+BROOKLYN QUEENS EXPRESSWAY WEST ,0,0,0
+CALHOUN AVENUE                  ,0,0,0
+WESTWOOD AVENUE                 ,0,0,0
+WHITLOCK AVENUE                 ,0,0,0
+WHITESTONE EXPWY                ,0,0,0
+WHITESTONE BRIDGE               ,0,0,0
+WHITEHALL TERRACE               ,0,0,0
+BROOKLYN BRIDGE RAMP            ,0,0,0
+CATHEDRAL PLACE                 ,0,0,0
+CATHERINE STREET                ,0,0,0
+WHEATLEY STREET                 ,0,0,0
+CEBRA AVENUE                    ,0,0,0
+WESTSIDE AVENUE                 ,0,0,0
+CARY AVENUE                     ,0,0,0
+WESTMORELAND STREET             ,0,0,0
+116 ROAD                        ,0,0,0
+WESTGATE STREET                 ,0,0,0
+WESTCHSTER AVENUE               ,0,0,0
+WESTCHESTER SQUARE              ,0,0,0
+117 ROAD                        ,0,0,0
+WESTBOURNE AVENUE               ,0,0,0
+117 STREET                      ,0,0,0
+WEST THAMES STREET              ,0,0,0
+WHITMAN AVENUE                  ,0,0,0
+WHITTEMORE AVENUE               ,0,0,0
+WILLOW STREET                   ,0,0,0
+WILLIAMSON AVENUE               ,0,0,0
+WILLOW ROAD WEST                ,0,0,0
+WILLOW ROAD EAST                ,0,0,0
+CAMBRELENG AVENUE               ,0,0,0
+CAMBRIA AVENUE                  ,0,0,0
+CAMBRIDGE PLACE                 ,0,0,0
+WILLIS AVENUE BRIDGE APPROACH   ,0,0,0
+WILLIS AVENUE BRIDGE            ,0,0,0
+108 AVENUE                      ,0,0,0
+BROOKLYN QUEENS EXPRESSWAY W/B  ,0,0,0
+11 PLACE                        ,0,0,0
+WHITTY LANE                     ,0,0,0
+CANEY ROAD                      ,0,0,0
+CANNON BOULEVARD                ,0,0,0
+BROOKLYN QUEENS EXPRESSWAY SERVI,0,0,0
+BROOKLYN QUEENS EXPRESSWAY E/B  ,0,0,0
+113 DRIVE                       ,0,0,0
+WILKENS AVENUE                  ,0,0,0
+CARROLL PLACE                   ,0,0,0
+CARSON STREET                   ,0,0,0
+WILCOX AVENUE                   ,0,0,0
+COLLEGE PLACE                   ,0,0,0
+138 PLACE                       ,0,0,0
+VESTRY STREET                   ,0,0,0
+WALWORTH STREET                 ,0,0,0
+DEGROOT PLACE                   ,0,0,0
+DEKAY STREET                    ,0,0,0
+BISHOP STREET                   ,0,0,0
+DELAVALL AVENUE                 ,0,0,0
+DELAWARE AVENUE                 ,0,0,0
+WATERS EDGE DRIVE               ,0,0,0
+WATERLOO PLACE                  ,0,0,0
+DELMAR LOOP                     ,0,0,0
+163 AVENUE                      ,0,0,0
+DELMONICO PLACE                 ,0,0,0
+WASHINGTON SQUARE WEST          ,0,0,0
+DELONG STREET                   ,0,0,0
+WASHINGTON SQUARE NORTH         ,0,0,0
+DENIS STREET                    ,0,0,0
+DEPOT PLACE                     ,0,0,0
+DESARC ROAD                     ,0,0,0
+DESMOND COURT                   ,0,0,0
+DEVOE AVENUE                    ,0,0,0
+WARSOFF PLACE                   ,0,0,0
+DEVOE TERRACE                   ,0,0,0
+DEWEY PLACE                     ,0,0,0
+DEERFIELD ROAD                  ,0,0,0
+240 STREET                      ,0,0,0
+BIVONA STREET                   ,0,0,0
+WERIFIELD STREET                ,0,0,0
+BLOSSOM AVENUE                  ,0,0,0
+DAVIES ROAD                     ,0,0,0
+DAVIS AVENUE                    ,0,0,0
+WEST 102 STREET                 ,0,0,0
+DE COSTA AVENUE                 ,0,0,0
+DE GRAW STREET                  ,0,0,0
+16 ROAD                         ,0,0,0
+WEST 1 STREET                   ,0,0,0
+WES 145 STREET                  ,0,0,0
+WENTWORTH AVENUE                ,0,0,0
+WAVERLY PLACE                   ,0,0,0
+WELLS STREET                    ,0,0,0
+WELLER LANE                     ,0,0,0
+BLONDELL AVENUE                 ,0,0,0
+BLAKE AVE                       ,0,0,0
+DEARBORN COURT                  ,0,0,0
+DEBEVOISE AVENUE                ,0,0,0
+WEBSTER AVE                     ,0,0,0
+DEBEVOISE STREET                ,0,0,0
+BLACKSTONE AVENUE               ,0,0,0
+DEWITT PLACE                    ,0,0,0
+WALTON STREET                   ,0,0,0
+COLLINS PLACE                   ,0,0,0
+169 PLACE                       ,0,0,0
+W 42 ST                         ,0,0,0
+W 32 ST                         ,0,0,0
+W 27TH ST                       ,0,0,0
+DILLON STREET                   ,0,0,0
+W 238TH ST                      ,0,0,0
+W 12 STREET                     ,0,0,0
+W 114TH ST                      ,0,0,0
+DISOSWAY PLACE                  ,0,0,0
+VISITATION PLACE                ,0,0,0
+DITMARS                         ,0,0,0
+VIRGINIA PLACE                  ,0,0,0
+BIRDSALL AVENUE                 ,0,0,0
+DITMARS STREET                  ,0,0,0
+VINCENT AVENUE                  ,0,0,0
+DIVISION PLACE                  ,0,0,0
+DIX AVENUE                      ,0,0,0
+174 PLACE                       ,0,0,0
+VICTOR STREET                   ,0,0,0
+DOANE AVENUE                    ,0,0,0
+VETERANS ROAD EAST              ,0,0,0
+174 STREET                      ,0,0,0
+W 44 STREET                     ,0,0,0
+W 47 STREET                     ,0,0,0
+W 48 STREET                     ,0,0,0
+DIGNEY AVENUE                   ,0,0,0
+DIAMOND STREET                  ,0,0,0
+DICKENS STREET                  ,0,0,0
+DICKINSON AVENUE                ,0,0,0
+WALL STREET                     ,0,0,0
+DIETERLE CRESCENT               ,0,0,0
+17 ROAD                         ,0,0,0
+WALDRON STREET                  ,0,0,0
+WALDORF COURT                   ,0,0,0
+WALDO AVENUE                    ,0,0,0
+WAKEFIELD AVENUE                ,0,0,0
+W 51ST ST                       ,0,0,0
+DIKEMAN STREET                  ,0,0,0
+WADSWORTH TERRACE               ,0,0,0
+170 PLACE                       ,0,0,0
+W/B NORTHER BLVD                ,0,0,0
+W 58 STREET                     ,0,0,0
+W 56 STREET                     ,0,0,0
+W 54 ST                         ,0,0,0
+W 53RD ST                       ,0,0,0
+W 53 ST                         ,0,0,0
+DAVID SHERIDAN PLAZA            ,0,0,0
+DASH PLACE                      ,0,0,0
+DARTMOUTH STREET                ,0,0,0
+DARREN DRIVE                    ,0,0,0
+CONCOURSE VILLAGE WEST          ,0,0,0
+WEST 198                        ,0,0,0
+WEST 197 STREET                 ,0,0,0
+CONGRESS STREET                 ,0,0,0
+WEST 192 STREET                 ,0,0,0
+CONSELYEA STREET                ,0,0,0
+WEST 189 STREET                 ,0,0,0
+COOK STREET                     ,0,0,0
+COONLEY COURT                   ,0,0,0
+CORBETT ROAD                    ,0,0,0
+CORLEAR AVENUE                  ,0,0,0
+CORNAGA COURT                   ,0,0,0
+BOUNDARY AVENUE                 ,0,0,0
+CORSA AVENUE                    ,0,0,0
+142 PLACE                       ,0,0,0
+143 ROAD                        ,0,0,0
+CORSON AVENUE                   ,0,0,0
+144 DRIVE                       ,0,0,0
+COUNTRY CLUB ROAD               ,0,0,0
+COURT SQUARE                    ,0,0,0
+BOTANICAL SQUARE                ,0,0,0
+WEST 20 STREET                  ,0,0,0
+COMSTOCK AVENUE                 ,0,0,0
+COMPTON AVENUE                  ,0,0,0
+BRIDGE STREET                   ,0,0,0
+COLON AVENUE                    ,0,0,0
+WEST 233 STREET                 ,0,0,0
+WEST 232 STREET                 ,0,0,0
+COLONIAL AVENUE                 ,0,0,0
+COLUMBIA HEIGHTS                ,0,0,0
+WEST 228 STREET                 ,0,0,0
+WEST 227 STREET                 ,0,0,0
+BRIDGETON STREET                ,0,0,0
+WEST 220 STREET                 ,0,0,0
+COLUMBUS CIRCLE                 ,0,0,0
+WEST 205 STREET                 ,0,0,0
+WEST 216 STREET                 ,0,0,0
+COLUMBUS PLACE                  ,0,0,0
+WEST 214 STREET                 ,0,0,0
+BRANDT PLACE                    ,0,0,0
+WEST 212 STREET                 ,0,0,0
+WEST 211 STREET                 ,0,0,0
+COMMERCE STREET                 ,0,0,0
+COMMONWLTH AVENUE               ,0,0,0
+WEST 206 STREET                 ,0,0,0
+145 DRIVE                       ,0,0,0
+COWEN PLACE                     ,0,0,0
+COYLE STREET                    ,0,0,0
+CURTIS PLACE                    ,0,0,0
+151 STREET                      ,0,0,0
+152 AVENUE                      ,0,0,0
+WEST 13 STREET                  ,0,0,0
+153 AVENUE                      ,0,0,0
+CRYSTAL AVENUE                  ,0,0,0
+CRYSTAL STREET                  ,0,0,0
+153 LANE                        ,0,0,0
+154 STREEET                     ,0,0,0
+CUMBERLAND STREET               ,0,0,0
+CURZON ROAD                     ,0,0,0
+CROTONA PARK SOUTH              ,0,0,0
+CUTHBERT ROAD                   ,0,0,0
+CYPRESS AVE                     ,0,0,0
+156 AVENUE                      ,0,0,0
+BODINE STREET                   ,0,0,0
+DAHLIA AVENUE                   ,0,0,0
+DALY AVENUE                     ,0,0,0
+DANIEL LOW TERRACE              ,0,0,0
+DANIELS STREET                  ,0,0,0
+BLUCKNER BLVD                   ,0,0,0
+151 AVENUE                      ,0,0,0
+150 PLACE                       ,0,0,0
+CRABTREE AVENUE                 ,0,0,0
+WEST 153 STREET                 ,0,0,0
+CRAFT AVENUE                    ,0,0,0
+CREAMER STREET                  ,0,0,0
+CRESCENT AVENUE                 ,0,0,0
+146 AVENUE                      ,0,0,0
+BOSCOBEL PLACE                  ,0,0,0
+CRESKILL PLACE                  ,0,0,0
+BOROUGH PLACE                   ,0,0,0
+146 DRIVE                       ,0,0,0
+CROMMELIN STREET                ,0,0,0
+146 ROAD                        ,0,0,0
+CROTONA PARK EAST               ,0,0,0
+CROSS BRONX EXPRESSWAY EXTENSION,0,0,0
+147 ROAD                        ,0,0,0
+WEST 145 ST BRIDGE              ,0,0,0
+148 AVENUE                      ,0,0,0
+CROSS BRONX EXPWY SERVICE ROAD  ,0,0,0
+BOLIVAR STREET                  ,0,0,0
+BOGART AVENUE                   ,0,0,0
+CROSS ISLAND PARKWAY SR         ,0,0,0
+CROSS ISLAND PKWY SERVICE RD    ,0,0,0
+WAVE STREET                     ,0,0,0
+BAY COURT                       ,0,0,0
+242 STREET                      ,0,0,0
+67 AVE                          ,0,0,0
+METRO AVENUE                    ,0,0,0
+HALL PLACE                      ,0,0,0
+HALL STREET                     ,0,0,0
+HALPIN AVENUE                   ,0,0,0
+MERSEREAU AVENUE                ,0,0,0
+MERRYMOUNT STREET               ,0,0,0
+MERRY AVENUE                    ,0,0,0
+MERRITT AVENUE                  ,0,0,0
+MERRILL STREET                  ,0,0,0
+HAMILTON AVE                    ,0,0,0
+MERLE PLACE                     ,0,0,0
+67 DRIVE                        ,0,0,0
+ARCHER ROAD                     ,0,0,0
+MERIDIAN RD                     ,0,0,0
+MEREDITH AVENUE                 ,0,0,0
+HAMILTON TERRACE                ,0,0,0
+HAMPDEN PLACE                   ,0,0,0
+MEMPHIS STREET                  ,0,0,0
+MEMPHIS AVENUE                  ,0,0,0
+MELVILLE STREET                 ,0,0,0
+MELROSE STREET                  ,0,0,0
+MELBOURNE AVENUE                ,0,0,0
+66 PLACE                        ,0,0,0
+METROPOLITAN OVAL               ,0,0,0
+METROPOLITIAN AVENUE            ,0,0,0
+MEXICO STREET                   ,0,0,0
+GREENWAY SOUTH                  ,0,0,0
+MONROE PLACE                    ,0,0,0
+MOHEGAN AVENUE                  ,0,0,0
+MINTON STREET                   ,0,0,0
+MINNA STREET                    ,0,0,0
+MINFORD PLACE                   ,0,0,0
+MILTON AVENUE                   ,0,0,0
+GREYSTONE AVENUE                ,0,0,0
+GRIMSBY STREET                  ,0,0,0
+MILL STREET                     ,0,0,0
+MILL ROAD                       ,0,0,0
+GROTE STREET                    ,0,0,0
+GUERLAIN STREET                 ,0,0,0
+GUERNSEY STREET                 ,0,0,0
+MILBURN STREET                  ,0,0,0
+GULF AVENUE                     ,0,0,0
+GUNTHER PLACE                   ,0,0,0
+MIDDLEMAY CIRCLE                ,0,0,0
+MIDDAGH STREET                  ,0,0,0
+HALE STREET                     ,0,0,0
+MEYER AVENUE                    ,0,0,0
+MEISNER AVENUE                  ,0,0,0
+HANCOCK STREEET                 ,0,0,0
+MARENGO STREET                  ,0,0,0
+HASTINGS STREET                 ,0,0,0
+MATHEWS AVENUE                  ,0,0,0
+HARRINGTON AVENUE               ,0,0,0
+MARVIN ROAD                     ,0,0,0
+MARTIN LUTHER KING JR PL        ,0,0,0
+HARRISON STREET                 ,0,0,0
+MARTHA AVENUE                   ,0,0,0
+BRUCKNER BLVD                   ,0,0,0
+MARSCHER PLACE                  ,0,0,0
+HART PLACE                      ,0,0,0
+HARVEST AVENUE                  ,0,0,0
+MARKWOOD ROAD                   ,0,0,0
+MEADOW LANE                     ,0,0,0
+MARKET STREET                   ,0,0,0
+HATFIELD PLACE                  ,0,0,0
+MARION STREET                   ,0,0,0
+HAVEN AVENUE                    ,0,0,0
+MARINERS LANE                   ,0,0,0
+MARINE WAY                      ,0,0,0
+HAWTHORNE AVENUE                ,0,0,0
+MARINE PARKWAY                  ,0,0,0
+MARINE AVENUE                   ,0,0,0
+MARINA ROAD                     ,0,0,0
+MATTHEWSON ROAD                 ,0,0,0
+HARPER AVENUE                   ,0,0,0
+MAURICE                         ,0,0,0
+MAURICE AVE                     ,0,0,0
+MEADOW LAKE DRIVE               ,0,0,0
+APOLLO STREET                   ,0,0,0
+MCGRAW AVENUE                   ,0,0,0
+MCDONALD STREET                 ,0,0,0
+HANOVER AVENUE                  ,0,0,0
+MCCORMICK PLACE                 ,0,0,0
+HANSON PLACE                    ,0,0,0
+HARDING EXPRESSWAY              ,0,0,0
+MCBAINE AVENUE                  ,0,0,0
+HARING STREET                   ,0,0,0
+MC KENNY STREET                 ,0,0,0
+MC KENNY SQUARE                 ,0,0,0
+MC KEEVER PLACE                 ,0,0,0
+67 PLACE                        ,0,0,0
+ANTHONY STREET                  ,0,0,0
+MC GUINNESS BLVD                ,0,0,0
+MC CLANCY PLACE                 ,0,0,0
+MAYFLOWER AVENUE                ,0,0,0
+HARMAN STRRET                   ,0,0,0
+HAROLD AVENUE                   ,0,0,0
+HAROLD STREET                   ,0,0,0
+MONTAGUE STREET                 ,0,0,0
+GREENWAY DRIVE                  ,0,0,0
+ARDEN AVE                       ,0,0,0
+59 ROAD                         ,0,0,0
+58 PLACE                        ,0,0,0
+GERANIUM AVENUE                 ,0,0,0
+ATLANTIC AVE                    ,0,0,0
+GERVIL STREET                   ,0,0,0
+GILLESPIE AVENUE                ,0,0,0
+GIPSON STREET                   ,0,0,0
+GLASSBORO AVENUE                ,0,0,0
+ASTORIA BLVD NORTH              ,0,0,0
+GLEBE AVENUE                    ,0,0,0
+59 PLACE                        ,0,0,0
+ASPINWALL STREET                ,0,0,0
+MONTGOMERY AVENUE               ,0,0,0
+NEPTUNE LANE                    ,0,0,0
+GLENWOOD STREET                 ,0,0,0
+NELLIS STREET                   ,0,0,0
+GOLD ROAD                       ,0,0,0
+GOODWIN PLACE                   ,0,0,0
+NAVESINK PLACE                  ,0,0,0
+NAUGHTON AVENUE                 ,0,0,0
+60 LANE                         ,0,0,0
+ASHLAND AVENUE                  ,0,0,0
+GOTHIC DRIVE                    ,0,0,0
+NEWEL STREET                    ,0,0,0
+NEWELL STREET                   ,0,0,0
+58 LANE                         ,0,0,0
+GENESEE AVENUE                  ,0,0,0
+GALLATIN PLACE                  ,0,0,0
+GALVIN AVENUE                   ,0,0,0
+NORTH 14 STREET                 ,0,0,0
+NORTH 12 STREET                 ,0,0,0
+GARDNER AVENUE                  ,0,0,0
+NORMAN STREET                   ,0,0,0
+GARFIELD AVENUE                 ,0,0,0
+NORFOLK STREET                  ,0,0,0
+GARFIELD PLACE                  ,0,0,0
+AUBURN PLACE                    ,0,0,0
+NOEL ROAD                       ,0,0,0
+NOEL AVENUE                     ,0,0,0
+NOBLE STREET                    ,0,0,0
+GATEWAY BOULEVARD               ,0,0,0
+NIPPON AVENUE                   ,0,0,0
+GAULDY AVENUE                   ,0,0,0
+NEWTOWN AVENUE                  ,0,0,0
+NEWTOWN AVE                     ,0,0,0
+NEWTON STREET                   ,0,0,0
+58 DRIVE                        ,0,0,0
+GEM STREET                      ,0,0,0
+NASSAU PLACE                    ,0,0,0
+ASH AVENUE                      ,0,0,0
+GOUVERNEUR AVENUE               ,0,0,0
+ARNOLD AVENUE                   ,0,0,0
+MOTHER GASTON AVENUE            ,0,0,0
+MOSHOLU PARKWAY EXTENSION       ,0,0,0
+62 ROAD                         ,0,0,0
+GRANITE STREET                  ,0,0,0
+GRANT AVE                       ,0,0,0
+MORTON STREET                   ,0,0,0
+GRANT AVENUE                    ,0,0,0
+MORRIS STREET                   ,0,0,0
+GRANTWOOD AVENUE                ,0,0,0
+GRATTAN STREET                  ,0,0,0
+MORNINGSIDE DRIVE               ,0,0,0
+GREENCROFT AVENUE               ,0,0,0
+MORNINGSIDE AVE                 ,0,0,0
+MORGAN PLACE                    ,0,0,0
+64 CIRCLE                       ,0,0,0
+64 PLACE                        ,0,0,0
+MOORE PLACE                     ,0,0,0
+MONTVALE PLACE                  ,0,0,0
+ARDEN STREET                    ,0,0,0
+GREENE STREET                   ,0,0,0
+GREENFIELD AVENUE               ,0,0,0
+GRANGER STREET                  ,0,0,0
+62 DR                           ,0,0,0
+GOUVERNEUR PLACE                ,0,0,0
+GRAND CENTRAL PARKWAY SERVICE RO,0,0,0
+NASHVILLE STREET                ,0,0,0
+NASHVILLE BOULEVARD             ,0,0,0
+60 ROAD                         ,0,0,0
+NARROWS AVENUE                  ,0,0,0
+NAPLES TERRACE                  ,0,0,0
+NANCY LANE                      ,0,0,0
+NAMEOKE AVENUE                  ,0,0,0
+N. CONDUIT AVE                  ,0,0,0
+N BOUNDARY RD                   ,0,0,0
+61 DRIVE                        ,0,0,0
+MUSKET STREET                   ,0,0,0
+GRAMERCY PARK NORTH             ,0,0,0
+MURIAL COURT                    ,0,0,0
+61 ROAD                         ,0,0,0
+MUNDY LANE                      ,0,0,0
+MULBERRY STREET                 ,0,0,0
+MT. OLIVER CRESCENT             ,0,0,0
+MOUNT OLIVET CRESCENT           ,0,0,0
+GRAND AV                        ,0,0,0
+62 AVENUE                       ,0,0,0
+ARNOW PLACE                     ,0,0,0
+HAWTREE CREEK ROAD              ,0,0,0
+HEANEY AVENUE                   ,0,0,0
+GALE AVENUE                     ,0,0,0
+LAHN STREET                     ,0,0,0
+HUNT AVENUE                     ,0,0,0
+LAMONT AVENUE                   ,0,0,0
+LAMOKA AVENUE                   ,0,0,0
+HUNTER STREET                   ,0,0,0
+HUNTERFLY PLACE                 ,0,0,0
+HUNTINGTON AVENUE               ,0,0,0
+HUNTINGTON STREET               ,0,0,0
+ALASKA STREET                   ,0,0,0
+HURST STREET                    ,0,0,0
+LAIGHT STREET                   ,0,0,0
+HUSSON AVENUE                   ,0,0,0
+8TH AVE                         ,0,0,0
+HUSSON STREET                   ,0,0,0
+LAFONTAINE AVENUE               ,0,0,0
+ALANTIC AVE                     ,0,0,0
+88 LANE                         ,0,0,0
+89 SAINT NICHOLAS PLACE         ,0,0,0
+HUTCHINSON RIVER PARKWAY EAST   ,0,0,0
+HUXLEY AVENUE                   ,0,0,0
+L.I.E / G.C.P (CDR)             ,0,0,0
+KRAMER STREET                   ,0,0,0
+KOSSUTH PLACE                   ,0,0,0
+LANCASTER AVENUE                ,0,0,0
+LANDING ROAD                    ,0,0,0
+LANSING AVENUE                  ,0,0,0
+LASALLE STREET                  ,0,0,0
+LENOX AVE                       ,0,0,0
+HOWARD STREET                   ,0,0,0
+LEGION STREET                   ,0,0,0
+LEFFERTS PLACE                  ,0,0,0
+86 CRESCENT                     ,0,0,0
+LEFFERTS BLVD                   ,0,0,0
+HUBBARD PLACE                   ,0,0,0
+HUDSON AVENUE                   ,0,0,0
+LEBANON STREET                  ,0,0,0
+HUE GRANT J CIRCLE              ,0,0,0
+LAYTON STREET                   ,0,0,0
+LAX AVENUE                      ,0,0,0
+HUGH J GRANT CIRCLE             ,0,0,0
+HUGHES AVENUE                   ,0,0,0
+HULL AVENUE                     ,0,0,0
+LAURIE AVENUE                   ,0,0,0
+87 DRIVE                        ,0,0,0
+LAUREL HILL TERRACE             ,0,0,0
+ALBEE AVENUE                    ,0,0,0
+HUNGRY HARBOR ROAD              ,0,0,0
+LATIMER PLACE                   ,0,0,0
+KOSSUTH AVENUE                  ,0,0,0
+KOSCIUSKO BRIDGE                ,0,0,0
+ANDERSON ROAD                   ,0,0,0
+JASMINE AVENUE                  ,0,0,0
+97 PLACE                        ,0,0,0
+JACKSON MILL ROAD               ,0,0,0
+KELL AVENUE                     ,0,0,0
+KEEGANS LANE                    ,0,0,0
+JACOBUS PLACE                   ,0,0,0
+JAKE COURT                      ,0,0,0
+JAMAICA AVE                     ,0,0,0
+JAMES STREET                    ,0,0,0
+KANE STREET                     ,0,0,0
+KALMIA AVENUE                   ,0,0,0
+JEANETTE AVENUE                 ,0,0,0
+AGUILAR AVENUE                  ,0,0,0
+97TH AVENUE                     ,0,0,0
+JEROME AVE                      ,0,0,0
+JUMEL PLACE                     ,0,0,0
+ABERDEEN STREET                 ,0,0,0
+JUDGE STREET                    ,0,0,0
+JORDAN AVENUE                   ,0,0,0
+AARON LANE                      ,0,0,0
+9TH AVE                         ,0,0,0
+JEWEL STREET                    ,0,0,0
+99 PLACE                        ,0,0,0
+KENILWORTH AVENUE               ,0,0,0
+94 ROAD                         ,0,0,0
+ADAMS AVENUE                    ,0,0,0
+JACKIE ROBINSON PARKWAY         ,0,0,0
+HYMEN COURT                     ,0,0,0
+KNOX PLACE                      ,0,0,0
+90 ROAD                         ,0,0,0
+INDEPENDENCE AVENUE             ,0,0,0
+92ND STREET                     ,0,0,0
+93 ROAD                         ,0,0,0
+AGNES PLACE                     ,0,0,0
+KINGSBRIDGE TERRACE             ,0,0,0
+ADELPHI STREET                  ,0,0,0
+KINGS PLACE                     ,0,0,0
+KINGS COLLEGE PLACE             ,0,0,0
+KING STREET                     ,0,0,0
+KING ROAD                       ,0,0,0
+KIMBERLY PLACE                  ,0,0,0
+ITHACA STREET                   ,0,0,0
+KIISSENA BLVD                   ,0,0,0
+ITTNER PLACE                    ,0,0,0
+KEW FOREST LANE                 ,0,0,0
+KESSEL STREET                   ,0,0,0
+KERMIT PLACE                    ,0,0,0
+KENT STREET                     ,0,0,0
+HOUSTON STREET                  ,0,0,0
+85 DRIVE                        ,0,0,0
+LENOX TERRACE PLACE             ,0,0,0
+ALTANTIC AVENUE                 ,0,0,0
+72 PLACE                        ,0,0,0
+72 ROAD                         ,0,0,0
+HESTER STREET                   ,0,0,0
+MADISON AVE                     ,0,0,0
+HEWITT PLACE                    ,0,0,0
+HEWLETT STREET                  ,0,0,0
+75 ROAD                         ,0,0,0
+HEYWARD STREET                  ,0,0,0
+AMADOR STREET                   ,0,0,0
+MAC DOUGAL STREET               ,0,0,0
+LYON AVENUE                     ,0,0,0
+HOUSEMAN AVENUE                 ,0,0,0
+LYNCH STREET                    ,0,0,0
+HIGHLAND BOULEVARD EAST         ,0,0,0
+LUTHERAN AVENUE                 ,0,0,0
+LURTING AVENUE                  ,0,0,0
+LUQUER STREET                   ,0,0,0
+LUDWIG LANE                     ,0,0,0
+LUDLUM AVENUE                   ,0,0,0
+HILBURN AVENUE                  ,0,0,0
+LUCAS STREET                    ,0,0,0
+LOWELL STREET                   ,0,0,0
+HERMANY AVENUE                  ,0,0,0
+HENWOOD PLACE                   ,0,0,0
+HENSHAW STREET                  ,0,0,0
+71 ROAD                         ,0,0,0
+68 PLACE                        ,0,0,0
+MARCUS GARVEY BLVD              ,0,0,0
+MARCONI STREET                  ,0,0,0
+MARAN PLACE                     ,0,0,0
+AMUNDSON AVENUE                 ,0,0,0
+68 STREET AND BAY PARKWAY       ,0,0,0
+MANTON STREET                   ,0,0,0
+MANSION STREET                  ,0,0,0
+MANSION AVENUE                  ,0,0,0
+MANSE STREET                    ,0,0,0
+HENNESSEY PLACE                 ,0,0,0
+MANIDA STREET                   ,0,0,0
+MANHATTAN COLLEGE PARKWAY       ,0,0,0
+7 AVE                           ,0,0,0
+HENRY HUDSON PARKWAY EAST       ,0,0,0
+70 AVENUE                       ,0,0,0
+MANHATTAN                       ,0,0,0
+AMITY STREET                    ,0,0,0
+HENRY HUDSON PARKWAY S          ,0,0,0
+MALCOM X BLVD                   ,0,0,0
+MALCOLM X BLVD                  ,0,0,0
+LOW TERRACE                     ,0,0,0
+LOUISIANA AVE & VANDALIA        ,0,0,0
+LOUIS PLACE                     ,0,0,0
+LITTLE WEST 12 STREET           ,0,0,0
+LION STREET                     ,0,0,0
+81 ROAD                         ,0,0,0
+82 DRIVE                        ,0,0,0
+LINDBERGH AVENUE                ,0,0,0
+LINCOLN ROAD                    ,0,0,0
+HOOKER PLACE                    ,0,0,0
+82 ROAD                         ,0,0,0
+83 AVENUE                       ,0,0,0
+ALDUS STREET                    ,0,0,0
+HORACE HARDING EXPWAY           ,0,0,0
+HORACE HARDING EXPWY            ,0,0,0
+LIE                             ,0,0,0
+HORATIO STREET                  ,0,0,0
+84 AVENUE                       ,0,0,0
+HORIZON LANE                    ,0,0,0
+HORRACE HARDING EXPRESSWAY      ,0,0,0
+LEWIS PLACE                     ,0,0,0
+HORTON AVENUE                   ,0,0,0
+HOSMER AVENUE                   ,0,0,0
+LEROY STREET                    ,0,0,0
+84 ROAD                         ,0,0,0
+HOLLY STREET                    ,0,0,0
+HOLLIS HILLS TERRACE            ,0,0,0
+HILLMAN AVENUE                  ,0,0,0
+ALLEN AVENUE                    ,0,0,0
+LOTT STREET                     ,0,0,0
+76 ROAD                         ,0,0,0
+LOTT AVE                        ,0,0,0
+ALSTYNE AVENUE                  ,0,0,0
+ALMEDA AVENUE                   ,0,0,0
+ALLISON AVENUE                  ,0,0,0
+HITCHCOCK AVENUE                ,0,0,0
+LONGSTREET AVENUE               ,0,0,0
+HOBART STREET                   ,0,0,0
+ALLEY PARK                      ,0,0,0
+HOFFMAN DRIVE                   ,0,0,0
+78 ROAD                         ,0,0,0
+HOGAN PLACE                     ,0,0,0
+79 AVENUE                       ,0,0,0
+HOLLERS AVENUE                  ,0,0,0
+LOCUST STREET                   ,0,0,0
+LOCUST AVENUE                   ,0,0,0
+LOCKE STREET                    ,0,0,0
+ALLENDALE STREET                ,0,0,0
+LLOYD STREET                    ,0,0,0
+79 LANE                         ,0,0,0
+NORTH 5 STREET                  ,0,0,0
+AUBURNDALE LANE                 ,0,0,0
+BEACH 40 STREET                 ,0,0,0
+RIO DRIVE                       ,0,0,0
+ROBIN LANE                      ,0,0,0
+BASSFORD AVENUE                 ,0,0,0
+EATON PLACE                     ,0,0,0
+ECHO PLACE                      ,0,0,0
+RIVINGTON AVENUE                ,0,0,0
+RIVERTON STREET                 ,0,0,0
+29 ROAD                         ,0,0,0
+RIVERSIDE BOULEVARD             ,0,0,0
+ECKFORD AVENUE                  ,0,0,0
+ECKFORD STREET                  ,0,0,0
+ED KOCH BRIDGE                  ,0,0,0
+EDINBORO ROAD                   ,0,0,0
+RIEDEL AVENUE                   ,0,0,0
+RIDGEWOOD PLACE                 ,0,0,0
+RIDGECREST AVENUE               ,0,0,0
+RIDGE STREET                    ,0,0,0
+BASSETT AVENUE                  ,0,0,0
+BARUCH DRIVE                    ,0,0,0
+EDGEGROVE AVENUE                ,0,0,0
+EDGERTON BOULEVARD              ,0,0,0
+EDGEWATER ROAD                  ,0,0,0
+EDGEWATER STREET                ,0,0,0
+BATH AVE                        ,0,0,0
+ROCHAMBEAU AVENUE               ,0,0,0
+29 AVENUE                       ,0,0,0
+28 ROAD                         ,0,0,0
+BAY 28 STREET                   ,0,0,0
+ROSEBANK PLACE                  ,0,0,0
+ROSE AVENUE                     ,0,0,0
+ROOSEVELT DRIVE                 ,0,0,0
+BAY 20 STREET                   ,0,0,0
+ROME DRIVE                      ,0,0,0
+ROME AVENUE                     ,0,0,0
+BAY 20                          ,0,0,0
+ROFF STREET                     ,0,0,0
+BAY 14 STREET                   ,0,0,0
+ROEBLING                        ,0,0,0
+RODMAN PLACE                    ,0,0,0
+ROCKWOOD STREET                 ,0,0,0
+ROCKWELL PLACE                  ,0,0,0
+266 STREET                      ,0,0,0
+EAST HAMPTON BOULEVARD          ,0,0,0
+267 STREET                      ,0,0,0
+BAXTER STREET                   ,0,0,0
+EAST MOSHOLU PARKWAY NORTH      ,0,0,0
+BATTERY PLACE                   ,0,0,0
+271 STREET                      ,0,0,0
+RICHMAN PLAZA                   ,0,0,0
+EDSALL AVENUE                   ,0,0,0
+ERASMUS STREET                  ,0,0,0
+QUINTARD STREET                 ,0,0,0
+RAYMOND PLACE                   ,0,0,0
+ELLWELL CRESCENT                ,0,0,0
+RARITAN AVENUE                  ,0,0,0
+RAPELYE STREET                  ,0,0,0
+RANDOLPH STREET                 ,0,0,0
+33 ROAD                         ,0,0,0
+RADNOR STREET                   ,0,0,0
+RADNOR ROAD                     ,0,0,0
+ELSMERE PLACE                   ,0,0,0
+BARRY STREET                    ,0,0,0
+EMERALD STREET                  ,0,0,0
+EDWARD L GRANT HIGHWAY          ,0,0,0
+EMERSON PLACE                   ,0,0,0
+EMMET AVENUE                    ,0,0,0
+QUINCE AVENUE                   ,0,0,0
+BARROW STREET                   ,0,0,0
+EMPIRE AVENUE                   ,0,0,0
+36 ROAD                         ,0,0,0
+ENGERT AVENUE                   ,0,0,0
+QUEENSBORO BRIDGE OUTER ROADWAY ,0,0,0
+ENRIGHT ROAD                    ,0,0,0
+EPSOM COURSE                    ,0,0,0
+READS LANE                      ,0,0,0
+RECTOR STREET                   ,0,0,0
+REDFERN AVENUE                  ,0,0,0
+REED STREET                     ,0,0,0
+EGAN STREET                     ,0,0,0
+REYNOLDS AVENUE                 ,0,0,0
+REVIEW PLACE                    ,0,0,0
+31 PLACE                        ,0,0,0
+REVERE PLACE                    ,0,0,0
+REV. JAMES POLITE AVENUE        ,0,0,0
+REV JAMES POLITE AVENUE         ,0,0,0
+ELBERTSON STREET                ,0,0,0
+RETFORD AVENUE                  ,0,0,0
+RESERVOIR OVAL WEST             ,0,0,0
+RESERVOIR OVAL EAST             ,0,0,0
+ELDER AVENUE                    ,0,0,0
+ELDERT STREET                   ,0,0,0
+RENWICK AVENUE                  ,0,0,0
+REMSEN STREET                   ,0,0,0
+BARTLETT STREET                 ,0,0,0
+ELGAR PLACE                     ,0,0,0
+BARTLETT AVENUE                 ,0,0,0
+ELIZABETH AVENUE                ,0,0,0
+REGINA AVENUE                   ,0,0,0
+ELLSWORTH AVE                   ,0,0,0
+ROSS STREET                     ,0,0,0
+ROSWELL AVENUE                  ,0,0,0
+ROWLAND STREET                  ,0,0,0
+SCRIBNER AVENUE                 ,0,0,0
+SECOND AVENUE                   ,0,0,0
+BEACH 129 STREET                ,0,0,0
+BEACH 12 STREET                 ,0,0,0
+250 STREET                      ,0,0,0
+BEACH 119 STREET                ,0,0,0
+BEACH 116 STREET                ,0,0,0
+SEABURY PLACE                   ,0,0,0
+BEACH 114 STREET                ,0,0,0
+SEABRING STREET                 ,0,0,0
+SEA BREEZE AVENUE               ,0,0,0
+BEACH 112 STREET                ,0,0,0
+ROYCE PLACE                     ,0,0,0
+SCHUYLER STREET                 ,0,0,0
+SCHURZ AVENUE                   ,0,0,0
+SCHROEDERS AVE                  ,0,0,0
+251 STREET                      ,0,0,0
+SCHMIDTS LANE                   ,0,0,0
+SCHLEY AVENUE                   ,0,0,0
+SCHIEFELIN PLACE                ,0,0,0
+BEACH 109 STREET                ,0,0,0
+252 STREET                      ,0,0,0
+BEACH 105 STREET                ,0,0,0
+SECOR AVENUE                    ,0,0,0
+SEDGWICK AVE                    ,0,0,0
+BEACH 133 STREET                ,0,0,0
+SEGUINE AVENUE                  ,0,0,0
+BEACH 37 STREET                 ,0,0,0
+245 STREET                      ,0,0,0
+SHELDON AVENUE                  ,0,0,0
+SHEFFIELD AVENUE                ,0,0,0
+BEACH 3 STREET                  ,0,0,0
+EAST 238 STREET                 ,0,0,0
+EAST 242 STREET                 ,0,0,0
+SHARROTTS ROAD                  ,0,0,0
+BEACH 26 STREET                 ,0,0,0
+SHALER AVENUE                   ,0,0,0
+247 STREET                      ,0,0,0
+BEACH 22 STREET                 ,0,0,0
+EAST 31 STREET                  ,0,0,0
+SETON PLACE                     ,0,0,0
+25 DRIVE                        ,0,0,0
+SENATOR STREET                  ,0,0,0
+BEACH 17 STREET                 ,0,0,0
+SELOVER ROAD                    ,0,0,0
+SELFRIDGE STREET                ,0,0,0
+BEACH 16 STREET                 ,0,0,0
+SEGUINE PLACE                   ,0,0,0
+SCHENCK STREET                  ,0,0,0
+SCHENCK COURT                   ,0,0,0
+BEACH 101 STREET                ,0,0,0
+SAINT FELIX STREET              ,0,0,0
+BAY 52 STREET                   ,0,0,0
+26 STREET                       ,0,0,0
+SAINT ALBANS PLACE              ,0,0,0
+SAGAMORE AVENUE                 ,0,0,0
+BAY 50 STREET                   ,0,0,0
+SACKET AVENUE                   ,0,0,0
+SABLE AVENUE                    ,0,0,0
+RYERSON STREET                  ,0,0,0
+BAY 48 STREET                   ,0,0,0
+RYDER AVENUE                    ,0,0,0
+RYAWA AVENUE                    ,0,0,0
+RYAN COURT                      ,0,0,0
+BAY 46 STREET                   ,0,0,0
+RUTLEDGE AVENUE                 ,0,0,0
+RUTHERFORD PLACE                ,0,0,0
+BAY 43 STREET                   ,0,0,0
+RUST AVENUE                     ,0,0,0
+RUSSELL STREET                  ,0,0,0
+RUSSEK DRIVE                    ,0,0,0
+RUPPERT PLACE                   ,0,0,0
+RUBY STREET                     ,0,0,0
+SAINT FELIX AVENUE              ,0,0,0
+SAINT FRANCIS PLACE             ,0,0,0
+BEACH 100 STREET                ,0,0,0
+SAINT JOHN AVENUE               ,0,0,0
+BAYSIDE LANE                    ,0,0,0
+BAYSIDE AVENUE                  ,0,0,0
+EAST 58TH ST                    ,0,0,0
+256 STREET                      ,0,0,0
+BAYFIELD AVENUE                 ,0,0,0
+SANDS PLACE                     ,0,0,0
+SANDFORD STREET                 ,0,0,0
+258 STREET                      ,0,0,0
+BAYARD STREET                   ,0,0,0
+BAY VIEW AVENUE                 ,0,0,0
+SAINT RAYMOND AVENUE            ,0,0,0
+SAINT PAULS PLACE               ,0,0,0
+BAY RIDGE PKWY                  ,0,0,0
+SAINT PAUL AVENUE               ,0,0,0
+SAINT NICHOLAS TERRACE          ,0,0,0
+SAINT NICHOLAS PLACE            ,0,0,0
+EAST 6TH STREET                 ,0,0,0
+26 AVE                          ,0,0,0
+BAY 7 STREET                    ,0,0,0
+SAINT LUKES PLACE               ,0,0,0
+26 ROAD                         ,0,0,0
+37 ROAD                         ,0,0,0
+ERICSON PLACE                   ,0,0,0
+NORTH 8 STREET                  ,0,0,0
+PAERDEGAT 12 STREET             ,0,0,0
+BADEN PLACE                     ,0,0,0
+BABBAGE STREET                  ,0,0,0
+PALMER AVENUE                   ,0,0,0
+PALISADE PLACE                  ,0,0,0
+PALADINO AVENUE                 ,0,0,0
+PAGE PLACE                      ,0,0,0
+FOREST PARK DRIVE EAST          ,0,0,0
+PAERDEGAT AVENUE NORTH          ,0,0,0
+PAERDEGAT 7 STREET              ,0,0,0
+PAERDEGAT 3 STREET              ,0,0,0
+FOREST PARK DRIVE WEST          ,0,0,0
+FOSTER AVE                      ,0,0,0
+FORREST STREET                  ,0,0,0
+OTTO ROAD                       ,0,0,0
+FORT INDEPENDENCE STREET        ,0,0,0
+FORT PLACE                      ,0,0,0
+AVON STREET                     ,0,0,0
+OSBORNE PLACE                   ,0,0,0
+ORIENTAL BOULEVARD              ,0,0,0
+ORCHARD STREET                  ,0,0,0
+54 ROAD                         ,0,0,0
+ORANGE STREET                   ,0,0,0
+53 PLACE                        ,0,0,0
+PARK AVEUNE                     ,0,0,0
+FOREST AVE                      ,0,0,0
+FORD STREET                     ,0,0,0
+FLATLANDS AVE                   ,0,0,0
+PATTERSON AVENUE                ,0,0,0
+BAKER AVENUE                    ,0,0,0
+FLEET PLACE                     ,0,0,0
+51 ROAD                         ,0,0,0
+PARSONS BLVD                    ,0,0,0
+PARKVIEW TERRACE                ,0,0,0
+PARKVIEW AVENUE                 ,0,0,0
+BAISLEY AVENUE                  ,0,0,0
+52 AVENUE                       ,0,0,0
+PARKINSON AVENUE                ,0,0,0
+PARKER STREET                   ,0,0,0
+PARKCHESTER ROAD                ,0,0,0
+PARK TERRACE WEST               ,0,0,0
+FOAM PLACE                      ,0,0,0
+52 DRIVE                        ,0,0,0
+52 ROAD                         ,0,0,0
+PARK LANE                       ,0,0,0
+PARK HILL LANE                  ,0,0,0
+PARK HILL CIRCLE                ,0,0,0
+FOOD CENTER DRIVE               ,0,0,0
+ORANGE AVENUE                   ,0,0,0
+AVIATION ROAD                   ,0,0,0
+QUEENS STREET                   ,0,0,0
+NORTHERN BLVD                   ,0,0,0
+FRIEL PLACE                     ,0,0,0
+OAK PARK DRIVE                  ,0,0,0
+OAK AVENUE                      ,0,0,0
+FRISCO AVENUE                   ,0,0,0
+NUNLEY COURT                    ,0,0,0
+56 DRIVE                        ,0,0,0
+NORWAY AVENUE                   ,0,0,0
+FROST STREET                    ,0,0,0
+FTELEY AVENUE                   ,0,0,0
+57 DRIVE                        ,0,0,0
+NORTH STREET                    ,0,0,0
+OLYMPIA BOULEVARD               ,0,0,0
+NORTH SAINT AUSTINS PLACE       ,0,0,0
+FULLER PLACE                    ,0,0,0
+NORTH OXFORD STREET             ,0,0,0
+NORTH MOORE STREET              ,0,0,0
+NORTH HENRY STREET              ,0,0,0
+FURMAN AVENUE                   ,0,0,0
+G.C.P. / C.I.P. (CDR)           ,0,0,0
+NORTH CHANNEL BRIDGE            ,0,0,0
+AUDLEY STREET                   ,0,0,0
+NORTH 9 STREET                  ,0,0,0
+OAK STREET                      ,0,0,0
+OAK TERRACE                     ,0,0,0
+OAK TREE PLACE                  ,0,0,0
+AUSTIN PLACE                    ,0,0,0
+OLMSTEAD DRIVE                  ,0,0,0
+FOUNTAIN AVE                    ,0,0,0
+OLIVER STREET                   ,0,0,0
+OLIVE STREET                    ,0,0,0
+FOWLER AVENUE                   ,0,0,0
+FOX HILL TERRACE                ,0,0,0
+FRAME PLACE                     ,0,0,0
+OLD NEW UTRECHT ROAD            ,0,0,0
+AVENUE OF PEACE                 ,0,0,0
+OLD KINGSBRIDGE ROAD            ,0,0,0
+FRANKFORT STREET                ,0,0,0
+OLD FULTON                      ,0,0,0
+OLD AMBOY ROAD                  ,0,0,0
+OGORMAN AVENUE                  ,0,0,0
+FRANKLIN D ROOSEVELT DRIVE      ,0,0,0
+FRANKLIN PLACE                  ,0,0,0
+55 ROAD                         ,0,0,0
+FRAWLEY CIRCLE                  ,0,0,0
+FREEDOM PLACE                   ,0,0,0
+FREMONT AVENUE                  ,0,0,0
+OAKLAND PLACE                   ,0,0,0
+FLATLANDS 3 STREET              ,0,0,0
+PAYSON AVENUE                   ,0,0,0
+49 PLACE                        ,0,0,0
+POWERS AVENUE                   ,0,0,0
+EXIT 21B                        ,0,0,0
+PROSPECT COURT                  ,0,0,0
+44 ROAD                         ,0,0,0
+BARKER AVENUE                   ,0,0,0
+EXTERIOR STREET AND WEST 225ST  ,0,0,0
+FAHY AVENUE                     ,0,0,0
+FAIRBANKS AVENUE                ,0,0,0
+PRATT AVENUE                    ,0,0,0
+FAIRFIELD STREET                ,0,0,0
+POWERS STREET                   ,0,0,0
+POWELLS COVE BOULEVARD          ,0,0,0
+FLATLANDS 1 STREET              ,0,0,0
+POWELL AVENUE                   ,0,0,0
+45 DRIVE                        ,0,0,0
+PORTAL STREET                   ,0,0,0
+FAIRVIEW PLACE                  ,0,0,0
+FANCHON PLACE                   ,0,0,0
+POPPENHUSEN AVENUE              ,0,0,0
+POPLE AVENUE                    ,0,0,0
+POPHAM AVENUE                   ,0,0,0
+FAR ROCKAWAY BOULEVARD          ,0,0,0
+PONTIAC PLACE                   ,0,0,0
+EVERITT PLACE                   ,0,0,0
+42 ROAD                         ,0,0,0
+BARKER STREET                   ,0,0,0
+42 PLACE                        ,0,0,0
+38TH AVE                        ,0,0,0
+39 PLACE                        ,0,0,0
+QUEENS PLAZA                    ,0,0,0
+QUEENS MIDTOWN TUNNEL EXIT      ,0,0,0
+39 ROAD                         ,0,0,0
+ERICSSON PLACE                  ,0,0,0
+ERICSSON STREET                 ,0,0,0
+4 AVE                           ,0,0,0
+QUEENS BLVD                     ,0,0,0
+QUEEN STREET                    ,0,0,0
+QUARRY ROAD                     ,0,0,0
+ES KOCH BRIDGE                  ,0,0,0
+4 PLACE                         ,0,0,0
+PURITAN AVENUE                  ,0,0,0
+PURDY STREET                    ,0,0,0
+PURDY AVENUE                    ,0,0,0
+EST 42 STREET                   ,0,0,0
+BARKLEY AVENUE                  ,0,0,0
+EUNICE PLACE                    ,0,0,0
+EVELETH ROAD                    ,0,0,0
+EVERDELL AVENUE                 ,0,0,0
+POND PLACE                      ,0,0,0
+POMPEY AVENUE                   ,0,0,0
+FARRAGUT AVENUE                 ,0,0,0
+PIAVE AVENUE                    ,0,0,0
+PETTIT AVENUE                   ,0,0,0
+PETERCA PLACE                   ,0,0,0
+PETER MINUIT PLAZA              ,0,0,0
+PERRY STREET                    ,0,0,0
+FILLMORE STREET                 ,0,0,0
+PEROT STREET                    ,0,0,0
+PERIMETER RD                    ,0,0,0
+FINEST AVENUE                   ,0,0,0
+FINLAY STREET                   ,0,0,0
+FIRST AVENUE                    ,0,0,0
+FISHER AVENUE                   ,0,0,0
+FITCHETT STREET                 ,0,0,0
+47 ROAD                         ,0,0,0
+FLATBUSH AVE                    ,0,0,0
+49 LANE                         ,0,0,0
+BALTIC STREET                   ,0,0,0
+PECK SLIP                       ,0,0,0
+PECK AVENUE                     ,0,0,0
+PEARTREE AVENUE                 ,0,0,0
+PEARSON STREET                  ,0,0,0
+PEARSON PLACE                   ,0,0,0
+PHELAN PLACE                    ,0,0,0
+46 ROAD                         ,0,0,0
+PLYMOUTH AVENUE                 ,0,0,0
+PIEDMONT AVENUE                 ,0,0,0
+PLUMB 1 STREET                  ,0,0,0
+FARRAGUT PLACE                  ,0,0,0
+FARRINGTON AVENUE               ,0,0,0
+BANKER STREET                   ,0,0,0
+BANK STREET                     ,0,0,0
+FENIMORE STREET                 ,0,0,0
+PLATTWOOD AVENUE                ,0,0,0
+PLATT STREET                    ,0,0,0
+FERN PLACE                      ,0,0,0
+PLAINVIEW AVENUE                ,0,0,0
+FERNDALE AVENUE                 ,0,0,0
+45 ROAD                         ,0,0,0
+FERNSIDE PLACE                  ,0,0,0
+PINSON STREET                   ,0,0,0
+PINEVILLE LANE                  ,0,0,0
+PINEHURST AVENUE                ,0,0,0
+FERRIS PLACE                    ,0,0,0
+FIELD PLACE                     ,0,0,0
+PIKE SLIP                       ,0,0,0
+PIERREPONT STREET               ,0,0,0
+FIELDSTON ROAD                  ,0,0,0
+MARTENSE STREET                 ,0,0,0
