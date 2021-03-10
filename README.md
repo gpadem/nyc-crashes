@@ -3,10 +3,15 @@
 This project outcome belongs to **Gülce Padem** who is currently a junior Data Scientist/AI Operator in making at BeCode's Theano 2.27 promotion.
 
 **Repository:** nyc-crashes
+
 **Type of Challenge:** Consolidation
+
 **Duration:** 2 days
+
 **Deadline:** 10/03/2021 05:00 PM
+
 **Deployment strategy:** Github page
+
 **Team challenge:** solo
 
 ## Mission objectives
