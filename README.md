@@ -27,16 +27,24 @@ Bill de Blasio, mayor of New York City, is in a bit of a pickle. Indeed, his pol
 * Pending things to do
 * Collaboration
 
-#### Installation
+### Installation
 
-#### Repository
+In this project conda package manager was used. Needed packages are the following (see the parantheses for the command to install with conda):
+
+* numpy (conda install -c conda-forge numpy)
+* pandas (conda install -c conda-forge pandas)
+* matplotlib (conda install -c conda-forge matplotlib)
+
+Jupyter Notebook was installed and launched from the Conda navigator activated in the working environment.
+
+### Repository
 
 There are two branches under the repository.
 
 * main
 * development
 
-##### Main Branch
+#### Main Branch
 
 The structure:
 
@@ -61,19 +69,19 @@ This file is to ignore the notebook checkpoints.
 **graph_nyc_crashes_streets.png:**
 Image of the graph that shows the 20 most dangerous streets in New York.
 
-##### Development Branch
+#### Development Branch
 
 **nyc-crashes.ipynb:**
 This Jupyter notebook is the first notebook to examine the dataset in its general. Different methods are tried to see what kind of approached can be followed to reach a meaningful dataset. It is still a work in progress. This notebook is only recommended to look at if one wants to see different approaches and develop them further.
 
-#### Visual
+### Visual
 
 ![The 20 most dangerous streets in New York](graph_nyc_crashes_streets.png)
 
-#### Pending things to do
+### Pending things to do
 
 To achieve a cleaner dataset, only the on street names were used as an indicator of the streets where an accident happened. Not every element had this value in the dataset, hence a lot of information was discarded. However, there are different possibilities to have a street name value for every element. All the elements have coordinates in the dataset. This very valuable because it is possible to extract a streetname with the use of an API for every accident in the dataset. This way we can reach a much cleaner and reliable dataset. Since this operation is time consuming and the project had a rather short time frame this objective will be achieved later on.
 
-#### Collaboration
+### Collaboration
 
 This project is open to collaborations as well as forking or cloning for further development.
