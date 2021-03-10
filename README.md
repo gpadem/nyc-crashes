@@ -62,21 +62,21 @@ The structure:
 `README.md`
 You are reading it now. It is important to read the whole file before forking or cloning.
 
-`**data_clean_GOOD_ENOUGH.csv`
-This file is a good enough cleaned version of the original dataset that was received. This file gives a rough information about the most dangerous streets of New York. A lot of missing values were discarded to get to this version of the dataset. Hence, the accuracy is not very high. However, this cleaned dataset still gives a good indication of the most dangerous streets. To decide which streets are the most dangerous, number of people who were injured and number of people who were killed were used as indicators.
+`data_clean_GOOD_ENOUGH.csv`
+This file is a good enough cleaned version of an example dataset consisting of 100000 rows from the original dataset that was received. This file gives a rough information about the most dangerous streets of New York. A lot of missing values were discarded to get to this version of the dataset. Hence, the accuracy is not very high. However, this cleaned dataset still gives a good indication of the most dangerous streets. To decide which streets are the most dangerous, number of people who were injured and number of people who were killed were used as indicators.
 
-**data_clean_GOOD_ENOUGH.ipynb:**
+`data_clean_GOOD_ENOUGH.ipynb`
 This Jupyter notebook is where the results of each step of the code to deduct a cleaner dataset is visible. If you would like to inspect more on the outcomes of the different parts of the code, I recommend the use of the notebook.
 
-**.gitignore:**
+`.gitignore`
 This file is to ignore the notebook checkpoints.
 
-**graph_nyc_crashes_streets.png:**
+`graph_nyc_crashes_streets.png`
 Image of the graph that shows the 20 most dangerous streets in New York.
 
 #### Development Branch
 
-**nyc-crashes.ipynb:**
+`nyc-crashes.ipynb`
 This Jupyter notebook is the first notebook to examine the dataset in its general. Different methods are tried to see what kind of approaches can be followed to reach a meaningful dataset. It is still a work in progress. This notebook is only recommended to look at if one wants to see the different approaches and develop them further.
 
 ### Visual
@@ -88,6 +88,8 @@ This Jupyter notebook is the first notebook to examine the dataset in its genera
 To achieve a cleaner dataset, only the on street names were used as an indicator of the streets where an accident happened. Not every element had this value in the dataset, hence a lot of information was discarded. However, there are different possibilities to have a street name value for every element. All the elements have coordinates in the dataset. This is very valuable because it is possible to extract a streetname with the use of an API for every accident in the dataset. This way we can reach a much cleaner and reliable dataset. Since this operation is time consuming and the project had a rather short time frame, this objective will be achieved later on.
 
 The dataset gives insight about used vehicles in an accident such as cars, bikes or motorbikes. This information is also valuable because we can determine the danger situation for these different vehicles as well as pedestrians.
+
+Until now only a selected part (100000 rows) of the whole dataset was used. To get a better and more accurate understanding, all of the original dataset will be used.
 
 ### Collaboration
 
